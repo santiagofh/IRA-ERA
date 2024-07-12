@@ -1,0 +1,1561 @@
+,GLOSATIPOESTABLECIMIENTO,semana,IdCausa,Causa,Total,Menores_1,De_1_a_4,De_5_a_14,De_15_a_64,De_65_y_mas
+0,Hospital,1,1,Atenciones de urgencia - Total,33418,2755,5739,5729,13787,5408
+1,Hospital,1,2,Atenciones de urgencia - Total Respiratorios,3435,723,1188,552,608,364
+2,Hospital,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),512,176,216,39,51,30
+3,Hospital,1,4,Atenciones de urgencia - Influenza (J09-J11),22,2,4,11,2,3
+4,Hospital,1,5,Atenciones de urgencia - Neumonía (J12-J18),302,20,58,15,74,135
+5,Hospital,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",451,49,82,54,171,95
+6,Hospital,1,7,Hospitalizaciones - Sistema Respiratorio,238,32,34,16,67,89
+7,Hospital,1,10,Atenciones de urgencia - IRA Alta (J00-J06),1911,444,769,407,248,43
+8,Hospital,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),237,32,59,26,62,58
+9,Hospital,1,25,Hospitalizaciones - Total,3089,196,177,261,1404,1051
+10,Hospital,2,1,Atenciones de urgencia - Total,28266,2134,4725,4894,11701,4812
+11,Hospital,2,2,Atenciones de urgencia - Total Respiratorios,2766,565,931,469,484,317
+12,Hospital,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),431,137,175,43,52,24
+13,Hospital,2,4,Atenciones de urgencia - Influenza (J09-J11),7,1,1,1,2,2
+14,Hospital,2,5,Atenciones de urgencia - Neumonía (J12-J18),261,17,40,13,66,125
+15,Hospital,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",384,47,77,74,121,65
+16,Hospital,2,7,Hospitalizaciones - Sistema Respiratorio,237,43,30,16,59,89
+17,Hospital,2,10,Atenciones de urgencia - IRA Alta (J00-J06),1495,337,604,313,196,45
+18,Hospital,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),188,26,34,25,47,56
+19,Hospital,2,25,Hospitalizaciones - Total,2760,184,178,211,1199,988
+20,Hospital,3,1,Atenciones de urgencia - Total,27670,2027,4191,4620,12185,4647
+21,Hospital,3,2,Atenciones de urgencia - Total Respiratorios,2536,537,785,426,487,301
+22,Hospital,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),355,148,114,31,37,25
+23,Hospital,3,4,Atenciones de urgencia - Influenza (J09-J11),12,2,0,4,6,0
+24,Hospital,3,5,Atenciones de urgencia - Neumonía (J12-J18),249,19,29,14,77,110
+25,Hospital,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",369,42,56,56,130,85
+26,Hospital,3,7,Hospitalizaciones - Sistema Respiratorio,219,36,21,19,54,89
+27,Hospital,3,10,Atenciones de urgencia - IRA Alta (J00-J06),1383,303,560,301,185,34
+28,Hospital,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),168,23,26,20,52,47
+29,Hospital,3,25,Hospitalizaciones - Total,2696,165,136,212,1223,960
+30,Hospital,4,1,Atenciones de urgencia - Total,26975,1938,4183,4330,11597,4927
+31,Hospital,4,2,Atenciones de urgencia - Total Respiratorios,2451,543,732,375,453,348
+32,Hospital,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),306,116,106,29,33,22
+33,Hospital,4,4,Atenciones de urgencia - Influenza (J09-J11),24,0,4,7,7,6
+34,Hospital,4,5,Atenciones de urgencia - Neumonía (J12-J18),239,20,31,8,74,106
+35,Hospital,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",372,32,63,44,115,118
+36,Hospital,4,7,Hospitalizaciones - Sistema Respiratorio,182,20,21,8,47,86
+37,Hospital,4,10,Atenciones de urgencia - IRA Alta (J00-J06),1344,360,495,273,178,38
+38,Hospital,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),166,15,33,14,46,58
+39,Hospital,4,25,Hospitalizaciones - Total,2650,132,153,186,1190,989
+40,Hospital,5,1,Atenciones de urgencia - Total,26223,1904,3867,4096,11399,4957
+41,Hospital,5,2,Atenciones de urgencia - Total Respiratorios,2411,473,719,330,499,390
+42,Hospital,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),288,103,98,24,30,33
+43,Hospital,5,4,Atenciones de urgencia - Influenza (J09-J11),22,1,2,3,9,7
+44,Hospital,5,5,Atenciones de urgencia - Neumonía (J12-J18),217,14,16,10,60,117
+45,Hospital,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",457,29,69,35,184,140
+46,Hospital,5,7,Hospitalizaciones - Sistema Respiratorio,244,21,15,14,105,89
+47,Hospital,5,10,Atenciones de urgencia - IRA Alta (J00-J06),1264,313,509,241,168,33
+48,Hospital,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),163,13,25,17,48,60
+49,Hospital,5,25,Hospitalizaciones - Total,2561,155,116,180,1219,891
+50,Hospital,6,1,Atenciones de urgencia - Total,25849,1932,3682,4030,11395,4810
+51,Hospital,6,2,Atenciones de urgencia - Total Respiratorios,2335,494,719,351,436,335
+52,Hospital,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),300,98,98,40,37,27
+53,Hospital,6,4,Atenciones de urgencia - Influenza (J09-J11),13,0,5,3,5,0
+54,Hospital,6,5,Atenciones de urgencia - Neumonía (J12-J18),209,12,26,6,55,110
+55,Hospital,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",438,42,73,55,153,115
+56,Hospital,6,7,Hospitalizaciones - Sistema Respiratorio,228,22,32,9,55,110
+57,Hospital,6,10,Atenciones de urgencia - IRA Alta (J00-J06),1239,329,494,233,144,39
+58,Hospital,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),136,13,23,14,42,44
+59,Hospital,6,25,Hospitalizaciones - Total,2550,132,144,190,1133,951
+60,Hospital,7,1,Atenciones de urgencia - Total,25258,1937,3634,3923,11325,4439
+61,Hospital,7,2,Atenciones de urgencia - Total Respiratorios,2328,501,714,363,480,270
+62,Hospital,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),261,94,97,27,31,12
+63,Hospital,7,4,Atenciones de urgencia - Influenza (J09-J11),14,0,0,5,7,2
+64,Hospital,7,5,Atenciones de urgencia - Neumonía (J12-J18),238,11,26,16,75,110
+65,Hospital,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",361,38,85,48,125,65
+66,Hospital,7,7,Hospitalizaciones - Sistema Respiratorio,194,15,24,12,49,94
+67,Hospital,7,10,Atenciones de urgencia - IRA Alta (J00-J06),1304,346,486,250,191,31
+68,Hospital,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),150,12,20,17,51,50
+69,Hospital,7,25,Hospitalizaciones - Total,2461,132,140,175,1116,898
+70,Hospital,8,1,Atenciones de urgencia - Total,25801,1963,3648,4115,11417,4658
+71,Hospital,8,2,Atenciones de urgencia - Total Respiratorios,2315,472,696,359,500,288
+72,Hospital,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),250,78,85,38,25,24
+73,Hospital,8,4,Atenciones de urgencia - Influenza (J09-J11),10,1,4,1,3,1
+74,Hospital,8,5,Atenciones de urgencia - Neumonía (J12-J18),252,15,20,20,76,121
+75,Hospital,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",321,39,54,47,133,48
+76,Hospital,8,7,Hospitalizaciones - Sistema Respiratorio,192,21,24,12,53,82
+77,Hospital,8,10,Atenciones de urgencia - IRA Alta (J00-J06),1330,325,505,234,223,43
+78,Hospital,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),152,14,28,19,40,51
+79,Hospital,8,25,Hospitalizaciones - Total,2712,138,134,206,1218,1016
+80,Hospital,9,1,Atenciones de urgencia - Total,26269,1945,3685,4366,11735,4538
+81,Hospital,9,2,Atenciones de urgencia - Total Respiratorios,2442,532,716,361,493,340
+82,Hospital,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),295,79,107,39,44,26
+83,Hospital,9,4,Atenciones de urgencia - Influenza (J09-J11),15,2,3,3,5,2
+84,Hospital,9,5,Atenciones de urgencia - Neumonía (J12-J18),229,11,21,12,74,111
+85,Hospital,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",372,52,60,36,118,106
+86,Hospital,9,7,Hospitalizaciones - Sistema Respiratorio,193,25,25,12,48,83
+87,Hospital,9,10,Atenciones de urgencia - IRA Alta (J00-J06),1376,373,501,252,202,48
+88,Hospital,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),155,15,24,19,50,47
+89,Hospital,9,25,Hospitalizaciones - Total,2592,135,146,211,1155,945
+90,Hospital,10,1,Atenciones de urgencia - Total,27665,2023,3973,5732,11336,4601
+91,Hospital,10,2,Atenciones de urgencia - Total Respiratorios,2783,605,899,464,479,336
+92,Hospital,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),406,107,146,45,74,34
+93,Hospital,10,4,Atenciones de urgencia - Influenza (J09-J11),16,2,3,4,7,0
+94,Hospital,10,5,Atenciones de urgencia - Neumonía (J12-J18),227,9,13,14,71,120
+95,Hospital,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",379,43,82,51,117,86
+96,Hospital,10,7,Hospitalizaciones - Sistema Respiratorio,206,31,35,21,39,80
+97,Hospital,10,10,Atenciones de urgencia - IRA Alta (J00-J06),1581,428,614,324,173,42
+98,Hospital,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),174,16,41,26,37,54
+99,Hospital,10,25,Hospitalizaciones - Total,2617,135,135,217,1174,956
+100,Hospital,11,1,Atenciones de urgencia - Total,32286,2671,5350,7372,12193,4700
+101,Hospital,11,2,Atenciones de urgencia - Total Respiratorios,4786,1178,1792,935,578,303
+102,Hospital,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),687,189,296,106,63,33
+103,Hospital,11,4,Atenciones de urgencia - Influenza (J09-J11),31,10,6,11,4,0
+104,Hospital,11,5,Atenciones de urgencia - Neumonía (J12-J18),268,16,45,23,76,108
+105,Hospital,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",582,94,177,106,137,68
+106,Hospital,11,7,Hospitalizaciones - Sistema Respiratorio,294,55,69,48,53,69
+107,Hospital,11,10,Atenciones de urgencia - IRA Alta (J00-J06),2926,842,1179,600,263,42
+108,Hospital,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),292,27,89,89,35,52
+109,Hospital,11,25,Hospitalizaciones - Total,2640,168,203,249,1112,908
+110,Hospital,12,1,Atenciones de urgencia - Total,34931,2882,5849,7917,13319,4964
+111,Hospital,12,2,Atenciones de urgencia - Total Respiratorios,5014,1214,1749,945,747,359
+112,Hospital,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),776,253,286,125,75,37
+113,Hospital,12,4,Atenciones de urgencia - Influenza (J09-J11),62,10,16,20,16,0
+114,Hospital,12,5,Atenciones de urgencia - Neumonía (J12-J18),374,28,64,34,103,145
+115,Hospital,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",601,92,189,78,169,73
+116,Hospital,12,7,Hospitalizaciones - Sistema Respiratorio,295,45,50,53,63,84
+117,Hospital,12,10,Atenciones de urgencia - IRA Alta (J00-J06),2851,801,1082,592,329,47
+118,Hospital,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),350,30,112,96,55,57
+119,Hospital,12,25,Hospitalizaciones - Total,2679,168,195,241,1102,973
+120,Hospital,13,1,Atenciones de urgencia - Total,33667,2788,6163,7086,12877,4753
+121,Hospital,13,2,Atenciones de urgencia - Total Respiratorios,4652,1070,1666,762,771,383
+122,Hospital,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),848,285,361,109,66,27
+123,Hospital,13,4,Atenciones de urgencia - Influenza (J09-J11),38,4,4,11,18,1
+124,Hospital,13,5,Atenciones de urgencia - Neumonía (J12-J18),416,29,68,32,116,171
+125,Hospital,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",557,77,156,79,174,71
+126,Hospital,13,7,Hospitalizaciones - Sistema Respiratorio,349,56,55,46,89,103
+127,Hospital,13,10,Atenciones de urgencia - IRA Alta (J00-J06),2441,631,970,465,327,48
+128,Hospital,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),352,44,107,66,70,65
+129,Hospital,13,25,Hospitalizaciones - Total,2634,170,183,216,1150,915
+130,Hospital,14,1,Atenciones de urgencia - Total,34663,2718,6183,7861,12882,5019
+131,Hospital,14,2,Atenciones de urgencia - Total Respiratorios,4266,969,1571,639,652,435
+132,Hospital,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),775,241,326,85,78,45
+133,Hospital,14,4,Atenciones de urgencia - Influenza (J09-J11),45,7,14,10,10,4
+134,Hospital,14,5,Atenciones de urgencia - Neumonía (J12-J18),395,29,56,26,101,183
+135,Hospital,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",492,64,143,69,124,92
+136,Hospital,14,7,Hospitalizaciones - Sistema Respiratorio,347,56,54,30,62,145
+137,Hospital,14,10,Atenciones de urgencia - IRA Alta (J00-J06),2229,591,916,395,279,48
+138,Hospital,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),330,37,116,54,60,63
+139,Hospital,14,25,Hospitalizaciones - Total,2993,187,198,251,1277,1080
+140,Hospital,15,1,Atenciones de urgencia - Total,34353,2614,5964,8173,12682,4920
+141,Hospital,15,2,Atenciones de urgencia - Total Respiratorios,4436,949,1745,698,651,393
+142,Hospital,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),825,272,350,90,71,42
+143,Hospital,15,4,Atenciones de urgencia - Influenza (J09-J11),46,9,18,14,5,0
+144,Hospital,15,5,Atenciones de urgencia - Neumonía (J12-J18),424,9,79,28,127,181
+145,Hospital,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",499,75,136,77,139,72
+146,Hospital,15,7,Hospitalizaciones - Sistema Respiratorio,351,33,63,25,92,138
+147,Hospital,15,10,Atenciones de urgencia - IRA Alta (J00-J06),2333,542,1076,435,245,35
+148,Hospital,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),309,42,86,54,64,63
+149,Hospital,15,25,Hospitalizaciones - Total,2745,146,175,218,1190,1016
+150,Hospital,16,1,Atenciones de urgencia - Total,35609,2900,6217,8263,13202,5027
+151,Hospital,16,2,Atenciones de urgencia - Total Respiratorios,4565,1020,1812,711,623,399
+152,Hospital,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),819,268,366,92,62,31
+153,Hospital,16,4,Atenciones de urgencia - Influenza (J09-J11),39,5,13,9,9,3
+154,Hospital,16,5,Atenciones de urgencia - Neumonía (J12-J18),385,22,86,18,98,161
+155,Hospital,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",474,54,132,69,134,85
+156,Hospital,16,7,Hospitalizaciones - Sistema Respiratorio,368,49,79,38,70,132
+157,Hospital,16,10,Atenciones de urgencia - IRA Alta (J00-J06),2466,621,1089,449,254,53
+158,Hospital,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),382,50,126,74,66,66
+159,Hospital,16,25,Hospitalizaciones - Total,2994,159,238,247,1232,1118
+160,Hospital,17,1,Atenciones de urgencia - Total,34095,2631,6205,7987,12454,4818
+161,Hospital,17,2,Atenciones de urgencia - Total Respiratorios,4738,1041,1951,738,610,398
+162,Hospital,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),945,271,458,115,66,35
+163,Hospital,17,4,Atenciones de urgencia - Influenza (J09-J11),24,2,10,4,7,1
+164,Hospital,17,5,Atenciones de urgencia - Neumonía (J12-J18),430,27,65,23,112,203
+165,Hospital,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",503,80,156,69,127,71
+166,Hospital,17,7,Hospitalizaciones - Sistema Respiratorio,372,57,77,41,76,121
+167,Hospital,17,10,Atenciones de urgencia - IRA Alta (J00-J06),2456,609,1136,446,233,32
+168,Hospital,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),380,52,126,81,65,56
+169,Hospital,17,25,Hospitalizaciones - Total,2827,172,219,245,1180,1011
+170,Hospital,18,1,Atenciones de urgencia - Total,32418,2869,5935,6171,12462,4981
+171,Hospital,18,2,Atenciones de urgencia - Total Respiratorios,4895,1179,1969,647,685,415
+172,Hospital,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),930,265,453,102,71,39
+173,Hospital,18,4,Atenciones de urgencia - Influenza (J09-J11),34,4,14,7,6,3
+174,Hospital,18,5,Atenciones de urgencia - Neumonía (J12-J18),396,36,76,22,107,155
+175,Hospital,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",475,66,138,56,137,78
+176,Hospital,18,7,Hospitalizaciones - Sistema Respiratorio,409,68,81,28,84,148
+177,Hospital,18,10,Atenciones de urgencia - IRA Alta (J00-J06),2634,741,1132,405,288,68
+178,Hospital,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),426,67,156,55,76,72
+179,Hospital,18,25,Hospitalizaciones - Total,2684,168,214,169,1147,986
+180,Hospital,19,1,Atenciones de urgencia - Total,34135,2771,5769,7917,12729,4949
+181,Hospital,19,2,Atenciones de urgencia - Total Respiratorios,4926,1243,1837,728,713,405
+182,Hospital,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),957,349,423,82,70,33
+183,Hospital,19,4,Atenciones de urgencia - Influenza (J09-J11),36,1,13,10,12,0
+184,Hospital,19,5,Atenciones de urgencia - Neumonía (J12-J18),423,39,80,22,100,182
+185,Hospital,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",477,59,134,41,158,85
+186,Hospital,19,7,Hospitalizaciones - Sistema Respiratorio,424,83,71,33,88,149
+187,Hospital,19,10,Atenciones de urgencia - IRA Alta (J00-J06),2644,731,1066,503,298,46
+188,Hospital,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),389,64,121,70,75,59
+189,Hospital,19,25,Hospitalizaciones - Total,2836,212,190,218,1192,1024
+190,Hospital,20,1,Atenciones de urgencia - Total,34051,2845,5943,8101,12310,4852
+191,Hospital,20,2,Atenciones de urgencia - Total Respiratorios,5189,1162,2042,815,746,424
+192,Hospital,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1154,377,522,133,89,33
+193,Hospital,20,4,Atenciones de urgencia - Influenza (J09-J11),32,3,11,11,6,1
+194,Hospital,20,5,Atenciones de urgencia - Neumonía (J12-J18),454,52,104,22,121,155
+195,Hospital,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",523,80,135,58,145,105
+196,Hospital,20,7,Hospitalizaciones - Sistema Respiratorio,427,90,69,37,79,152
+197,Hospital,20,10,Atenciones de urgencia - IRA Alta (J00-J06),2641,593,1138,529,326,55
+198,Hospital,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),385,57,132,62,59,75
+199,Hospital,20,25,Hospitalizaciones - Total,2735,195,188,251,1094,1007
+200,Hospital,21,1,Atenciones de urgencia - Total,33196,3066,6394,6699,12212,4825
+201,Hospital,21,2,Atenciones de urgencia - Total Respiratorios,5727,1326,2321,802,803,475
+202,Hospital,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1172,357,566,121,85,43
+203,Hospital,21,4,Atenciones de urgencia - Influenza (J09-J11),28,3,5,12,5,3
+204,Hospital,21,5,Atenciones de urgencia - Neumonía (J12-J18),548,56,131,28,133,200
+205,Hospital,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",605,98,170,53,187,97
+206,Hospital,21,7,Hospitalizaciones - Sistema Respiratorio,470,97,102,26,93,152
+207,Hospital,21,10,Atenciones de urgencia - IRA Alta (J00-J06),2944,753,1308,525,302,56
+208,Hospital,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),430,59,141,63,91,76
+209,Hospital,21,25,Hospitalizaciones - Total,2853,210,221,235,1129,1058
+210,Hospital,22,1,Atenciones de urgencia - Total,30851,2522,5378,6870,11490,4591
+211,Hospital,22,2,Atenciones de urgencia - Total Respiratorios,5080,1157,1930,788,743,462
+212,Hospital,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1132,371,494,97,119,51
+213,Hospital,22,4,Atenciones de urgencia - Influenza (J09-J11),32,1,8,9,12,2
+214,Hospital,22,5,Atenciones de urgencia - Neumonía (J12-J18),490,38,100,29,121,202
+215,Hospital,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",512,77,132,60,148,95
+216,Hospital,22,7,Hospitalizaciones - Sistema Respiratorio,456,97,98,34,80,147
+217,Hospital,22,10,Atenciones de urgencia - IRA Alta (J00-J06),2508,595,1059,533,271,50
+218,Hospital,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),406,75,137,60,72,62
+219,Hospital,22,25,Hospitalizaciones - Total,2715,201,214,183,1115,1002
+220,Hospital,23,1,Atenciones de urgencia - Total,31639,2417,5394,7358,11620,4850
+221,Hospital,23,2,Atenciones de urgencia - Total Respiratorios,5628,1208,2144,895,864,517
+222,Hospital,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1174,424,483,128,95,44
+223,Hospital,23,4,Atenciones de urgencia - Influenza (J09-J11),52,10,14,11,15,2
+224,Hospital,23,5,Atenciones de urgencia - Neumonía (J12-J18),583,45,121,29,159,229
+225,Hospital,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",689,83,202,115,183,106
+226,Hospital,23,7,Hospitalizaciones - Sistema Respiratorio,549,122,111,33,85,198
+227,Hospital,23,10,Atenciones de urgencia - IRA Alta (J00-J06),2648,568,1154,553,322,51
+228,Hospital,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),482,78,170,59,90,85
+229,Hospital,23,25,Hospitalizaciones - Total,3004,237,254,207,1150,1156
+230,Hospital,24,1,Atenciones de urgencia - Total,30249,2478,5319,6284,11378,4790
+231,Hospital,24,2,Atenciones de urgencia - Total Respiratorios,5558,1200,2116,823,897,522
+232,Hospital,24,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1396,485,609,118,122,62
+233,Hospital,24,4,Atenciones de urgencia - Influenza (J09-J11),62,9,24,20,8,1
+234,Hospital,24,5,Atenciones de urgencia - Neumonía (J12-J18),570,44,118,32,148,228
+235,Hospital,24,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",673,89,154,112,207,111
+236,Hospital,24,7,Hospitalizaciones - Sistema Respiratorio,643,188,147,26,88,194
+237,Hospital,24,10,Atenciones de urgencia - IRA Alta (J00-J06),2443,531,1077,482,317,36
+238,Hospital,24,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),414,42,134,59,95,84
+239,Hospital,24,25,Hospitalizaciones - Total,3111,294,287,215,1164,1151
+240,Hospital,25,1,Atenciones de urgencia - Total,33840,2935,5700,8128,12120,4957
+241,Hospital,25,2,Atenciones de urgencia - Total Respiratorios,6559,1576,2470,994,901,618
+242,Hospital,25,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1595,595,681,128,120,71
+243,Hospital,25,4,Atenciones de urgencia - Influenza (J09-J11),79,8,22,30,18,1
+244,Hospital,25,5,Atenciones de urgencia - Neumonía (J12-J18),756,98,194,32,163,269
+245,Hospital,25,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",648,98,192,76,167,115
+246,Hospital,25,7,Hospitalizaciones - Sistema Respiratorio,716,216,180,23,93,204
+247,Hospital,25,10,Atenciones de urgencia - IRA Alta (J00-J06),2961,707,1187,667,329,71
+248,Hospital,25,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),520,70,194,61,104,91
+249,Hospital,25,25,Hospitalizaciones - Total,3181,341,318,237,1194,1091
+250,Hospital,26,1,Atenciones de urgencia - Total,33999,2961,6344,8031,11772,4891
+251,Hospital,26,2,Atenciones de urgencia - Total Respiratorios,7231,1639,2961,1111,905,615
+252,Hospital,26,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1968,707,900,166,109,86
+253,Hospital,26,4,Atenciones de urgencia - Influenza (J09-J11),105,5,24,39,29,8
+254,Hospital,26,5,Atenciones de urgencia - Neumonía (J12-J18),801,88,229,47,159,278
+255,Hospital,26,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",748,112,238,80,207,111
+256,Hospital,26,7,Hospitalizaciones - Sistema Respiratorio,822,277,232,30,97,186
+257,Hospital,26,10,Atenciones de urgencia - IRA Alta (J00-J06),3020,632,1310,707,320,51
+258,Hospital,26,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),589,95,260,72,81,81
+259,Hospital,26,25,Hospitalizaciones - Total,3245,402,359,197,1161,1126
+260,Hospital,27,1,Atenciones de urgencia - Total,31252,3104,6225,6057,11262,4604
+261,Hospital,27,2,Atenciones de urgencia - Total Respiratorios,7798,1869,3188,1127,958,656
+262,Hospital,27,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2265,854,1046,163,125,77
+263,Hospital,27,4,Atenciones de urgencia - Influenza (J09-J11),132,4,47,47,32,2
+264,Hospital,27,5,Atenciones de urgencia - Neumonía (J12-J18),866,108,273,47,142,296
+265,Hospital,27,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",788,144,245,70,198,131
+266,Hospital,27,7,Hospitalizaciones - Sistema Respiratorio,971,332,300,41,84,214
+267,Hospital,27,10,Atenciones de urgencia - IRA Alta (J00-J06),3117,647,1334,710,366,60
+268,Hospital,27,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),630,112,243,90,95,90
+269,Hospital,27,25,Hospitalizaciones - Total,3233,456,423,189,1070,1095
+270,Hospital,28,1,Atenciones de urgencia - Total,32050,3699,6673,5295,11255,5128
+271,Hospital,28,2,Atenciones de urgencia - Total Respiratorios,8301,2233,3334,1073,955,706
+272,Hospital,28,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2479,1080,1049,168,109,73
+273,Hospital,28,4,Atenciones de urgencia - Influenza (J09-J11),186,14,76,50,38,8
+274,Hospital,28,5,Atenciones de urgencia - Neumonía (J12-J18),996,147,313,69,154,313
+275,Hospital,28,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",894,182,250,87,227,148
+276,Hospital,28,7,Hospitalizaciones - Sistema Respiratorio,1152,498,318,40,105,191
+277,Hospital,28,10,Atenciones de urgencia - IRA Alta (J00-J06),3029,661,1344,626,323,75
+278,Hospital,28,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),717,149,302,73,104,89
+279,Hospital,28,25,Hospitalizaciones - Total,3606,589,417,183,1207,1210
+280,Hospital,29,1,Atenciones de urgencia - Total,30246,3908,6417,3971,11025,4925
+281,Hospital,29,2,Atenciones de urgencia - Total Respiratorios,8458,2489,3387,843,1020,719
+282,Hospital,29,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2689,1188,1111,147,154,89
+283,Hospital,29,4,Atenciones de urgencia - Influenza (J09-J11),136,21,44,28,33,10
+284,Hospital,29,5,Atenciones de urgencia - Neumonía (J12-J18),1029,163,342,48,165,311
+285,Hospital,29,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",810,146,245,70,227,122
+286,Hospital,29,7,Hospitalizaciones - Sistema Respiratorio,1139,525,292,30,97,195
+287,Hospital,29,10,Atenciones de urgencia - IRA Alta (J00-J06),3085,801,1355,492,361,76
+288,Hospital,29,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),709,170,290,58,80,111
+289,Hospital,29,25,Hospitalizaciones - Total,3445,617,380,131,1197,1120
+290,Hospital,30,1,Atenciones de urgencia - Total,28103,3765,4666,3640,11033,4999
+291,Hospital,30,2,Atenciones de urgencia - Total Respiratorios,7081,2482,2245,603,971,780
+292,Hospital,30,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2112,1101,719,66,122,104
+293,Hospital,30,4,Atenciones de urgencia - Influenza (J09-J11),118,15,33,29,31,10
+294,Hospital,30,5,Atenciones de urgencia - Neumonía (J12-J18),852,127,193,33,172,327
+295,Hospital,30,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",834,226,187,37,239,145
+296,Hospital,30,7,Hospitalizaciones - Sistema Respiratorio,1168,581,218,23,121,225
+297,Hospital,30,10,Atenciones de urgencia - IRA Alta (J00-J06),2631,878,939,404,328,82
+298,Hospital,30,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),534,135,174,34,79,112
+299,Hospital,30,25,Hospitalizaciones - Total,3540,671,309,131,1244,1185
+300,Hospital,31,1,Atenciones de urgencia - Total,29861,3001,4607,6361,10836,5056
+301,Hospital,31,2,Atenciones de urgencia - Total Respiratorios,5926,1797,1794,783,840,712
+302,Hospital,31,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1695,869,539,105,104,78
+303,Hospital,31,4,Atenciones de urgencia - Influenza (J09-J11),133,25,40,39,24,5
+304,Hospital,31,5,Atenciones de urgencia - Neumonía (J12-J18),814,103,130,37,202,342
+305,Hospital,31,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",682,153,156,80,171,122
+306,Hospital,31,7,Hospitalizaciones - Sistema Respiratorio,939,456,133,21,111,218
+307,Hospital,31,10,Atenciones de urgencia - IRA Alta (J00-J06),2209,545,825,489,279,71
+308,Hospital,31,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),393,102,104,33,60,94
+309,Hospital,31,25,Hospitalizaciones - Total,3275,565,223,183,1104,1200
+310,Hospital,32,1,Atenciones de urgencia - Total,32714,2965,5942,7191,11440,5176
+311,Hospital,32,2,Atenciones de urgencia - Total Respiratorios,6902,1567,2256,1359,934,786
+312,Hospital,32,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1735,712,575,213,144,91
+313,Hospital,32,4,Atenciones de urgencia - Influenza (J09-J11),186,13,57,83,24,9
+314,Hospital,32,5,Atenciones de urgencia - Neumonía (J12-J18),881,98,156,57,185,385
+315,Hospital,32,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",742,145,197,92,185,123
+316,Hospital,32,7,Hospitalizaciones - Sistema Respiratorio,933,373,192,32,107,229
+317,Hospital,32,10,Atenciones de urgencia - IRA Alta (J00-J06),2863,520,1119,842,312,70
+318,Hospital,32,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),495,79,152,72,84,108
+319,Hospital,32,25,Hospitalizaciones - Total,3405,490,317,207,1208,1183
+320,Hospital,33,1,Atenciones de urgencia - Total,34825,3462,6679,7375,12073,5236
+321,Hospital,33,2,Atenciones de urgencia - Total Respiratorios,7804,1880,2649,1538,985,752
+322,Hospital,33,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2093,866,671,291,155,110
+323,Hospital,33,4,Atenciones de urgencia - Influenza (J09-J11),235,20,89,75,40,11
+324,Hospital,33,5,Atenciones de urgencia - Neumonía (J12-J18),868,86,191,76,179,336
+325,Hospital,33,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",859,154,244,119,214,128
+326,Hospital,33,7,Hospitalizaciones - Sistema Respiratorio,909,362,189,32,100,226
+327,Hospital,33,10,Atenciones de urgencia - IRA Alta (J00-J06),3164,644,1260,891,305,64
+328,Hospital,33,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),585,110,194,86,92,103
+329,Hospital,33,25,Hospitalizaciones - Total,3232,486,316,193,1112,1125
+330,Hospital,34,1,Atenciones de urgencia - Total,33098,3175,5817,7239,11797,5070
+331,Hospital,34,2,Atenciones de urgencia - Total Respiratorios,7057,1755,2295,1337,950,720
+332,Hospital,34,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1761,767,545,225,126,98
+333,Hospital,34,4,Atenciones de urgencia - Influenza (J09-J11),262,17,103,93,39,10
+334,Hospital,34,5,Atenciones de urgencia - Neumonía (J12-J18),795,77,151,75,174,318
+335,Hospital,34,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",769,141,175,128,195,130
+336,Hospital,34,7,Hospitalizaciones - Sistema Respiratorio,974,424,170,39,109,232
+337,Hospital,34,10,Atenciones de urgencia - IRA Alta (J00-J06),2945,646,1155,748,332,64
+338,Hospital,34,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),525,107,166,68,84,100
+339,Hospital,34,25,Hospitalizaciones - Total,3236,530,274,199,1145,1088
+340,Hospital,35,1,Atenciones de urgencia - Total,33320,3088,5856,7459,11780,5137
+341,Hospital,35,2,Atenciones de urgencia - Total Respiratorios,6470,1580,2088,1316,820,666
+342,Hospital,35,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1494,625,474,217,101,77
+343,Hospital,35,4,Atenciones de urgencia - Influenza (J09-J11),155,10,63,61,17,4
+344,Hospital,35,5,Atenciones de urgencia - Neumonía (J12-J18),673,66,123,61,152,271
+345,Hospital,35,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",718,120,173,110,185,130
+346,Hospital,35,7,Hospitalizaciones - Sistema Respiratorio,744,295,128,43,94,184
+347,Hospital,35,10,Atenciones de urgencia - IRA Alta (J00-J06),2934,674,1119,787,280,74
+348,Hospital,35,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),496,85,136,80,85,110
+349,Hospital,35,25,Hospitalizaciones - Total,3150,439,252,208,1154,1097
+350,Hospital,36,1,Atenciones de urgencia - Total,33900,3048,6013,7689,11928,5222
+351,Hospital,36,2,Atenciones de urgencia - Total Respiratorios,6418,1436,2092,1328,880,682
+352,Hospital,36,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1460,576,464,224,114,82
+353,Hospital,36,4,Atenciones de urgencia - Influenza (J09-J11),183,13,58,80,28,4
+354,Hospital,36,5,Atenciones de urgencia - Neumonía (J12-J18),688,58,132,70,146,282
+355,Hospital,36,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",656,112,142,110,177,115
+356,Hospital,36,7,Hospitalizaciones - Sistema Respiratorio,735,257,150,37,84,207
+357,Hospital,36,10,Atenciones de urgencia - IRA Alta (J00-J06),2909,595,1147,756,336,75
+358,Hospital,36,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),522,82,149,88,79,124
+359,Hospital,36,25,Hospitalizaciones - Total,3116,357,280,212,1101,1166
+360,Hospital,37,1,Atenciones de urgencia - Total,32276,2863,5681,6959,11641,5132
+361,Hospital,37,2,Atenciones de urgencia - Total Respiratorios,5927,1322,2136,1082,803,584
+362,Hospital,37,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1330,484,524,163,110,49
+363,Hospital,37,4,Atenciones de urgencia - Influenza (J09-J11),170,24,38,89,17,2
+364,Hospital,37,5,Atenciones de urgencia - Neumonía (J12-J18),657,53,128,39,155,282
+365,Hospital,37,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",621,112,147,98,156,108
+366,Hospital,37,7,Hospitalizaciones - Sistema Respiratorio,674,209,122,42,98,203
+367,Hospital,37,10,Atenciones de urgencia - IRA Alta (J00-J06),2712,566,1173,635,281,57
+368,Hospital,37,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),437,83,126,58,84,86
+369,Hospital,37,25,Hospitalizaciones - Total,3104,325,238,246,1156,1139
+370,Hospital,38,1,Atenciones de urgencia - Total,28114,2688,4917,4358,11370,4781
+371,Hospital,38,2,Atenciones de urgencia - Total Respiratorios,5142,1248,1750,815,733,596
+372,Hospital,38,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1153,448,419,118,97,71
+373,Hospital,38,4,Atenciones de urgencia - Influenza (J09-J11),53,8,18,16,9,2
+374,Hospital,38,5,Atenciones de urgencia - Neumonía (J12-J18),545,49,106,30,124,236
+375,Hospital,38,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",599,117,154,60,153,115
+376,Hospital,38,7,Hospitalizaciones - Sistema Respiratorio,502,167,84,21,73,157
+377,Hospital,38,10,Atenciones de urgencia - IRA Alta (J00-J06),2359,545,929,535,282,68
+378,Hospital,38,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),433,81,124,56,68,104
+379,Hospital,38,25,Hospitalizaciones - Total,2720,253,210,168,1104,985
+380,Hospital,39,1,Atenciones de urgencia - Total,33307,2658,4838,8000,12739,5072
+381,Hospital,39,2,Atenciones de urgencia - Total Respiratorios,4716,1082,1478,864,733,559
+382,Hospital,39,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),994,391,328,118,99,58
+383,Hospital,39,4,Atenciones de urgencia - Influenza (J09-J11),90,11,25,33,15,6
+384,Hospital,39,5,Atenciones de urgencia - Neumonía (J12-J18),582,58,101,29,133,261
+385,Hospital,39,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",490,52,118,77,155,88
+386,Hospital,39,7,Hospitalizaciones - Sistema Respiratorio,526,159,78,24,86,179
+387,Hospital,39,10,Atenciones de urgencia - IRA Alta (J00-J06),2200,502,829,544,265,60
+388,Hospital,39,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),360,68,77,63,66,86
+389,Hospital,39,25,Hospitalizaciones - Total,2911,267,189,214,1112,1129
+390,Hospital,40,1,Atenciones de urgencia - Total,32941,2387,5159,7783,12457,5155
+391,Hospital,40,2,Atenciones de urgencia - Total Respiratorios,4521,916,1596,805,678,526
+392,Hospital,40,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),852,266,360,97,69,60
+393,Hospital,40,4,Atenciones de urgencia - Influenza (J09-J11),84,10,22,34,17,1
+394,Hospital,40,5,Atenciones de urgencia - Neumonía (J12-J18),503,48,77,27,115,236
+395,Hospital,40,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",604,79,174,69,174,108
+396,Hospital,40,7,Hospitalizaciones - Sistema Respiratorio,440,88,71,30,84,167
+397,Hospital,40,10,Atenciones de urgencia - IRA Alta (J00-J06),2106,455,880,511,227,33
+398,Hospital,40,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),372,58,83,67,76,88
+399,Hospital,40,25,Hospitalizaciones - Total,2894,193,199,241,1167,1094
+400,Hospital,41,1,Atenciones de urgencia - Total,33468,2522,5212,8413,12416,4905
+401,Hospital,41,2,Atenciones de urgencia - Total Respiratorios,4570,928,1558,989,665,430
+402,Hospital,41,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),949,309,341,148,94,57
+403,Hospital,41,4,Atenciones de urgencia - Influenza (J09-J11),58,7,18,23,9,1
+404,Hospital,41,5,Atenciones de urgencia - Neumonía (J12-J18),448,24,87,28,121,188
+405,Hospital,41,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",510,73,128,90,135,84
+406,Hospital,41,7,Hospitalizaciones - Sistema Respiratorio,465,111,97,33,72,152
+407,Hospital,41,10,Atenciones de urgencia - IRA Alta (J00-J06),2251,456,884,630,239,42
+408,Hospital,41,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),354,59,100,70,67,58
+409,Hospital,41,25,Hospitalizaciones - Total,2863,243,220,244,1141,1015
+410,Hospital,42,1,Atenciones de urgencia - Total,31877,2524,5233,6602,12401,5117
+411,Hospital,42,2,Atenciones de urgencia - Total Respiratorios,4715,948,1683,917,754,413
+412,Hospital,42,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),953,304,364,118,109,58
+413,Hospital,42,4,Atenciones de urgencia - Influenza (J09-J11),42,5,9,20,6,2
+414,Hospital,42,5,Atenciones de urgencia - Neumonía (J12-J18),415,22,76,31,125,161
+415,Hospital,42,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",528,71,138,86,170,63
+416,Hospital,42,7,Hospitalizaciones - Sistema Respiratorio,434,106,73,35,88,132
+417,Hospital,42,10,Atenciones de urgencia - IRA Alta (J00-J06),2391,487,980,604,264,56
+418,Hospital,42,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),386,59,116,58,80,73
+419,Hospital,42,25,Hospitalizaciones - Total,2791,219,224,232,1110,1006
+420,Hospital,43,1,Atenciones de urgencia - Total,34167,2629,5192,8335,12824,5187
+421,Hospital,43,2,Atenciones de urgencia - Total Respiratorios,4646,924,1630,985,706,401
+422,Hospital,43,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),835,285,302,125,85,38
+423,Hospital,43,4,Atenciones de urgencia - Influenza (J09-J11),39,3,11,21,4,0
+424,Hospital,43,5,Atenciones de urgencia - Neumonía (J12-J18),450,34,89,45,107,175
+425,Hospital,43,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",461,64,102,83,128,84
+426,Hospital,43,7,Hospitalizaciones - Sistema Respiratorio,395,91,60,39,78,127
+427,Hospital,43,10,Atenciones de urgencia - IRA Alta (J00-J06),2533,493,1040,641,311,48
+428,Hospital,43,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),328,45,86,70,71,56
+429,Hospital,43,25,Hospitalizaciones - Total,2939,209,174,275,1219,1062
+430,Hospital,44,1,Atenciones de urgencia - Total,31244,2590,4899,6564,12226,4965
+431,Hospital,44,2,Atenciones de urgencia - Total Respiratorios,4228,880,1413,857,669,409
+432,Hospital,44,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),753,233,297,100,82,41
+433,Hospital,44,4,Atenciones de urgencia - Influenza (J09-J11),39,2,10,18,6,3
+434,Hospital,44,5,Atenciones de urgencia - Neumonía (J12-J18),439,33,71,42,125,168
+435,Hospital,44,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",434,67,94,65,131,77
+436,Hospital,44,7,Hospitalizaciones - Sistema Respiratorio,368,74,56,43,74,121
+437,Hospital,44,10,Atenciones de urgencia - IRA Alta (J00-J06),2258,500,881,559,259,59
+438,Hospital,44,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),305,45,60,73,66,61
+439,Hospital,44,25,Hospitalizaciones - Total,2740,197,186,229,1162,966
+440,Hospital,45,1,Atenciones de urgencia - Total,33239,2453,5288,7752,12499,5247
+441,Hospital,45,2,Atenciones de urgencia - Total Respiratorios,4094,774,1423,844,647,406
+442,Hospital,45,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),641,201,238,97,61,44
+443,Hospital,45,4,Atenciones de urgencia - Influenza (J09-J11),35,1,6,18,7,3
+444,Hospital,45,5,Atenciones de urgencia - Neumonía (J12-J18),400,28,66,26,102,178
+445,Hospital,45,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",474,56,123,80,145,70
+446,Hospital,45,7,Hospitalizaciones - Sistema Respiratorio,371,77,65,41,78,110
+447,Hospital,45,10,Atenciones de urgencia - IRA Alta (J00-J06),2198,440,907,548,258,45
+448,Hospital,45,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),346,48,83,75,74,66
+449,Hospital,45,25,Hospitalizaciones - Total,2916,248,196,237,1209,1026
+450,Hospital,46,1,Atenciones de urgencia - Total,33433,2429,5050,8102,12626,5226
+451,Hospital,46,2,Atenciones de urgencia - Total Respiratorios,3802,717,1322,790,612,361
+452,Hospital,46,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),574,166,225,74,79,30
+453,Hospital,46,4,Atenciones de urgencia - Influenza (J09-J11),26,1,4,13,7,1
+454,Hospital,46,5,Atenciones de urgencia - Neumonía (J12-J18),335,24,61,28,101,121
+455,Hospital,46,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",431,49,94,77,131,80
+456,Hospital,46,7,Hospitalizaciones - Sistema Respiratorio,302,54,34,23,78,113
+457,Hospital,46,10,Atenciones de urgencia - IRA Alta (J00-J06),2159,442,879,542,245,51
+458,Hospital,46,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),277,35,59,56,49,78
+459,Hospital,46,25,Hospitalizaciones - Total,2783,166,141,256,1206,1014
+460,Hospital,47,1,Atenciones de urgencia - Total,35455,2564,5603,8812,13094,5382
+461,Hospital,47,2,Atenciones de urgencia - Total Respiratorios,3920,697,1297,918,611,397
+462,Hospital,47,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),561,162,217,85,62,35
+463,Hospital,47,4,Atenciones de urgencia - Influenza (J09-J11),46,3,7,30,6,0
+464,Hospital,47,5,Atenciones de urgencia - Neumonía (J12-J18),370,18,57,37,106,152
+465,Hospital,47,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",467,51,91,73,162,90
+466,Hospital,47,7,Hospitalizaciones - Sistema Respiratorio,311,42,54,32,60,123
+467,Hospital,47,10,Atenciones de urgencia - IRA Alta (J00-J06),2193,425,857,642,221,48
+468,Hospital,47,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),283,38,68,51,54,72
+469,Hospital,47,25,Hospitalizaciones - Total,2962,174,211,278,1201,1098
+470,Hospital,48,1,Atenciones de urgencia - Total,34017,2436,5476,8316,12754,5035
+471,Hospital,48,2,Atenciones de urgencia - Total Respiratorios,3789,702,1271,903,569,344
+472,Hospital,48,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),506,157,175,83,52,39
+473,Hospital,48,4,Atenciones de urgencia - Influenza (J09-J11),53,9,6,29,5,4
+474,Hospital,48,5,Atenciones de urgencia - Neumonía (J12-J18),342,29,74,32,84,123
+475,Hospital,48,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",363,28,72,66,127,70
+476,Hospital,48,7,Hospitalizaciones - Sistema Respiratorio,291,50,48,33,72,88
+477,Hospital,48,10,Atenciones de urgencia - IRA Alta (J00-J06),2266,453,881,637,249,46
+478,Hospital,48,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),259,26,63,56,52,62
+479,Hospital,48,25,Hospitalizaciones - Total,2881,175,202,274,1242,988
+480,Hospital,49,1,Atenciones de urgencia - Total,33022,2430,5253,7327,12786,5226
+481,Hospital,49,2,Atenciones de urgencia - Total Respiratorios,3746,670,1243,840,630,363
+482,Hospital,49,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),541,157,210,85,51,38
+483,Hospital,49,4,Atenciones de urgencia - Influenza (J09-J11),36,2,6,19,6,3
+484,Hospital,49,5,Atenciones de urgencia - Neumonía (J12-J18),349,9,44,28,109,159
+485,Hospital,49,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",380,46,89,61,124,60
+486,Hospital,49,7,Hospitalizaciones - Sistema Respiratorio,296,47,39,28,74,108
+487,Hospital,49,10,Atenciones de urgencia - IRA Alta (J00-J06),2190,427,849,610,269,35
+488,Hospital,49,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),250,29,45,37,71,68
+489,Hospital,49,25,Hospitalizaciones - Total,2871,191,169,261,1213,1037
+490,Hospital,50,1,Atenciones de urgencia - Total,31447,2498,5163,6354,12499,4933
+491,Hospital,50,2,Atenciones de urgencia - Total Respiratorios,3550,724,1167,808,527,324
+492,Hospital,50,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),487,153,177,81,44,32
+493,Hospital,50,4,Atenciones de urgencia - Influenza (J09-J11),34,3,4,20,7,0
+494,Hospital,50,5,Atenciones de urgencia - Neumonía (J12-J18),301,25,54,27,75,120
+495,Hospital,50,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",387,41,76,74,132,64
+496,Hospital,50,7,Hospitalizaciones - Sistema Respiratorio,238,32,38,20,59,89
+497,Hospital,50,10,Atenciones de urgencia - IRA Alta (J00-J06),2127,473,804,575,230,45
+498,Hospital,50,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),214,29,52,31,39,63
+499,Hospital,50,25,Hospitalizaciones - Total,2773,157,172,240,1161,1043
+500,Hospital,51,1,Atenciones de urgencia - Total,30525,2478,5384,5359,12324,4980
+501,Hospital,51,2,Atenciones de urgencia - Total Respiratorios,3426,676,1157,686,574,333
+502,Hospital,51,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),466,152,185,51,46,32
+503,Hospital,51,4,Atenciones de urgencia - Influenza (J09-J11),33,1,8,15,6,3
+504,Hospital,51,5,Atenciones de urgencia - Neumonía (J12-J18),354,34,41,23,106,150
+505,Hospital,51,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",352,43,75,55,121,58
+506,Hospital,51,7,Hospitalizaciones - Sistema Respiratorio,278,43,33,22,75,105
+507,Hospital,51,10,Atenciones de urgencia - IRA Alta (J00-J06),1998,419,796,496,247,40
+508,Hospital,51,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),223,27,52,46,48,50
+509,Hospital,51,25,Hospitalizaciones - Total,2777,161,165,198,1237,1016
+510,Hospital,52,1,Atenciones de urgencia - Total,30546,2442,5370,5116,12511,5107
+511,Hospital,52,2,Atenciones de urgencia - Total Respiratorios,3272,667,1145,537,544,379
+512,Hospital,52,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),488,178,191,45,47,27
+513,Hospital,52,4,Atenciones de urgencia - Influenza (J09-J11),40,8,9,15,7,1
+514,Hospital,52,5,Atenciones de urgencia - Neumonía (J12-J18),367,27,76,29,79,156
+515,Hospital,52,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",332,40,64,28,112,88
+516,Hospital,52,7,Hospitalizaciones - Sistema Respiratorio,274,42,44,19,50,119
+517,Hospital,52,10,Atenciones de urgencia - IRA Alta (J00-J06),1810,388,761,384,240,37
+518,Hospital,52,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),235,26,44,36,59,70
+519,Hospital,52,25,Hospitalizaciones - Total,2898,181,206,225,1232,1054
+520,SAPU,1,1,Atenciones de urgencia - Total,86991,2244,8597,10129,55923,10098
+521,SAPU,1,2,Atenciones de urgencia - Total Respiratorios,18919,979,3324,2963,10103,1550
+522,SAPU,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1719,127,331,155,849,257
+523,SAPU,1,4,Atenciones de urgencia - Influenza (J09-J11),152,6,17,29,94,6
+524,SAPU,1,5,Atenciones de urgencia - Neumonía (J12-J18),405,14,42,16,157,176
+525,SAPU,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2671,130,416,415,1487,223
+526,SAPU,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+527,SAPU,1,10,Atenciones de urgencia - IRA Alta (J00-J06),13229,657,2435,2306,7174,657
+528,SAPU,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),743,45,83,42,342,231
+529,SAPU,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
+530,SAPU,2,1,Atenciones de urgencia - Total,74594,1792,7174,9016,48003,8609
+531,SAPU,2,2,Atenciones de urgencia - Total Respiratorios,15021,768,2678,2442,7881,1252
+532,SAPU,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1439,102,289,142,706,200
+533,SAPU,2,4,Atenciones de urgencia - Influenza (J09-J11),69,2,4,12,47,4
+534,SAPU,2,5,Atenciones de urgencia - Neumonía (J12-J18),362,7,23,16,128,188
+535,SAPU,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2075,122,297,322,1164,170
+536,SAPU,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+537,SAPU,2,10,Atenciones de urgencia - IRA Alta (J00-J06),10462,488,1993,1908,5560,513
+538,SAPU,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),614,47,72,42,276,177
+539,SAPU,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
+540,SAPU,3,1,Atenciones de urgencia - Total,72222,1701,6460,8353,47115,8593
+541,SAPU,3,2,Atenciones de urgencia - Total Respiratorios,14210,735,2370,2249,7680,1176
+542,SAPU,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1260,83,224,133,629,191
+543,SAPU,3,4,Atenciones de urgencia - Influenza (J09-J11),69,0,3,8,49,9
+544,SAPU,3,5,Atenciones de urgencia - Neumonía (J12-J18),336,19,25,5,112,175
+545,SAPU,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1834,73,274,303,1037,147
+546,SAPU,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+547,SAPU,3,10,Atenciones de urgencia - IRA Alta (J00-J06),10118,519,1770,1767,5595,467
+548,SAPU,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),593,41,74,33,258,187
+549,SAPU,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
+550,SAPU,4,1,Atenciones de urgencia - Total,69302,1642,5923,7693,45975,8069
+551,SAPU,4,2,Atenciones de urgencia - Total Respiratorios,13245,717,2110,2121,7262,1035
+552,SAPU,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1124,75,199,112,583,155
+553,SAPU,4,4,Atenciones de urgencia - Influenza (J09-J11),71,1,1,7,53,9
+554,SAPU,4,5,Atenciones de urgencia - Neumonía (J12-J18),255,9,20,9,92,125
+555,SAPU,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1702,69,234,269,987,143
+556,SAPU,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+557,SAPU,4,10,Atenciones de urgencia - IRA Alta (J00-J06),9541,532,1600,1689,5300,420
+558,SAPU,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),552,31,56,35,247,183
+559,SAPU,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
+560,SAPU,5,1,Atenciones de urgencia - Total,66257,1635,5629,7470,43831,7692
+561,SAPU,5,2,Atenciones de urgencia - Total Respiratorios,12947,704,2063,1981,7119,1080
+562,SAPU,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),929,75,172,101,440,141
+563,SAPU,5,4,Atenciones de urgencia - Influenza (J09-J11),67,1,0,5,52,9
+564,SAPU,5,5,Atenciones de urgencia - Neumonía (J12-J18),240,6,19,7,81,127
+565,SAPU,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1832,86,264,267,1027,188
+566,SAPU,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+567,SAPU,5,10,Atenciones de urgencia - IRA Alta (J00-J06),9301,494,1540,1579,5248,440
+568,SAPU,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),578,42,68,22,271,175
+569,SAPU,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
+570,SAPU,6,1,Atenciones de urgencia - Total,64659,1788,5339,7006,42918,7608
+571,SAPU,6,2,Atenciones de urgencia - Total Respiratorios,12505,868,1878,1933,6919,907
+572,SAPU,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),944,68,157,89,507,123
+573,SAPU,6,4,Atenciones de urgencia - Influenza (J09-J11),56,0,0,3,50,3
+574,SAPU,6,5,Atenciones de urgencia - Neumonía (J12-J18),222,7,9,4,88,114
+575,SAPU,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1693,89,202,239,1024,139
+576,SAPU,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+577,SAPU,6,10,Atenciones de urgencia - IRA Alta (J00-J06),9067,669,1462,1561,4999,376
+578,SAPU,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),523,35,48,37,251,152
+579,SAPU,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
+580,SAPU,7,1,Atenciones de urgencia - Total,64920,1616,5301,7112,43446,7445
+581,SAPU,7,2,Atenciones de urgencia - Total Respiratorios,13730,729,1998,2087,7835,1081
+582,SAPU,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1002,67,148,101,550,136
+583,SAPU,7,4,Atenciones de urgencia - Influenza (J09-J11),67,0,4,5,46,12
+584,SAPU,7,5,Atenciones de urgencia - Neumonía (J12-J18),262,8,9,9,106,130
+585,SAPU,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1846,83,212,245,1138,168
+586,SAPU,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+587,SAPU,7,10,Atenciones de urgencia - IRA Alta (J00-J06),10070,539,1576,1689,5771,495
+588,SAPU,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),483,32,49,38,224,140
+589,SAPU,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
+590,SAPU,8,1,Atenciones de urgencia - Total,66754,1566,5110,7458,44925,7695
+591,SAPU,8,2,Atenciones de urgencia - Total Respiratorios,13939,659,1933,2211,7949,1187
+592,SAPU,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1130,77,144,121,626,162
+593,SAPU,8,4,Atenciones de urgencia - Influenza (J09-J11),53,1,1,4,45,2
+594,SAPU,8,5,Atenciones de urgencia - Neumonía (J12-J18),261,3,16,6,84,152
+595,SAPU,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1979,98,224,305,1184,168
+596,SAPU,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+597,SAPU,8,10,Atenciones de urgencia - IRA Alta (J00-J06),9994,456,1475,1735,5783,545
+598,SAPU,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),522,24,73,40,227,158
+599,SAPU,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
+600,SAPU,9,1,Atenciones de urgencia - Total,68488,1609,5515,7494,45933,7937
+601,SAPU,9,2,Atenciones de urgencia - Total Respiratorios,15221,718,2162,2337,8735,1269
+602,SAPU,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1207,78,176,139,628,186
+603,SAPU,9,4,Atenciones de urgencia - Influenza (J09-J11),72,0,2,4,61,5
+604,SAPU,9,5,Atenciones de urgencia - Neumonía (J12-J18),291,9,13,6,117,146
+605,SAPU,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2002,93,240,283,1207,179
+606,SAPU,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+607,SAPU,9,10,Atenciones de urgencia - IRA Alta (J00-J06),11115,516,1685,1863,6435,616
+608,SAPU,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),534,22,46,42,287,137
+609,SAPU,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
+610,SAPU,10,1,Atenciones de urgencia - Total,73872,1832,6579,9302,47941,8218
+611,SAPU,10,2,Atenciones de urgencia - Total Respiratorios,18450,925,2978,3359,9900,1288
+612,SAPU,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1413,83,236,188,712,194
+613,SAPU,10,4,Atenciones de urgencia - Influenza (J09-J11),199,2,15,28,143,11
+614,SAPU,10,5,Atenciones de urgencia - Neumonía (J12-J18),264,7,16,10,99,132
+615,SAPU,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2378,111,300,363,1437,167
+616,SAPU,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+617,SAPU,10,10,Atenciones de urgencia - IRA Alta (J00-J06),13568,690,2330,2708,7228,612
+618,SAPU,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),628,32,81,62,281,172
+619,SAPU,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
+620,SAPU,11,1,Atenciones de urgencia - Total,87550,2766,10744,14386,51377,8277
+621,SAPU,11,2,Atenciones de urgencia - Total Respiratorios,32426,1684,6604,7702,14849,1587
+622,SAPU,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2459,127,585,520,1001,226
+623,SAPU,11,4,Atenciones de urgencia - Influenza (J09-J11),223,8,16,29,164,6
+624,SAPU,11,5,Atenciones de urgencia - Neumonía (J12-J18),366,12,28,31,124,171
+625,SAPU,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3945,206,670,878,1978,213
+626,SAPU,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+627,SAPU,11,10,Atenciones de urgencia - IRA Alta (J00-J06),24531,1253,5108,6101,11262,807
+628,SAPU,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),902,78,197,143,320,164
+629,SAPU,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
+630,SAPU,12,1,Atenciones de urgencia - Total,92600,2818,10775,15225,55169,8613
+631,SAPU,12,2,Atenciones de urgencia - Total Respiratorios,36230,1811,6540,8159,17785,1935
+632,SAPU,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3138,220,641,585,1387,305
+633,SAPU,12,4,Atenciones de urgencia - Influenza (J09-J11),333,3,5,42,263,20
+634,SAPU,12,5,Atenciones de urgencia - Neumonía (J12-J18),409,17,36,50,139,167
+635,SAPU,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4328,208,670,905,2314,231
+636,SAPU,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+637,SAPU,12,10,Atenciones de urgencia - IRA Alta (J00-J06),26904,1258,4973,6400,13281,992
+638,SAPU,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1118,105,215,177,401,220
+639,SAPU,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
+640,SAPU,13,1,Atenciones de urgencia - Total,89454,2692,10593,12611,54248,9310
+641,SAPU,13,2,Atenciones de urgencia - Total Respiratorios,31409,1572,5664,5600,16433,2140
+642,SAPU,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3088,233,651,446,1393,365
+643,SAPU,13,4,Atenciones de urgencia - Influenza (J09-J11),287,1,8,33,226,19
+644,SAPU,13,5,Atenciones de urgencia - Neumonía (J12-J18),540,11,45,28,193,263
+645,SAPU,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4027,205,654,623,2265,280
+646,SAPU,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+647,SAPU,13,10,Atenciones de urgencia - IRA Alta (J00-J06),22459,1054,4097,4342,11945,1021
+648,SAPU,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1008,68,209,128,411,192
+649,SAPU,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
+650,SAPU,14,1,Atenciones de urgencia - Total,86349,2359,9797,12314,53308,8571
+651,SAPU,14,2,Atenciones de urgencia - Total Respiratorios,26673,1305,4916,4481,14059,1912
+652,SAPU,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2578,180,550,327,1188,333
+653,SAPU,14,4,Atenciones de urgencia - Influenza (J09-J11),275,2,26,32,198,17
+654,SAPU,14,5,Atenciones de urgencia - Neumonía (J12-J18),495,14,43,29,176,233
+655,SAPU,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3270,142,524,516,1852,236
+656,SAPU,14,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+657,SAPU,14,10,Atenciones de urgencia - IRA Alta (J00-J06),19053,888,3598,3478,10186,903
+658,SAPU,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1002,79,175,99,459,190
+659,SAPU,14,25,Hospitalizaciones - Total,0,0,0,0,0,0
+660,SAPU,15,1,Atenciones de urgencia - Total,83129,2380,9985,12134,50459,8171
+661,SAPU,15,2,Atenciones de urgencia - Total Respiratorios,25805,1321,5175,4524,13061,1724
+662,SAPU,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2689,193,644,330,1201,321
+663,SAPU,15,4,Atenciones de urgencia - Influenza (J09-J11),222,0,27,26,156,13
+664,SAPU,15,5,Atenciones de urgencia - Neumonía (J12-J18),445,13,44,17,155,216
+665,SAPU,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3462,168,626,560,1875,233
+666,SAPU,15,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+667,SAPU,15,10,Atenciones de urgencia - IRA Alta (J00-J06),18091,885,3634,3493,9337,742
+668,SAPU,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),896,62,200,98,337,199
+669,SAPU,15,25,Hospitalizaciones - Total,0,0,0,0,0,0
+670,SAPU,16,1,Atenciones de urgencia - Total,84542,2344,10269,12522,51185,8222
+671,SAPU,16,2,Atenciones de urgencia - Total Respiratorios,26603,1316,5526,4864,13107,1790
+672,SAPU,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2927,193,735,385,1268,346
+673,SAPU,16,4,Atenciones de urgencia - Influenza (J09-J11),204,2,14,18,155,15
+674,SAPU,16,5,Atenciones de urgencia - Neumonía (J12-J18),542,9,59,34,196,244
+675,SAPU,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3381,149,600,654,1770,208
+676,SAPU,16,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+677,SAPU,16,10,Atenciones de urgencia - IRA Alta (J00-J06),18552,869,3871,3659,9360,793
+678,SAPU,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),997,94,247,114,358,184
+679,SAPU,16,25,Hospitalizaciones - Total,0,0,0,0,0,0
+680,SAPU,17,1,Atenciones de urgencia - Total,84242,2392,10648,13049,50047,8106
+681,SAPU,17,2,Atenciones de urgencia - Total Respiratorios,28627,1399,5967,5551,13801,1909
+682,SAPU,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2979,238,786,383,1259,313
+683,SAPU,17,4,Atenciones de urgencia - Influenza (J09-J11),177,0,4,18,145,10
+684,SAPU,17,5,Atenciones de urgencia - Neumonía (J12-J18),510,18,56,36,178,222
+685,SAPU,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3348,159,570,592,1774,253
+686,SAPU,17,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+687,SAPU,17,10,Atenciones de urgencia - IRA Alta (J00-J06),20644,917,4315,4401,10095,916
+688,SAPU,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),969,67,236,121,350,195
+689,SAPU,17,25,Hospitalizaciones - Total,0,0,0,0,0,0
+690,SAPU,18,1,Atenciones de urgencia - Total,82641,2408,10360,11538,49686,8649
+691,SAPU,18,2,Atenciones de urgencia - Total Respiratorios,28659,1476,5891,4969,14177,2146
+692,SAPU,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3146,243,742,431,1324,406
+693,SAPU,18,4,Atenciones de urgencia - Influenza (J09-J11),166,6,5,16,129,10
+694,SAPU,18,5,Atenciones de urgencia - Neumonía (J12-J18),591,19,44,23,195,310
+695,SAPU,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3298,166,568,516,1796,252
+696,SAPU,18,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+697,SAPU,18,10,Atenciones de urgencia - IRA Alta (J00-J06),20308,957,4259,3877,10308,907
+698,SAPU,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1150,85,273,106,425,261
+699,SAPU,18,25,Hospitalizaciones - Total,0,0,0,0,0,0
+700,SAPU,19,1,Atenciones de urgencia - Total,81047,2264,9556,12293,48930,8004
+701,SAPU,19,2,Atenciones de urgencia - Total Respiratorios,27993,1411,5230,5135,14244,1973
+702,SAPU,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3113,216,649,383,1515,350
+703,SAPU,19,4,Atenciones de urgencia - Influenza (J09-J11),144,1,2,20,115,6
+704,SAPU,19,5,Atenciones de urgencia - Neumonía (J12-J18),536,28,44,18,184,262
+705,SAPU,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3751,175,620,680,2035,241
+706,SAPU,19,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+707,SAPU,19,10,Atenciones de urgencia - IRA Alta (J00-J06),19463,900,3687,3935,10046,895
+708,SAPU,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),986,91,228,99,349,219
+709,SAPU,19,25,Hospitalizaciones - Total,0,0,0,0,0,0
+710,SAPU,20,1,Atenciones de urgencia - Total,77430,2102,9652,12209,46331,7136
+711,SAPU,20,2,Atenciones de urgencia - Total Respiratorios,28267,1308,5567,5385,14189,1818
+712,SAPU,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3158,206,703,395,1476,378
+713,SAPU,20,4,Atenciones de urgencia - Influenza (J09-J11),177,4,15,26,122,10
+714,SAPU,20,5,Atenciones de urgencia - Neumonía (J12-J18),536,21,54,17,230,214
+715,SAPU,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3837,164,662,721,2054,236
+716,SAPU,20,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+717,SAPU,20,10,Atenciones de urgencia - IRA Alta (J00-J06),19487,814,3872,4119,9920,762
+718,SAPU,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1072,99,261,107,387,218
+719,SAPU,20,25,Hospitalizaciones - Total,0,0,0,0,0,0
+720,SAPU,21,1,Atenciones de urgencia - Total,86154,2567,11340,12768,51057,8422
+721,SAPU,21,2,Atenciones de urgencia - Total Respiratorios,33792,1643,6819,5996,16896,2438
+722,SAPU,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3954,302,957,490,1723,482
+723,SAPU,21,4,Atenciones de urgencia - Influenza (J09-J11),165,1,7,17,129,11
+724,SAPU,21,5,Atenciones de urgencia - Neumonía (J12-J18),663,18,77,25,231,312
+725,SAPU,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4327,203,729,757,2354,284
+726,SAPU,21,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+727,SAPU,21,10,Atenciones de urgencia - IRA Alta (J00-J06),23427,988,4776,4600,11978,1085
+728,SAPU,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1256,131,273,107,481,264
+729,SAPU,21,25,Hospitalizaciones - Total,0,0,0,0,0,0
+730,SAPU,22,1,Atenciones de urgencia - Total,73423,1889,8471,11385,44732,6946
+731,SAPU,22,2,Atenciones de urgencia - Total Respiratorios,27538,1182,4858,5132,14361,2005
+732,SAPU,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3412,242,749,450,1582,389
+733,SAPU,22,4,Atenciones de urgencia - Influenza (J09-J11),186,1,14,19,145,7
+734,SAPU,22,5,Atenciones de urgencia - Neumonía (J12-J18),560,23,48,32,202,255
+735,SAPU,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3515,126,512,644,1961,272
+736,SAPU,22,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+737,SAPU,22,10,Atenciones de urgencia - IRA Alta (J00-J06),18739,694,3313,3872,10024,836
+738,SAPU,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1126,96,222,115,447,246
+739,SAPU,22,25,Hospitalizaciones - Total,0,0,0,0,0,0
+740,SAPU,23,1,Atenciones de urgencia - Total,75708,1814,8733,12152,45901,7108
+741,SAPU,23,2,Atenciones de urgencia - Total Respiratorios,30394,1173,5196,5923,15961,2141
+742,SAPU,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3884,242,828,514,1855,445
+743,SAPU,23,4,Atenciones de urgencia - Influenza (J09-J11),249,3,16,28,184,18
+744,SAPU,23,5,Atenciones de urgencia - Neumonía (J12-J18),625,19,61,20,235,290
+745,SAPU,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3805,132,596,693,2098,286
+746,SAPU,23,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+747,SAPU,23,10,Atenciones de urgencia - IRA Alta (J00-J06),20613,688,3436,4561,11088,840
+748,SAPU,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1218,89,259,107,501,262
+749,SAPU,23,25,Hospitalizaciones - Total,0,0,0,0,0,0
+750,SAPU,24,1,Atenciones de urgencia - Total,74152,1798,8424,11688,45333,6909
+751,SAPU,24,2,Atenciones de urgencia - Total Respiratorios,29970,1146,5043,5735,15906,2140
+752,SAPU,24,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3920,253,828,515,1859,465
+753,SAPU,24,4,Atenciones de urgencia - Influenza (J09-J11),166,0,0,14,141,11
+754,SAPU,24,5,Atenciones de urgencia - Neumonía (J12-J18),727,33,99,31,282,282
+755,SAPU,24,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3748,141,498,640,2183,286
+756,SAPU,24,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+757,SAPU,24,10,Atenciones de urgencia - IRA Alta (J00-J06),20184,625,3350,4422,10940,847
+758,SAPU,24,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1225,94,268,113,501,249
+759,SAPU,24,25,Hospitalizaciones - Total,0,0,0,0,0,0
+760,SAPU,25,1,Atenciones de urgencia - Total,83009,2236,9628,13701,49564,7880
+761,SAPU,25,2,Atenciones de urgencia - Total Respiratorios,34326,1446,6052,6544,17666,2618
+762,SAPU,25,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),4594,333,986,514,2191,570
+763,SAPU,25,4,Atenciones de urgencia - Influenza (J09-J11),372,3,23,48,274,24
+764,SAPU,25,5,Atenciones de urgencia - Neumonía (J12-J18),992,56,131,30,358,417
+765,SAPU,25,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4345,162,713,835,2324,311
+766,SAPU,25,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+767,SAPU,25,10,Atenciones de urgencia - IRA Alta (J00-J06),22613,771,3842,5002,12011,987
+768,SAPU,25,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1410,121,357,115,508,309
+769,SAPU,25,25,Hospitalizaciones - Total,0,0,0,0,0,0
+770,SAPU,26,1,Atenciones de urgencia - Total,83132,2221,11109,14587,47655,7560
+771,SAPU,26,2,Atenciones de urgencia - Total Respiratorios,35755,1535,7336,7542,16800,2542
+772,SAPU,26,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),5166,350,1366,669,2157,624
+773,SAPU,26,4,Atenciones de urgencia - Influenza (J09-J11),274,1,7,42,204,20
+774,SAPU,26,5,Atenciones de urgencia - Neumonía (J12-J18),1036,50,192,59,367,368
+775,SAPU,26,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4715,194,827,980,2379,335
+776,SAPU,26,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+777,SAPU,26,10,Atenciones de urgencia - IRA Alta (J00-J06),23141,789,4521,5675,11216,940
+778,SAPU,26,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1423,151,423,117,477,255
+779,SAPU,26,25,Hospitalizaciones - Total,0,0,0,0,0,0
+780,SAPU,27,1,Atenciones de urgencia - Total,81643,2500,11112,13138,47304,7589
+781,SAPU,27,2,Atenciones de urgencia - Total Respiratorios,36488,1812,7815,7374,16882,2605
+782,SAPU,27,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),5830,489,1714,782,2188,657
+783,SAPU,27,4,Atenciones de urgencia - Influenza (J09-J11),356,2,16,46,274,18
+784,SAPU,27,5,Atenciones de urgencia - Neumonía (J12-J18),1074,68,226,69,342,369
+785,SAPU,27,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4704,189,910,912,2407,286
+786,SAPU,27,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+787,SAPU,27,10,Atenciones de urgencia - IRA Alta (J00-J06),22916,859,4459,5404,11209,985
+788,SAPU,27,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1608,205,490,161,462,290
+789,SAPU,27,25,Hospitalizaciones - Total,0,0,0,0,0,0
+790,SAPU,28,1,Atenciones de urgencia - Total,83787,2834,11554,11832,48906,8661
+791,SAPU,28,2,Atenciones de urgencia - Total Respiratorios,38566,2098,8205,6743,18528,2992
+792,SAPU,28,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),6262,595,1695,723,2501,748
+793,SAPU,28,4,Atenciones de urgencia - Influenza (J09-J11),491,7,27,59,378,20
+794,SAPU,28,5,Atenciones de urgencia - Neumonía (J12-J18),1178,75,222,61,367,453
+795,SAPU,28,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5028,225,863,913,2657,370
+796,SAPU,28,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+797,SAPU,28,10,Atenciones de urgencia - IRA Alta (J00-J06),23936,963,4930,4853,12102,1088
+798,SAPU,28,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1671,233,468,134,523,313
+799,SAPU,28,25,Hospitalizaciones - Total,0,0,0,0,0,0
+800,SAPU,29,1,Atenciones de urgencia - Total,83230,3431,11748,9625,49377,9049
+801,SAPU,29,2,Atenciones de urgencia - Total Respiratorios,38672,2589,8424,5400,18878,3381
+802,SAPU,29,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),6873,818,1886,663,2698,808
+803,SAPU,29,4,Atenciones de urgencia - Influenza (J09-J11),415,2,25,32,327,29
+804,SAPU,29,5,Atenciones de urgencia - Neumonía (J12-J18),1392,111,289,53,377,562
+805,SAPU,29,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5072,311,886,768,2670,437
+806,SAPU,29,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+807,SAPU,29,10,Atenciones de urgencia - IRA Alta (J00-J06),23140,1073,4822,3761,12266,1218
+808,SAPU,29,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1780,274,516,123,540,327
+809,SAPU,29,25,Hospitalizaciones - Total,0,0,0,0,0,0
+810,SAPU,30,1,Atenciones de urgencia - Total,73481,2574,7762,7385,47307,8453
+811,SAPU,30,2,Atenciones de urgencia - Total Respiratorios,31518,1817,5146,3570,17810,3175
+812,SAPU,30,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),5136,531,1071,402,2353,779
+813,SAPU,30,4,Atenciones de urgencia - Influenza (J09-J11),491,13,24,40,363,51
+814,SAPU,30,5,Atenciones de urgencia - Neumonía (J12-J18),1129,71,152,37,383,486
+815,SAPU,30,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4032,211,588,457,2410,366
+816,SAPU,30,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+817,SAPU,30,10,Atenciones de urgencia - IRA Alta (J00-J06),19395,810,3003,2569,11834,1179
+818,SAPU,30,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1335,181,308,65,467,314
+819,SAPU,30,25,Hospitalizaciones - Total,0,0,0,0,0,0
+820,SAPU,31,1,Atenciones de urgencia - Total,74121,2131,6793,10035,46761,8401
+821,SAPU,31,2,Atenciones de urgencia - Total Respiratorios,29602,1457,4137,4398,16668,2942
+822,SAPU,31,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),4573,431,782,389,2244,727
+823,SAPU,31,4,Atenciones de urgencia - Influenza (J09-J11),381,5,16,37,287,36
+824,SAPU,31,5,Atenciones de urgencia - Neumonía (J12-J18),1137,87,114,22,392,522
+825,SAPU,31,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3820,167,472,562,2302,317
+826,SAPU,31,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+827,SAPU,31,10,Atenciones de urgencia - IRA Alta (J00-J06),18563,634,2531,3319,11040,1039
+828,SAPU,31,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1128,133,222,69,403,301
+829,SAPU,31,25,Hospitalizaciones - Total,0,0,0,0,0,0
+830,SAPU,32,1,Atenciones de urgencia - Total,85572,2352,9146,13399,51375,9300
+831,SAPU,32,2,Atenciones de urgencia - Total Respiratorios,36242,1572,5883,7024,18555,3208
+832,SAPU,32,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),5355,422,1078,665,2417,773
+833,SAPU,32,4,Atenciones de urgencia - Influenza (J09-J11),426,4,13,73,320,16
+834,SAPU,32,5,Atenciones de urgencia - Neumonía (J12-J18),1143,60,118,37,388,540
+835,SAPU,32,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4626,185,696,878,2495,372
+836,SAPU,32,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+837,SAPU,32,10,Atenciones de urgencia - IRA Alta (J00-J06),23393,768,3681,5270,12491,1183
+838,SAPU,32,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1299,133,297,101,444,324
+839,SAPU,32,25,Hospitalizaciones - Total,0,0,0,0,0,0
+840,SAPU,33,1,Atenciones de urgencia - Total,97939,3091,11864,15967,56472,10545
+841,SAPU,33,2,Atenciones de urgencia - Total Respiratorios,43961,2196,8162,9253,20621,3729
+842,SAPU,33,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),6752,630,1523,956,2712,931
+843,SAPU,33,4,Atenciones de urgencia - Influenza (J09-J11),461,3,17,82,331,28
+844,SAPU,33,5,Atenciones de urgencia - Neumonía (J12-J18),1345,80,167,68,402,628
+845,SAPU,33,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5306,243,845,1136,2678,404
+846,SAPU,33,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+847,SAPU,33,10,Atenciones de urgencia - IRA Alta (J00-J06),28555,1037,5244,6871,14013,1390
+848,SAPU,33,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1542,203,366,140,485,348
+849,SAPU,33,25,Hospitalizaciones - Total,0,0,0,0,0,0
+850,SAPU,34,1,Atenciones de urgencia - Total,87830,2591,9990,14907,51529,8813
+851,SAPU,34,2,Atenciones de urgencia - Total Respiratorios,38669,1864,6542,8486,18732,3045
+852,SAPU,34,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),5593,512,1145,835,2335,766
+853,SAPU,34,4,Atenciones de urgencia - Influenza (J09-J11),411,3,16,57,299,36
+854,SAPU,34,5,Atenciones de urgencia - Neumonía (J12-J18),1072,67,123,48,367,467
+855,SAPU,34,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5037,229,758,1098,2623,329
+856,SAPU,34,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+857,SAPU,34,10,Atenciones de urgencia - IRA Alta (J00-J06),25099,862,4180,6288,12619,1150
+858,SAPU,34,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1457,191,320,160,489,297
+859,SAPU,34,25,Hospitalizaciones - Total,0,0,0,0,0,0
+860,SAPU,35,1,Atenciones de urgencia - Total,87164,2461,9680,14834,51162,9027
+861,SAPU,35,2,Atenciones de urgencia - Total Respiratorios,36046,1641,6014,7973,17557,2861
+862,SAPU,35,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),5113,443,997,772,2246,655
+863,SAPU,35,4,Atenciones de urgencia - Influenza (J09-J11),347,2,16,57,255,17
+864,SAPU,35,5,Atenciones de urgencia - Neumonía (J12-J18),964,50,96,37,317,464
+865,SAPU,35,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4421,172,657,919,2302,371
+866,SAPU,35,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+867,SAPU,35,10,Atenciones de urgencia - IRA Alta (J00-J06),23855,834,3936,6048,11947,1090
+868,SAPU,35,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1346,140,312,140,490,264
+869,SAPU,35,25,Hospitalizaciones - Total,0,0,0,0,0,0
+870,SAPU,36,1,Atenciones de urgencia - Total,88244,2406,10032,14487,52032,9287
+871,SAPU,36,2,Atenciones de urgencia - Total Respiratorios,35408,1581,6101,7593,17211,2922
+872,SAPU,36,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),4822,401,947,740,2071,663
+873,SAPU,36,4,Atenciones de urgencia - Influenza (J09-J11),315,3,17,57,218,20
+874,SAPU,36,5,Atenciones de urgencia - Neumonía (J12-J18),996,55,114,55,323,449
+875,SAPU,36,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4421,197,689,911,2272,352
+876,SAPU,36,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+877,SAPU,36,10,Atenciones de urgencia - IRA Alta (J00-J06),23735,819,4128,5725,11917,1146
+878,SAPU,36,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1119,106,206,105,410,292
+879,SAPU,36,25,Hospitalizaciones - Total,0,0,0,0,0,0
+880,SAPU,37,1,Atenciones de urgencia - Total,81751,2220,9448,12888,48675,8520
+881,SAPU,37,2,Atenciones de urgencia - Total Respiratorios,31989,1457,5559,6601,15879,2493
+882,SAPU,37,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),4266,386,881,590,1850,559
+883,SAPU,37,4,Atenciones de urgencia - Influenza (J09-J11),227,2,13,41,155,16
+884,SAPU,37,5,Atenciones de urgencia - Neumonía (J12-J18),877,44,98,44,277,414
+885,SAPU,37,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4150,201,655,854,2156,284
+886,SAPU,37,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+887,SAPU,37,10,Atenciones de urgencia - IRA Alta (J00-J06),21420,704,3697,4969,11078,972
+888,SAPU,37,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1049,120,215,103,363,248
+889,SAPU,37,25,Hospitalizaciones - Total,0,0,0,0,0,0
+890,SAPU,38,1,Atenciones de urgencia - Total,84033,2516,9025,10032,52487,9973
+891,SAPU,38,2,Atenciones de urgencia - Total Respiratorios,30424,1617,5273,4957,15731,2846
+892,SAPU,38,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),4662,416,923,557,2122,644
+893,SAPU,38,4,Atenciones de urgencia - Influenza (J09-J11),218,3,9,20,171,15
+894,SAPU,38,5,Atenciones de urgencia - Neumonía (J12-J18),813,36,71,32,245,429
+895,SAPU,38,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3734,171,587,643,2010,323
+896,SAPU,38,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+897,SAPU,38,10,Atenciones de urgencia - IRA Alta (J00-J06),19768,859,3458,3616,10701,1134
+898,SAPU,38,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1229,132,225,89,482,301
+899,SAPU,38,25,Hospitalizaciones - Total,0,0,0,0,0,0
+900,SAPU,39,1,Atenciones de urgencia - Total,82051,2009,7477,11975,51970,8620
+901,SAPU,39,2,Atenciones de urgencia - Total Respiratorios,27102,1187,3841,4879,14892,2303
+902,SAPU,39,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3436,241,523,395,1783,494
+903,SAPU,39,4,Atenciones de urgencia - Influenza (J09-J11),168,1,4,18,140,5
+904,SAPU,39,5,Atenciones de urgencia - Neumonía (J12-J18),748,23,60,35,270,360
+905,SAPU,39,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3502,168,451,623,1984,276
+906,SAPU,39,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+907,SAPU,39,10,Atenciones de urgencia - IRA Alta (J00-J06),18253,672,2647,3726,10304,904
+908,SAPU,39,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),995,82,156,82,411,264
+909,SAPU,39,25,Hospitalizaciones - Total,0,0,0,0,0,0
+910,SAPU,40,1,Atenciones de urgencia - Total,79516,1871,8289,12428,48424,8504
+911,SAPU,40,2,Atenciones de urgencia - Total Respiratorios,26102,1069,4286,5185,13470,2092
+912,SAPU,40,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3033,212,544,407,1437,433
+913,SAPU,40,4,Atenciones de urgencia - Influenza (J09-J11),161,0,8,25,114,14
+914,SAPU,40,5,Atenciones de urgencia - Neumonía (J12-J18),621,16,46,24,229,306
+915,SAPU,40,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3373,136,475,637,1885,240
+916,SAPU,40,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+917,SAPU,40,10,Atenciones de urgencia - IRA Alta (J00-J06),17976,634,3045,4019,9421,857
+918,SAPU,40,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),938,71,168,73,384,242
+919,SAPU,40,25,Hospitalizaciones - Total,0,0,0,0,0,0
+920,SAPU,41,1,Atenciones de urgencia - Total,80826,2010,9036,13281,48352,8147
+921,SAPU,41,2,Atenciones de urgencia - Total Respiratorios,27309,1189,4886,5962,13316,1956
+922,SAPU,41,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3243,236,668,468,1450,421
+923,SAPU,41,4,Atenciones de urgencia - Influenza (J09-J11),133,2,4,27,91,9
+924,SAPU,41,5,Atenciones de urgencia - Neumonía (J12-J18),591,26,61,40,209,255
+925,SAPU,41,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3566,159,557,720,1872,258
+926,SAPU,41,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+927,SAPU,41,10,Atenciones de urgencia - IRA Alta (J00-J06),18835,683,3459,4595,9287,811
+928,SAPU,41,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),941,83,137,112,407,202
+929,SAPU,41,25,Hospitalizaciones - Total,0,0,0,0,0,0
+930,SAPU,42,1,Atenciones de urgencia - Total,83000,2215,9252,12351,50429,8753
+931,SAPU,42,2,Atenciones de urgencia - Total Respiratorios,28108,1336,4908,5709,14088,2067
+932,SAPU,42,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3223,263,601,491,1453,415
+933,SAPU,42,4,Atenciones de urgencia - Influenza (J09-J11),152,1,15,20,108,8
+934,SAPU,42,5,Atenciones de urgencia - Neumonía (J12-J18),598,25,61,33,184,295
+935,SAPU,42,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3497,174,575,641,1857,250
+936,SAPU,42,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+937,SAPU,42,10,Atenciones de urgencia - IRA Alta (J00-J06),19747,786,3501,4418,10145,897
+938,SAPU,42,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),891,87,155,106,341,202
+939,SAPU,42,25,Hospitalizaciones - Total,0,0,0,0,0,0
+940,SAPU,43,1,Atenciones de urgencia - Total,82998,2075,8799,13422,50160,8542
+941,SAPU,43,2,Atenciones de urgencia - Total Respiratorios,26866,1192,4428,5704,13636,1906
+942,SAPU,43,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2924,233,532,453,1344,362
+943,SAPU,43,4,Atenciones de urgencia - Influenza (J09-J11),122,2,9,16,88,7
+944,SAPU,43,5,Atenciones de urgencia - Neumonía (J12-J18),559,33,39,34,179,274
+945,SAPU,43,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3825,146,567,775,2063,274
+946,SAPU,43,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+947,SAPU,43,10,Atenciones de urgencia - IRA Alta (J00-J06),18546,722,3141,4339,9565,779
+948,SAPU,43,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),890,56,140,87,397,210
+949,SAPU,43,25,Hospitalizaciones - Total,0,0,0,0,0,0
+950,SAPU,44,1,Atenciones de urgencia - Total,80555,2084,8183,12002,49132,9154
+951,SAPU,44,2,Atenciones de urgencia - Total Respiratorios,24103,1162,3963,5053,11992,1933
+952,SAPU,44,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2903,201,505,476,1306,415
+953,SAPU,44,4,Atenciones de urgencia - Influenza (J09-J11),80,1,3,12,55,9
+954,SAPU,44,5,Atenciones de urgencia - Neumonía (J12-J18),551,23,45,33,189,261
+955,SAPU,44,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3213,135,486,638,1710,244
+956,SAPU,44,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+957,SAPU,44,10,Atenciones de urgencia - IRA Alta (J00-J06),16423,733,2771,3796,8367,756
+958,SAPU,44,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),933,69,153,98,365,248
+959,SAPU,44,25,Hospitalizaciones - Total,0,0,0,0,0,0
+960,SAPU,45,1,Atenciones de urgencia - Total,80273,2078,8327,12864,48508,8496
+961,SAPU,45,2,Atenciones de urgencia - Total Respiratorios,23178,1066,3825,4783,11884,1620
+962,SAPU,45,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2466,166,425,377,1205,293
+963,SAPU,45,4,Atenciones de urgencia - Influenza (J09-J11),75,0,2,9,60,4
+964,SAPU,45,5,Atenciones de urgencia - Neumonía (J12-J18),502,19,44,30,167,242
+965,SAPU,45,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3237,151,470,623,1769,224
+966,SAPU,45,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+967,SAPU,45,10,Atenciones de urgencia - IRA Alta (J00-J06),15991,673,2753,3645,8252,668
+968,SAPU,45,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),907,57,131,99,431,189
+969,SAPU,45,25,Hospitalizaciones - Total,0,0,0,0,0,0
+970,SAPU,46,1,Atenciones de urgencia - Total,78137,1953,8176,12911,46957,8140
+971,SAPU,46,2,Atenciones de urgencia - Total Respiratorios,21510,953,3673,4730,10723,1431
+972,SAPU,46,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2147,134,421,357,1006,229
+973,SAPU,46,4,Atenciones de urgencia - Influenza (J09-J11),90,1,2,11,68,8
+974,SAPU,46,5,Atenciones de urgencia - Neumonía (J12-J18),393,17,34,18,146,178
+975,SAPU,46,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3009,138,439,640,1568,224
+976,SAPU,46,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+977,SAPU,46,10,Atenciones de urgencia - IRA Alta (J00-J06),15103,619,2665,3621,7589,609
+978,SAPU,46,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),768,44,112,83,346,183
+979,SAPU,46,25,Hospitalizaciones - Total,0,0,0,0,0,0
+980,SAPU,47,1,Atenciones de urgencia - Total,81717,1958,8900,13944,48521,8394
+981,SAPU,47,2,Atenciones de urgencia - Total Respiratorios,21223,878,3808,4920,10201,1416
+982,SAPU,47,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2076,148,421,348,921,238
+983,SAPU,47,4,Atenciones de urgencia - Influenza (J09-J11),85,3,10,10,58,4
+984,SAPU,47,5,Atenciones de urgencia - Neumonía (J12-J18),431,14,41,28,146,202
+985,SAPU,47,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2833,130,418,631,1443,211
+986,SAPU,47,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+987,SAPU,47,10,Atenciones de urgencia - IRA Alta (J00-J06),15032,553,2802,3831,7275,571
+988,SAPU,47,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),766,30,116,72,358,190
+989,SAPU,47,25,Hospitalizaciones - Total,0,0,0,0,0,0
+990,SAPU,48,1,Atenciones de urgencia - Total,80292,2138,8799,14145,47133,8077
+991,SAPU,48,2,Atenciones de urgencia - Total Respiratorios,21097,990,3720,5225,9797,1365
+992,SAPU,48,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2044,164,394,332,890,264
+993,SAPU,48,4,Atenciones de urgencia - Influenza (J09-J11),83,1,5,16,52,9
+994,SAPU,48,5,Atenciones de urgencia - Neumonía (J12-J18),357,13,26,25,137,156
+995,SAPU,48,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2861,145,395,642,1477,202
+996,SAPU,48,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+997,SAPU,48,10,Atenciones de urgencia - IRA Alta (J00-J06),15037,624,2798,4130,6926,559
+998,SAPU,48,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),715,43,102,80,315,175
+999,SAPU,48,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1000,SAPU,49,1,Atenciones de urgencia - Total,76481,1910,7890,12834,45740,8107
+1001,SAPU,49,2,Atenciones de urgencia - Total Respiratorios,19611,851,3222,4714,9468,1356
+1002,SAPU,49,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1805,124,314,291,827,249
+1003,SAPU,49,4,Atenciones de urgencia - Influenza (J09-J11),108,2,8,28,64,6
+1004,SAPU,49,5,Atenciones de urgencia - Neumonía (J12-J18),396,11,41,29,127,188
+1005,SAPU,49,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2771,123,376,585,1500,187
+1006,SAPU,49,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1007,SAPU,49,10,Atenciones de urgencia - IRA Alta (J00-J06),13899,546,2407,3718,6662,566
+1008,SAPU,49,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),632,45,76,63,288,160
+1009,SAPU,49,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1010,SAPU,50,1,Atenciones de urgencia - Total,75070,1993,8164,11575,45115,8223
+1011,SAPU,50,2,Atenciones de urgencia - Total Respiratorios,19389,930,3426,4117,9560,1356
+1012,SAPU,50,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1721,125,331,283,746,236
+1013,SAPU,50,4,Atenciones de urgencia - Influenza (J09-J11),63,0,3,9,45,6
+1014,SAPU,50,5,Atenciones de urgencia - Neumonía (J12-J18),352,14,30,15,121,172
+1015,SAPU,50,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2620,123,380,542,1375,200
+1016,SAPU,50,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1017,SAPU,50,10,Atenciones de urgencia - IRA Alta (J00-J06),14003,627,2581,3216,7002,577
+1018,SAPU,50,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),630,41,101,52,271,165
+1019,SAPU,50,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1020,SAPU,51,1,Atenciones de urgencia - Total,74389,2045,8269,10506,45348,8221
+1021,SAPU,51,2,Atenciones de urgencia - Total Respiratorios,18339,904,3349,3598,9183,1305
+1022,SAPU,51,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1710,131,343,235,774,227
+1023,SAPU,51,4,Atenciones de urgencia - Influenza (J09-J11),48,1,1,4,38,4
+1024,SAPU,51,5,Atenciones de urgencia - Neumonía (J12-J18),357,14,24,18,115,186
+1025,SAPU,51,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2508,129,432,448,1319,180
+1026,SAPU,51,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1027,SAPU,51,10,Atenciones de urgencia - IRA Alta (J00-J06),13207,600,2478,2848,6733,548
+1028,SAPU,51,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),509,29,71,45,204,160
+1029,SAPU,51,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1030,SAPU,52,1,Atenciones de urgencia - Total,77398,2160,8129,9820,48080,9209
+1031,SAPU,52,2,Atenciones de urgencia - Total Respiratorios,18208,980,3279,3070,9422,1457
+1032,SAPU,52,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1573,104,338,181,733,217
+1033,SAPU,52,4,Atenciones de urgencia - Influenza (J09-J11),77,6,6,9,55,1
+1034,SAPU,52,5,Atenciones de urgencia - Neumonía (J12-J18),371,11,34,8,122,196
+1035,SAPU,52,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2421,149,387,385,1282,218
+1036,SAPU,52,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1037,SAPU,52,10,Atenciones de urgencia - IRA Alta (J00-J06),13107,647,2434,2451,6946,629
+1038,SAPU,52,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),659,63,80,36,284,196
+1039,SAPU,52,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1040,SAR,1,1,Atenciones de urgencia - Total,15174,431,1322,1730,9478,2213
+1041,SAR,1,2,Atenciones de urgencia - Total Respiratorios,2810,187,475,456,1392,300
+1042,SAR,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),320,22,50,51,156,41
+1043,SAR,1,4,Atenciones de urgencia - Influenza (J09-J11),11,0,0,1,9,1
+1044,SAR,1,5,Atenciones de urgencia - Neumonía (J12-J18),94,2,7,6,22,57
+1045,SAR,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",322,17,45,54,159,47
+1046,SAR,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1047,SAR,1,10,Atenciones de urgencia - IRA Alta (J00-J06),1945,138,364,339,996,108
+1048,SAR,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),118,8,9,5,50,46
+1049,SAR,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1050,SAR,2,1,Atenciones de urgencia - Total,12174,235,1033,1363,7826,1717
+1051,SAR,2,2,Atenciones de urgencia - Total Respiratorios,2180,88,381,334,1115,262
+1052,SAR,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),215,12,38,18,100,47
+1053,SAR,2,4,Atenciones de urgencia - Influenza (J09-J11),13,0,0,1,10,2
+1054,SAR,2,5,Atenciones de urgencia - Neumonía (J12-J18),79,0,4,2,21,52
+1055,SAR,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",305,15,39,42,175,34
+1056,SAR,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1057,SAR,2,10,Atenciones de urgencia - IRA Alta (J00-J06),1466,59,292,267,771,77
+1058,SAR,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),102,2,8,4,38,50
+1059,SAR,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1060,SAR,3,1,Atenciones de urgencia - Total,12298,286,999,1295,7917,1801
+1061,SAR,3,2,Atenciones de urgencia - Total Respiratorios,2103,121,350,292,1083,257
+1062,SAR,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),241,16,58,13,98,56
+1063,SAR,3,4,Atenciones de urgencia - Influenza (J09-J11),13,0,0,0,11,2
+1064,SAR,3,5,Atenciones de urgencia - Neumonía (J12-J18),67,1,2,1,22,41
+1065,SAR,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",261,24,32,36,131,38
+1066,SAR,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1067,SAR,3,10,Atenciones de urgencia - IRA Alta (J00-J06),1424,77,253,238,773,83
+1068,SAR,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),97,3,5,4,48,37
+1069,SAR,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1070,SAR,4,1,Atenciones de urgencia - Total,11780,272,904,1161,7757,1686
+1071,SAR,4,2,Atenciones de urgencia - Total Respiratorios,1918,128,329,260,985,216
+1072,SAR,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),189,16,31,9,90,43
+1073,SAR,4,4,Atenciones de urgencia - Influenza (J09-J11),12,0,0,0,10,2
+1074,SAR,4,5,Atenciones de urgencia - Neumonía (J12-J18),57,4,4,0,22,27
+1075,SAR,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",293,16,55,35,148,39
+1076,SAR,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1077,SAR,4,10,Atenciones de urgencia - IRA Alta (J00-J06),1287,89,234,215,680,69
+1078,SAR,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),80,3,5,1,35,36
+1079,SAR,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1080,SAR,5,1,Atenciones de urgencia - Total,11627,222,903,1226,7596,1680
+1081,SAR,5,2,Atenciones de urgencia - Total Respiratorios,1901,88,302,320,992,199
+1082,SAR,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),165,8,36,15,71,35
+1083,SAR,5,4,Atenciones de urgencia - Influenza (J09-J11),11,0,0,1,5,5
+1084,SAR,5,5,Atenciones de urgencia - Neumonía (J12-J18),64,2,2,1,14,45
+1085,SAR,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",250,15,41,37,130,27
+1086,SAR,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1087,SAR,5,10,Atenciones de urgencia - IRA Alta (J00-J06),1344,55,218,262,744,65
+1088,SAR,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),67,8,5,4,28,22
+1089,SAR,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1090,SAR,6,1,Atenciones de urgencia - Total,11525,212,799,1207,7676,1631
+1091,SAR,6,2,Atenciones de urgencia - Total Respiratorios,1819,98,289,297,956,179
+1092,SAR,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),192,21,24,21,95,31
+1093,SAR,6,4,Atenciones de urgencia - Influenza (J09-J11),8,0,0,0,7,1
+1094,SAR,6,5,Atenciones de urgencia - Neumonía (J12-J18),52,0,1,0,23,28
+1095,SAR,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",259,4,42,33,157,23
+1096,SAR,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1097,SAR,6,10,Atenciones de urgencia - IRA Alta (J00-J06),1238,71,222,239,645,61
+1098,SAR,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),70,2,0,4,29,35
+1099,SAR,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1100,SAR,7,1,Atenciones de urgencia - Total,11725,239,854,1255,7654,1723
+1101,SAR,7,2,Atenciones de urgencia - Total Respiratorios,2073,85,319,321,1131,217
+1102,SAR,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),215,11,38,27,90,49
+1103,SAR,7,4,Atenciones de urgencia - Influenza (J09-J11),24,0,0,0,17,7
+1104,SAR,7,5,Atenciones de urgencia - Neumonía (J12-J18),56,0,2,3,17,34
+1105,SAR,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",211,13,27,21,122,28
+1106,SAR,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1107,SAR,7,10,Atenciones de urgencia - IRA Alta (J00-J06),1478,59,250,266,840,63
+1108,SAR,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),89,2,2,4,45,36
+1109,SAR,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1110,SAR,8,1,Atenciones de urgencia - Total,11943,203,827,1206,7982,1725
+1111,SAR,8,2,Atenciones de urgencia - Total Respiratorios,2057,76,291,329,1129,232
+1112,SAR,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),223,9,33,19,112,50
+1113,SAR,8,4,Atenciones de urgencia - Influenza (J09-J11),19,0,0,1,17,1
+1114,SAR,8,5,Atenciones de urgencia - Neumonía (J12-J18),51,1,1,0,12,37
+1115,SAR,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",238,13,34,32,134,25
+1116,SAR,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1117,SAR,8,10,Atenciones de urgencia - IRA Alta (J00-J06),1436,49,218,271,816,82
+1118,SAR,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),90,4,5,6,38,37
+1119,SAR,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1120,SAR,9,1,Atenciones de urgencia - Total,12011,239,846,1181,7970,1775
+1121,SAR,9,2,Atenciones de urgencia - Total Respiratorios,2215,102,292,332,1272,217
+1122,SAR,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),238,20,33,23,124,38
+1123,SAR,9,4,Atenciones de urgencia - Influenza (J09-J11),11,0,0,0,10,1
+1124,SAR,9,5,Atenciones de urgencia - Neumonía (J12-J18),64,2,5,0,22,35
+1125,SAR,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",304,13,30,32,208,21
+1126,SAR,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1127,SAR,9,10,Atenciones de urgencia - IRA Alta (J00-J06),1509,59,220,271,868,91
+1128,SAR,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),89,8,4,6,40,31
+1129,SAR,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1130,SAR,10,1,Atenciones de urgencia - Total,12928,251,1080,1494,8227,1876
+1131,SAR,10,2,Atenciones de urgencia - Total Respiratorios,2609,137,439,457,1296,280
+1132,SAR,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),260,18,44,28,107,63
+1133,SAR,10,4,Atenciones de urgencia - Influenza (J09-J11),22,0,2,2,15,3
+1134,SAR,10,5,Atenciones de urgencia - Neumonía (J12-J18),63,1,4,1,12,45
+1135,SAR,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",325,19,59,36,182,29
+1136,SAR,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1137,SAR,10,10,Atenciones de urgencia - IRA Alta (J00-J06),1828,93,318,377,937,103
+1138,SAR,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),111,6,12,13,43,37
+1139,SAR,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1140,SAR,11,1,Atenciones de urgencia - Total,14158,366,1663,2194,8138,1797
+1141,SAR,11,2,Atenciones de urgencia - Total Respiratorios,4130,229,912,906,1799,284
+1142,SAR,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),385,26,115,53,145,46
+1143,SAR,11,4,Atenciones de urgencia - Influenza (J09-J11),27,1,1,1,21,3
+1144,SAR,11,5,Atenciones de urgencia - Neumonía (J12-J18),81,3,7,10,20,41
+1145,SAR,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",458,35,103,100,195,25
+1146,SAR,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1147,SAR,11,10,Atenciones de urgencia - IRA Alta (J00-J06),3021,153,659,717,1362,130
+1148,SAR,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),158,11,27,25,56,39
+1149,SAR,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1150,SAR,12,1,Atenciones de urgencia - Total,15266,406,1680,2218,9136,1826
+1151,SAR,12,2,Atenciones de urgencia - Total Respiratorios,4764,241,908,987,2280,348
+1152,SAR,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),551,32,126,95,233,65
+1153,SAR,12,4,Atenciones de urgencia - Influenza (J09-J11),17,0,0,2,12,3
+1154,SAR,12,5,Atenciones de urgencia - Neumonía (J12-J18),111,5,14,17,31,44
+1155,SAR,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",390,19,69,97,180,25
+1156,SAR,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1157,SAR,12,10,Atenciones de urgencia - IRA Alta (J00-J06),3540,179,675,752,1760,174
+1158,SAR,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),155,6,24,24,64,37
+1159,SAR,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1160,SAR,13,1,Atenciones de urgencia - Total,15035,385,1637,1788,9235,1990
+1161,SAR,13,2,Atenciones de urgencia - Total Respiratorios,4410,251,809,701,2212,437
+1162,SAR,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),515,39,88,59,240,89
+1163,SAR,13,4,Atenciones de urgencia - Influenza (J09-J11),75,2,15,8,49,1
+1164,SAR,13,5,Atenciones de urgencia - Neumonía (J12-J18),104,1,7,3,37,56
+1165,SAR,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",382,16,65,79,172,50
+1166,SAR,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1167,SAR,13,10,Atenciones de urgencia - IRA Alta (J00-J06),3157,189,611,529,1650,178
+1168,SAR,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),177,4,23,23,64,63
+1169,SAR,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1170,SAR,14,1,Atenciones de urgencia - Total,14643,350,1521,1887,8973,1912
+1171,SAR,14,2,Atenciones de urgencia - Total Respiratorios,3760,193,705,579,1865,418
+1172,SAR,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),505,37,104,56,230,78
+1173,SAR,14,4,Atenciones de urgencia - Influenza (J09-J11),39,2,2,5,27,3
+1174,SAR,14,5,Atenciones de urgencia - Neumonía (J12-J18),84,0,6,1,26,51
+1175,SAR,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",285,13,46,48,126,52
+1176,SAR,14,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1177,SAR,14,10,Atenciones de urgencia - IRA Alta (J00-J06),2702,133,523,451,1412,183
+1178,SAR,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),145,8,24,18,44,51
+1179,SAR,14,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1180,SAR,15,1,Atenciones de urgencia - Total,13818,322,1480,1825,8333,1858
+1181,SAR,15,2,Atenciones de urgencia - Total Respiratorios,3705,187,719,597,1867,335
+1182,SAR,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),468,43,126,40,198,61
+1183,SAR,15,4,Atenciones de urgencia - Influenza (J09-J11),46,0,1,11,31,3
+1184,SAR,15,5,Atenciones de urgencia - Neumonía (J12-J18),67,2,8,0,17,40
+1185,SAR,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",282,16,35,46,153,32
+1186,SAR,15,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1187,SAR,15,10,Atenciones de urgencia - IRA Alta (J00-J06),2703,123,529,488,1399,164
+1188,SAR,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),139,3,20,12,69,35
+1189,SAR,15,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1190,SAR,16,1,Atenciones de urgencia - Total,14122,410,1611,1829,8566,1706
+1191,SAR,16,2,Atenciones de urgencia - Total Respiratorios,3884,236,836,615,1843,354
+1192,SAR,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),554,55,153,53,227,66
+1193,SAR,16,4,Atenciones de urgencia - Influenza (J09-J11),23,0,2,1,19,1
+1194,SAR,16,5,Atenciones de urgencia - Neumonía (J12-J18),72,1,11,1,16,43
+1195,SAR,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",401,21,71,68,196,45
+1196,SAR,16,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1197,SAR,16,10,Atenciones de urgencia - IRA Alta (J00-J06),2701,149,580,477,1342,153
+1198,SAR,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),133,10,19,15,43,46
+1199,SAR,16,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1200,SAR,17,1,Atenciones de urgencia - Total,13910,359,1608,1867,8300,1776
+1201,SAR,17,2,Atenciones de urgencia - Total Respiratorios,3965,218,829,709,1864,345
+1202,SAR,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),558,46,126,68,252,66
+1203,SAR,17,4,Atenciones de urgencia - Influenza (J09-J11),21,0,0,2,17,2
+1204,SAR,17,5,Atenciones de urgencia - Neumonía (J12-J18),96,2,9,2,30,53
+1205,SAR,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",340,19,76,61,157,27
+1206,SAR,17,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1207,SAR,17,10,Atenciones de urgencia - IRA Alta (J00-J06),2796,140,595,558,1357,146
+1208,SAR,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),154,11,23,18,51,51
+1209,SAR,17,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1210,SAR,18,1,Atenciones de urgencia - Total,13889,356,1610,1751,8368,1804
+1211,SAR,18,2,Atenciones de urgencia - Total Respiratorios,4301,241,870,727,2056,407
+1212,SAR,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),588,50,152,64,236,86
+1213,SAR,18,4,Atenciones de urgencia - Influenza (J09-J11),40,0,1,4,29,6
+1214,SAR,18,5,Atenciones de urgencia - Neumonía (J12-J18),100,1,4,0,34,61
+1215,SAR,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",474,32,112,90,201,39
+1216,SAR,18,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1217,SAR,18,10,Atenciones de urgencia - IRA Alta (J00-J06),2935,143,579,556,1491,166
+1218,SAR,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),164,15,22,13,65,49
+1219,SAR,18,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1220,SAR,19,1,Atenciones de urgencia - Total,13715,371,1491,1787,8306,1760
+1221,SAR,19,2,Atenciones de urgencia - Total Respiratorios,4055,235,802,655,1989,374
+1222,SAR,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),536,41,133,57,216,89
+1223,SAR,19,4,Atenciones de urgencia - Influenza (J09-J11),16,0,1,0,11,4
+1224,SAR,19,5,Atenciones de urgencia - Neumonía (J12-J18),121,7,11,7,30,66
+1225,SAR,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",366,28,68,74,161,35
+1226,SAR,19,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1227,SAR,19,10,Atenciones de urgencia - IRA Alta (J00-J06),2888,152,575,510,1513,138
+1228,SAR,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),128,7,14,7,58,42
+1229,SAR,19,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1230,SAR,20,1,Atenciones de urgencia - Total,13189,308,1504,1903,7870,1604
+1231,SAR,20,2,Atenciones de urgencia - Total Respiratorios,4315,207,832,770,2102,404
+1232,SAR,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),678,42,177,85,271,103
+1233,SAR,20,4,Atenciones de urgencia - Influenza (J09-J11),82,5,8,11,53,5
+1234,SAR,20,5,Atenciones de urgencia - Neumonía (J12-J18),128,6,12,3,35,72
+1235,SAR,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",385,25,75,75,172,38
+1236,SAR,20,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1237,SAR,20,10,Atenciones de urgencia - IRA Alta (J00-J06),2915,122,548,583,1519,143
+1238,SAR,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),127,7,12,13,52,43
+1239,SAR,20,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1240,SAR,21,1,Atenciones de urgencia - Total,14615,552,1680,1911,8669,1803
+1241,SAR,21,2,Atenciones de urgencia - Total Respiratorios,4953,321,972,774,2456,430
+1242,SAR,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),753,79,184,90,287,113
+1243,SAR,21,4,Atenciones de urgencia - Influenza (J09-J11),41,0,1,4,33,3
+1244,SAR,21,5,Atenciones de urgencia - Neumonía (J12-J18),142,4,18,2,55,63
+1245,SAR,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",345,21,76,45,172,31
+1246,SAR,21,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1247,SAR,21,10,Atenciones de urgencia - IRA Alta (J00-J06),3516,198,671,624,1840,183
+1248,SAR,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),156,19,22,9,69,37
+1249,SAR,21,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1250,SAR,22,1,Atenciones de urgencia - Total,12459,289,1367,1779,7527,1497
+1251,SAR,22,2,Atenciones de urgencia - Total Respiratorios,4173,191,726,757,2110,389
+1252,SAR,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),566,41,114,54,276,81
+1253,SAR,22,4,Atenciones de urgencia - Influenza (J09-J11),19,0,2,3,9,5
+1254,SAR,22,5,Atenciones de urgencia - Neumonía (J12-J18),129,6,11,8,42,62
+1255,SAR,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",232,10,30,39,115,38
+1256,SAR,22,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1257,SAR,22,10,Atenciones de urgencia - IRA Alta (J00-J06),3108,127,551,643,1608,179
+1258,SAR,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),119,7,18,10,60,24
+1259,SAR,22,25,Hospitalizaciones - Total,46,0,6,3,30,7
+1260,SAR,23,1,Atenciones de urgencia - Total,12992,298,1355,1952,7773,1614
+1261,SAR,23,2,Atenciones de urgencia - Total Respiratorios,4577,183,769,832,2305,488
+1262,SAR,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),727,42,162,88,328,107
+1263,SAR,23,4,Atenciones de urgencia - Influenza (J09-J11),26,0,0,2,19,5
+1264,SAR,23,5,Atenciones de urgencia - Neumonía (J12-J18),135,2,14,8,36,75
+1265,SAR,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",350,15,39,67,177,52
+1266,SAR,23,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1267,SAR,23,10,Atenciones de urgencia - IRA Alta (J00-J06),3171,118,534,657,1682,180
+1268,SAR,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),168,6,20,10,63,69
+1269,SAR,23,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1270,SAR,24,1,Atenciones de urgencia - Total,12802,290,1353,1740,7788,1631
+1271,SAR,24,2,Atenciones de urgencia - Total Respiratorios,4417,165,759,787,2291,415
+1272,SAR,24,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),657,51,164,59,292,91
+1273,SAR,24,4,Atenciones de urgencia - Influenza (J09-J11),40,0,1,5,33,1
+1274,SAR,24,5,Atenciones de urgencia - Neumonía (J12-J18),137,2,8,2,56,69
+1275,SAR,24,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",352,24,60,60,163,45
+1276,SAR,24,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1277,SAR,24,10,Atenciones de urgencia - IRA Alta (J00-J06),3083,79,503,651,1682,168
+1278,SAR,24,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),148,9,23,10,65,41
+1279,SAR,24,25,Hospitalizaciones - Total,55,0,2,8,41,4
+1280,SAR,25,1,Atenciones de urgencia - Total,14253,379,1599,2252,8308,1715
+1281,SAR,25,2,Atenciones de urgencia - Total Respiratorios,5167,266,913,972,2531,485
+1282,SAR,25,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),860,89,187,99,350,135
+1283,SAR,25,4,Atenciones de urgencia - Influenza (J09-J11),105,5,8,9,75,8
+1284,SAR,25,5,Atenciones de urgencia - Neumonía (J12-J18),190,4,20,10,65,91
+1285,SAR,25,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",339,14,49,70,161,45
+1286,SAR,25,7,Hospitalizaciones - Sistema Respiratorio,2,0,0,0,1,1
+1287,SAR,25,10,Atenciones de urgencia - IRA Alta (J00-J06),3501,138,631,773,1811,148
+1288,SAR,25,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),172,16,18,11,69,58
+1289,SAR,25,25,Hospitalizaciones - Total,4,0,0,0,3,1
+1290,SAR,26,1,Atenciones de urgencia - Total,13738,330,1718,2200,7770,1720
+1291,SAR,26,2,Atenciones de urgencia - Total Respiratorios,5196,196,1049,1037,2378,536
+1292,SAR,26,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),892,73,244,115,339,121
+1293,SAR,26,4,Atenciones de urgencia - Influenza (J09-J11),111,2,4,21,78,6
+1294,SAR,26,5,Atenciones de urgencia - Neumonía (J12-J18),198,5,36,3,63,91
+1295,SAR,26,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",316,6,45,77,134,54
+1296,SAR,26,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1297,SAR,26,10,Atenciones de urgencia - IRA Alta (J00-J06),3509,101,690,809,1711,198
+1298,SAR,26,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),170,9,30,12,53,66
+1299,SAR,26,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1300,SAR,27,1,Atenciones de urgencia - Total,14092,414,1965,2084,7882,1747
+1301,SAR,27,2,Atenciones de urgencia - Total Respiratorios,5467,285,1266,1033,2346,537
+1302,SAR,27,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),975,106,299,89,344,137
+1303,SAR,27,4,Atenciones de urgencia - Influenza (J09-J11),56,0,5,11,32,8
+1304,SAR,27,5,Atenciones de urgencia - Neumonía (J12-J18),211,7,33,8,64,99
+1305,SAR,27,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",582,36,135,108,244,59
+1306,SAR,27,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1307,SAR,27,10,Atenciones de urgencia - IRA Alta (J00-J06),3448,124,753,806,1594,171
+1308,SAR,27,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),195,12,41,11,68,63
+1309,SAR,27,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1310,SAR,28,1,Atenciones de urgencia - Total,14361,488,1940,1891,8076,1966
+1311,SAR,28,2,Atenciones de urgencia - Total Respiratorios,5719,337,1271,937,2517,657
+1312,SAR,28,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1052,132,278,82,395,165
+1313,SAR,28,4,Atenciones de urgencia - Influenza (J09-J11),81,0,3,10,61,7
+1314,SAR,28,5,Atenciones de urgencia - Neumonía (J12-J18),262,12,32,8,68,142
+1315,SAR,28,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",571,29,112,118,244,68
+1316,SAR,28,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1317,SAR,28,10,Atenciones de urgencia - IRA Alta (J00-J06),3502,147,786,694,1675,200
+1318,SAR,28,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),251,17,60,25,74,75
+1319,SAR,28,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1320,SAR,29,1,Atenciones de urgencia - Total,14082,491,1964,1486,8212,1929
+1321,SAR,29,2,Atenciones de urgencia - Total Respiratorios,5608,339,1306,761,2582,620
+1322,SAR,29,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1196,119,360,108,428,181
+1323,SAR,29,4,Atenciones de urgencia - Influenza (J09-J11),85,0,0,1,72,12
+1324,SAR,29,5,Atenciones de urgencia - Neumonía (J12-J18),256,14,50,10,58,124
+1325,SAR,29,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",330,14,77,47,142,50
+1326,SAR,29,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1327,SAR,29,10,Atenciones de urgencia - IRA Alta (J00-J06),3485,161,737,578,1808,201
+1328,SAR,29,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),256,31,82,17,74,52
+1329,SAR,29,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1330,SAR,30,1,Atenciones de urgencia - Total,12742,420,1168,1206,8077,1871
+1331,SAR,30,2,Atenciones de urgencia - Total Respiratorios,4680,280,709,488,2559,644
+1332,SAR,30,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1004,113,195,66,441,189
+1333,SAR,30,4,Atenciones de urgencia - Influenza (J09-J11),36,0,0,1,32,3
+1334,SAR,30,5,Atenciones de urgencia - Neumonía (J12-J18),235,10,13,1,74,137
+1335,SAR,30,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",414,26,75,57,202,54
+1336,SAR,30,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1337,SAR,30,10,Atenciones de urgencia - IRA Alta (J00-J06),2788,104,386,354,1738,206
+1338,SAR,30,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),203,27,40,9,72,55
+1339,SAR,30,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1340,SAR,31,1,Atenciones de urgencia - Total,13525,320,1012,1672,8532,1989
+1341,SAR,31,2,Atenciones de urgencia - Total Respiratorios,4557,213,573,625,2529,617
+1342,SAR,31,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),774,74,138,49,339,174
+1343,SAR,31,4,Atenciones de urgencia - Influenza (J09-J11),43,0,0,4,35,4
+1344,SAR,31,5,Atenciones de urgencia - Neumonía (J12-J18),225,8,6,3,68,140
+1345,SAR,31,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",450,19,65,79,227,60
+1346,SAR,31,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1347,SAR,31,10,Atenciones de urgencia - IRA Alta (J00-J06),2916,96,347,483,1794,196
+1348,SAR,31,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),149,16,17,7,66,43
+1349,SAR,31,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1350,SAR,32,1,Atenciones de urgencia - Total,14873,373,1490,2095,8766,2149
+1351,SAR,32,2,Atenciones de urgencia - Total Respiratorios,5413,242,908,958,2647,658
+1352,SAR,32,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),798,63,160,73,360,142
+1353,SAR,32,4,Atenciones de urgencia - Influenza (J09-J11),88,0,0,11,66,11
+1354,SAR,32,5,Atenciones de urgencia - Neumonía (J12-J18),240,5,21,7,54,153
+1355,SAR,32,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",441,11,75,82,206,67
+1356,SAR,32,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1357,SAR,32,10,Atenciones de urgencia - IRA Alta (J00-J06),3609,133,601,775,1880,220
+1358,SAR,32,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),237,30,51,10,81,65
+1359,SAR,32,25,Hospitalizaciones - Total,1,0,0,0,0,1
+1360,SAR,33,1,Atenciones de urgencia - Total,16093,415,1763,2387,9261,2267
+1361,SAR,33,2,Atenciones de urgencia - Total Respiratorios,6222,275,1091,1254,2854,748
+1362,SAR,33,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1026,75,222,130,427,172
+1363,SAR,33,4,Atenciones de urgencia - Influenza (J09-J11),88,0,4,16,62,6
+1364,SAR,33,5,Atenciones de urgencia - Neumonía (J12-J18),258,13,22,6,65,152
+1365,SAR,33,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",436,18,66,59,203,90
+1366,SAR,33,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1367,SAR,33,10,Atenciones de urgencia - IRA Alta (J00-J06),4207,148,719,1027,2040,273
+1368,SAR,33,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),207,21,58,16,57,55
+1369,SAR,33,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1370,SAR,34,1,Atenciones de urgencia - Total,14624,491,1487,2273,8440,1933
+1371,SAR,34,2,Atenciones de urgencia - Total Respiratorios,5515,300,918,1128,2618,551
+1372,SAR,34,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),886,99,200,114,329,144
+1373,SAR,34,4,Atenciones de urgencia - Influenza (J09-J11),38,0,2,6,29,1
+1374,SAR,34,5,Atenciones de urgencia - Neumonía (J12-J18),197,9,13,7,62,106
+1375,SAR,34,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",565,29,80,113,266,77
+1376,SAR,34,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1377,SAR,34,10,Atenciones de urgencia - IRA Alta (J00-J06),3658,147,606,871,1866,168
+1378,SAR,34,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),171,16,17,17,66,55
+1379,SAR,34,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1380,SAR,35,1,Atenciones de urgencia - Total,14994,385,1467,2349,8694,2099
+1381,SAR,35,2,Atenciones de urgencia - Total Respiratorios,5296,275,848,1140,2447,586
+1382,SAR,35,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),897,94,178,111,347,167
+1383,SAR,35,4,Atenciones de urgencia - Influenza (J09-J11),56,1,0,8,43,4
+1384,SAR,35,5,Atenciones de urgencia - Neumonía (J12-J18),226,6,13,12,72,123
+1385,SAR,35,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",717,40,90,158,353,76
+1386,SAR,35,7,Hospitalizaciones - Sistema Respiratorio,1,0,1,0,0,0
+1387,SAR,35,10,Atenciones de urgencia - IRA Alta (J00-J06),3248,127,552,838,1573,158
+1388,SAR,35,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),152,7,15,13,59,58
+1389,SAR,35,25,Hospitalizaciones - Total,8,0,1,0,6,1
+1390,SAR,36,1,Atenciones de urgencia - Total,14546,353,1558,2206,8482,1947
+1391,SAR,36,2,Atenciones de urgencia - Total Respiratorios,5038,214,912,1003,2355,554
+1392,SAR,36,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),753,51,174,84,295,149
+1393,SAR,36,4,Atenciones de urgencia - Influenza (J09-J11),29,0,2,5,20,2
+1394,SAR,36,5,Atenciones de urgencia - Neumonía (J12-J18),205,8,29,11,57,100
+1395,SAR,36,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",486,20,75,101,219,71
+1396,SAR,36,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1397,SAR,36,10,Atenciones de urgencia - IRA Alta (J00-J06),3408,126,613,787,1705,177
+1398,SAR,36,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),157,9,19,15,59,55
+1399,SAR,36,25,Hospitalizaciones - Total,73,2,5,12,44,10
+1400,SAR,37,1,Atenciones de urgencia - Total,13842,359,1534,2044,8050,1855
+1401,SAR,37,2,Atenciones de urgencia - Total Respiratorios,4662,223,823,943,2169,504
+1402,SAR,37,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),662,64,121,78,297,102
+1403,SAR,37,4,Atenciones de urgencia - Influenza (J09-J11),26,0,1,3,18,4
+1404,SAR,37,5,Atenciones de urgencia - Neumonía (J12-J18),196,1,29,1,57,108
+1405,SAR,37,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",393,28,68,69,172,56
+1406,SAR,37,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1407,SAR,37,10,Atenciones de urgencia - IRA Alta (J00-J06),3215,108,575,778,1577,177
+1408,SAR,37,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),170,22,29,14,48,57
+1409,SAR,37,25,Hospitalizaciones - Total,103,0,10,14,63,16
+1410,SAR,38,1,Atenciones de urgencia - Total,14092,425,1460,1587,8640,1980
+1411,SAR,38,2,Atenciones de urgencia - Total Respiratorios,4429,249,768,678,2217,517
+1412,SAR,38,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),719,70,140,64,342,103
+1413,SAR,38,4,Atenciones de urgencia - Influenza (J09-J11),34,0,1,5,24,4
+1414,SAR,38,5,Atenciones de urgencia - Neumonía (J12-J18),205,6,20,5,55,119
+1415,SAR,38,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",356,23,76,61,153,43
+1416,SAR,38,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1417,SAR,38,10,Atenciones de urgencia - IRA Alta (J00-J06),2911,132,508,532,1564,175
+1418,SAR,38,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),204,18,23,11,79,73
+1419,SAR,38,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1420,SAR,39,1,Atenciones de urgencia - Total,13762,292,1207,1854,8447,1962
+1421,SAR,39,2,Atenciones de urgencia - Total Respiratorios,3823,177,563,639,1963,481
+1422,SAR,39,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),583,49,104,47,271,112
+1423,SAR,39,4,Atenciones de urgencia - Influenza (J09-J11),29,0,1,4,22,2
+1424,SAR,39,5,Atenciones de urgencia - Neumonía (J12-J18),149,3,10,3,33,100
+1425,SAR,39,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",342,15,49,63,153,62
+1426,SAR,39,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1427,SAR,39,10,Atenciones de urgencia - IRA Alta (J00-J06),2573,97,390,513,1419,154
+1428,SAR,39,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),147,13,9,9,65,51
+1429,SAR,39,25,Hospitalizaciones - Total,2,0,0,1,0,1
+1430,SAR,40,1,Atenciones de urgencia - Total,13814,329,1244,2009,8347,1885
+1431,SAR,40,2,Atenciones de urgencia - Total Respiratorios,3772,145,562,762,1928,375
+1432,SAR,40,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),412,26,81,46,193,66
+1433,SAR,40,4,Atenciones de urgencia - Influenza (J09-J11),35,0,4,6,25,0
+1434,SAR,40,5,Atenciones de urgencia - Neumonía (J12-J18),111,4,14,1,28,64
+1435,SAR,40,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",354,16,43,66,161,68
+1436,SAR,40,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1437,SAR,40,10,Atenciones de urgencia - IRA Alta (J00-J06),2744,96,414,630,1462,142
+1438,SAR,40,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),116,3,6,13,59,35
+1439,SAR,40,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1440,SAR,41,1,Atenciones de urgencia - Total,14238,478,1435,2036,8445,1844
+1441,SAR,41,2,Atenciones de urgencia - Total Respiratorios,3857,182,707,744,1869,355
+1442,SAR,41,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),539,44,124,66,229,76
+1443,SAR,41,4,Atenciones de urgencia - Influenza (J09-J11),35,0,3,7,25,0
+1444,SAR,41,5,Atenciones de urgencia - Neumonía (J12-J18),132,3,4,3,60,62
+1445,SAR,41,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",252,13,31,43,121,44
+1446,SAR,41,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1447,SAR,41,10,Atenciones de urgencia - IRA Alta (J00-J06),2769,116,535,613,1376,129
+1448,SAR,41,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),130,6,10,12,58,44
+1449,SAR,41,25,Hospitalizaciones - Total,306,3,18,36,199,50
+1450,SAR,42,1,Atenciones de urgencia - Total,14261,367,1487,1890,8656,1861
+1451,SAR,42,2,Atenciones de urgencia - Total Respiratorios,4132,196,766,757,2007,406
+1452,SAR,42,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),613,57,139,82,219,116
+1453,SAR,42,4,Atenciones de urgencia - Influenza (J09-J11),30,0,0,5,22,3
+1454,SAR,42,5,Atenciones de urgencia - Neumonía (J12-J18),133,3,7,5,52,66
+1455,SAR,42,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",321,9,51,58,162,41
+1456,SAR,42,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1457,SAR,42,10,Atenciones de urgencia - IRA Alta (J00-J06),2880,115,550,597,1486,132
+1458,SAR,42,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),155,12,19,10,66,48
+1459,SAR,42,25,Hospitalizaciones - Total,4,0,0,1,2,1
+1460,SAR,43,1,Atenciones de urgencia - Total,14587,385,1465,2109,8637,1991
+1461,SAR,43,2,Atenciones de urgencia - Total Respiratorios,3811,144,669,771,1837,390
+1462,SAR,43,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),530,36,117,75,211,91
+1463,SAR,43,4,Atenciones de urgencia - Influenza (J09-J11),14,0,1,5,8,0
+1464,SAR,43,5,Atenciones de urgencia - Neumonía (J12-J18),121,1,9,3,35,73
+1465,SAR,43,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",278,10,54,43,140,31
+1466,SAR,43,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1467,SAR,43,10,Atenciones de urgencia - IRA Alta (J00-J06),2712,91,461,630,1387,143
+1468,SAR,43,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),156,6,27,15,56,52
+1469,SAR,43,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1470,SAR,44,1,Atenciones de urgencia - Total,13911,319,1379,1765,8486,1962
+1471,SAR,44,2,Atenciones de urgencia - Total Respiratorios,3542,163,633,620,1740,386
+1472,SAR,44,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),497,41,115,57,206,78
+1473,SAR,44,4,Atenciones de urgencia - Influenza (J09-J11),16,0,1,4,9,2
+1474,SAR,44,5,Atenciones de urgencia - Neumonía (J12-J18),126,6,6,2,40,72
+1475,SAR,44,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",269,10,41,45,128,45
+1476,SAR,44,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1477,SAR,44,10,Atenciones de urgencia - IRA Alta (J00-J06),2507,102,455,505,1304,141
+1478,SAR,44,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),127,4,15,7,53,48
+1479,SAR,44,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1480,SAR,45,1,Atenciones de urgencia - Total,14146,307,1318,2043,8567,1911
+1481,SAR,45,2,Atenciones de urgencia - Total Respiratorios,3534,151,551,664,1776,392
+1482,SAR,45,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),367,30,80,59,149,49
+1483,SAR,45,4,Atenciones de urgencia - Influenza (J09-J11),10,0,1,1,7,1
+1484,SAR,45,5,Atenciones de urgencia - Neumonía (J12-J18),126,4,6,6,55,55
+1485,SAR,45,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",317,10,46,52,163,46
+1486,SAR,45,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1487,SAR,45,10,Atenciones de urgencia - IRA Alta (J00-J06),2538,101,404,525,1310,198
+1488,SAR,45,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),176,6,14,21,92,43
+1489,SAR,45,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1490,SAR,46,1,Atenciones de urgencia - Total,13579,334,1346,2017,8060,1822
+1491,SAR,46,2,Atenciones de urgencia - Total Respiratorios,3123,197,569,649,1398,310
+1492,SAR,46,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),450,107,75,47,157,64
+1493,SAR,46,4,Atenciones de urgencia - Influenza (J09-J11),16,0,0,1,13,2
+1494,SAR,46,5,Atenciones de urgencia - Neumonía (J12-J18),103,5,6,5,24,63
+1495,SAR,46,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",361,10,59,82,162,48
+1496,SAR,46,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1497,SAR,46,10,Atenciones de urgencia - IRA Alta (J00-J06),2098,73,419,508,1004,94
+1498,SAR,46,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),95,2,10,6,38,39
+1499,SAR,46,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1500,SAR,47,1,Atenciones de urgencia - Total,14330,306,1386,2218,8573,1847
+1501,SAR,47,2,Atenciones de urgencia - Total Respiratorios,3302,139,565,729,1544,325
+1502,SAR,47,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),360,40,70,49,138,63
+1503,SAR,47,4,Atenciones de urgencia - Influenza (J09-J11),24,0,0,6,17,1
+1504,SAR,47,5,Atenciones de urgencia - Neumonía (J12-J18),94,1,2,8,32,51
+1505,SAR,47,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",335,12,47,64,157,55
+1506,SAR,47,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1507,SAR,47,10,Atenciones de urgencia - IRA Alta (J00-J06),2378,83,441,591,1149,114
+1508,SAR,47,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),111,3,5,11,51,41
+1509,SAR,47,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1510,SAR,48,1,Atenciones de urgencia - Total,14372,300,1492,2351,8343,1886
+1511,SAR,48,2,Atenciones de urgencia - Total Respiratorios,3407,145,571,827,1584,280
+1512,SAR,48,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),367,31,67,64,159,46
+1513,SAR,48,4,Atenciones de urgencia - Influenza (J09-J11),24,0,0,11,12,1
+1514,SAR,48,5,Atenciones de urgencia - Neumonía (J12-J18),84,0,5,1,31,47
+1515,SAR,48,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",320,11,48,67,137,57
+1516,SAR,48,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1517,SAR,48,10,Atenciones de urgencia - IRA Alta (J00-J06),2499,96,436,668,1196,103
+1518,SAR,48,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),113,7,15,16,49,26
+1519,SAR,48,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1520,SAR,49,1,Atenciones de urgencia - Total,13730,271,1268,2106,8281,1804
+1521,SAR,49,2,Atenciones de urgencia - Total Respiratorios,3021,124,445,731,1447,274
+1522,SAR,49,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),363,33,63,54,152,61
+1523,SAR,49,4,Atenciones de urgencia - Influenza (J09-J11),22,0,0,0,18,4
+1524,SAR,49,5,Atenciones de urgencia - Neumonía (J12-J18),74,2,2,7,32,31
+1525,SAR,49,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",330,17,54,72,142,45
+1526,SAR,49,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1527,SAR,49,10,Atenciones de urgencia - IRA Alta (J00-J06),2135,71,320,591,1048,105
+1528,SAR,49,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),97,1,6,7,55,28
+1529,SAR,49,25,Hospitalizaciones - Total,2,0,0,0,1,1
+1530,SAR,50,1,Atenciones de urgencia - Total,13346,322,1371,1864,7970,1819
+1531,SAR,50,2,Atenciones de urgencia - Total Respiratorios,3047,150,585,619,1395,298
+1532,SAR,50,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),340,17,61,49,144,69
+1533,SAR,50,4,Atenciones de urgencia - Influenza (J09-J11),21,0,2,2,16,1
+1534,SAR,50,5,Atenciones de urgencia - Neumonía (J12-J18),70,2,5,5,22,36
+1535,SAR,50,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",324,16,62,60,140,46
+1536,SAR,50,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1537,SAR,50,10,Atenciones de urgencia - IRA Alta (J00-J06),2173,113,443,495,1021,101
+1538,SAR,50,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),119,2,12,8,52,45
+1539,SAR,50,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1540,SAR,51,1,Atenciones de urgencia - Total,13579,324,1408,1696,8215,1936
+1541,SAR,51,2,Atenciones de urgencia - Total Respiratorios,2889,151,568,465,1423,282
+1542,SAR,51,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),331,35,68,44,147,37
+1543,SAR,51,4,Atenciones de urgencia - Influenza (J09-J11),12,0,0,1,11,0
+1544,SAR,51,5,Atenciones de urgencia - Neumonía (J12-J18),87,6,2,1,24,54
+1545,SAR,51,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",296,17,56,40,145,38
+1546,SAR,51,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1547,SAR,51,10,Atenciones de urgencia - IRA Alta (J00-J06),2067,89,434,373,1058,113
+1548,SAR,51,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),96,4,8,6,38,40
+1549,SAR,51,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1550,SAR,52,1,Atenciones de urgencia - Total,13742,315,1280,1627,8507,2013
+1551,SAR,52,2,Atenciones de urgencia - Total Respiratorios,2735,135,479,412,1376,333
+1552,SAR,52,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),372,34,70,34,167,67
+1553,SAR,52,4,Atenciones de urgencia - Influenza (J09-J11),52,2,14,8,25,3
+1554,SAR,52,5,Atenciones de urgencia - Neumonía (J12-J18),109,1,7,10,30,61
+1555,SAR,52,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",205,8,26,25,102,44
+1556,SAR,52,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1557,SAR,52,10,Atenciones de urgencia - IRA Alta (J00-J06),1893,89,350,330,1009,115
+1558,SAR,52,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),104,1,12,5,43,43
+1559,SAR,52,25,Hospitalizaciones - Total,0,0,0,0,0,0
