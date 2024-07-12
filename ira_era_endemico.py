@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
-def create_endemic_corridor(df, cause, total_column):
+GLOBAL_THEME='seaborn'
+def create_endemic_corridor(df, cause, total_column, title):
     # Filtrar el dataframe para la causa específica
     df_cause = df.loc[df['Causa'].isin(cause)]
     
@@ -78,25 +79,6 @@ def create_endemic_corridor(df, cause, total_column):
         hoverinfo='skip',
         showlegend=False
     ))
-    
-    # Alerta Roja (por encima del percentil 75)
-    # fig.add_trace(go.Scatter(
-    #     x=endemic_corridor['semana'], 
-    #     y=[endemic_corridor['percentil_75'].max()] * len(endemic_corridor), 
-    #     mode='lines', 
-    #     name='Alerta (Percentil 75+)', 
-    #     line=dict(color='rgba(255, 0, 0, 0.2)')
-    # ))
-    # fig.add_trace(go.Scatter(
-    #     x=endemic_corridor['semana'], 
-    #     y=endemic_corridor['percentil_75'], 
-    #     mode='lines', 
-    #     line=dict(color='rgba(255, 0, 0, 0.2)'), 
-    #     fill='tonexty',
-    #     fillcolor='rgba(255, 0, 0, 0.2)',
-    #     hoverinfo='skip',
-    #     showlegend=False
-    # ))
 
     # Mediana histórica
     fig.add_trace(go.Scatter(
@@ -113,14 +95,14 @@ def create_endemic_corridor(df, cause, total_column):
         y=endemic_corridor['current_year_total'], 
         mode='lines+markers', 
         name=f'Año {selected_year}', 
-        line=dict(color='green')
+        line=dict(color='red')
     ))
 
     fig.update_layout(
-        title='Corredor Endémico de Atenciones de Urgencia',
+        title=f'Corredor Endémico de {title}',
         xaxis_title='Semana',
         yaxis_title='Total de Atenciones',
-        template='plotly_white'
+        template=GLOBAL_THEME
     )
     
     st.plotly_chart(fig)
@@ -184,15 +166,42 @@ influ = ['Atenciones de urgencia - Influenza (J09-J11)']
 otras = ['Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)']
 
 causas_dict = {
+    'Total Atenciones de urgencias': total_au,
+    'Total Respiratorios': total_resp,
     'IRAB': irab,
     'IRAA': iraa,
     'COVID': covid,
-    'Total AU': total_au,
-    'Total Respiratorios': total_resp,
     'Influenza': influ,
     'Otras': otras
 }
 
-# Crear el corredor endémico
-# Elegir CAUSA
-create_endemic_corridor(df_rm, cause=total_resp, total_column='Total')  # Ajustar los parámetros según sea necesario
+causa_select=st.sidebar.selectbox('Seleccione causa:',causas_dict.keys(),1)
+causa=causas_dict[causa_select]
+dict_columnas={'Total':'Total de la población', 
+      'Menores_1':'Menores de 1 año', 
+      'De_1_a_4': '1 a 4 años', 
+      'De_5_a_14': '5 a 14 años', 
+      'De_15_a_64':'15 a 64 años',
+    'De_65_y_mas':'Mayores de 45 años'}
+
+st.markdown("""
+### ¿Qué es un corredor endémico?
+Un corredor endémico es una herramienta epidemiológica utilizada para monitorear enfermedades infecciosas y otros eventos de salud a lo largo del tiempo. Se basa en el análisis de datos históricos para determinar los límites esperados de ocurrencia de una enfermedad durante un período específico (por ejemplo, semanal). Estos límites ayudan a identificar niveles de éxito, seguridad, alerta y alerta roja.
+
+#### Componentes del Corredor Endémico:
+- **Éxito (Percentil 25)**: Representa el límite bajo del corredor endémico. Si los casos están por debajo de este límite, se considera que la situación está bajo control.
+- **Seguridad (Mediana)**: Representa el valor medio de los casos esperados. Los casos entre el percentil 25 y la mediana indican una situación dentro del rango normal.
+- **Alerta (Percentil 75)**: Representa el límite superior del corredor endémico. Los casos entre la mediana y el percentil 75 indican una situación de alerta.
+- **Alerta Roja (por encima del Percentil 75)**: Representa una situación crítica donde los casos superan significativamente el nivel esperado.
+
+#### Instrucciones:
+1. Seleccione el intervalo de años deseado en el control deslizante de la barra lateral.
+2. Seleccione si desea ver la información de APS (Atención Primaria de Salud) o Hospitales.
+3. Seleccione la causa de las atenciones de urgencia que desea analizar.
+4. Observe los gráficos generados para cada grupo de edad.
+
+Esta herramienta proporciona una visualización clara de las tendencias de atención de urgencia para diferentes causas y grupos de edad, ayudando a identificar situaciones anómalas y a tomar decisiones informadas.
+""")
+
+for key,value in dict_columnas.items():
+    create_endemic_corridor(df_rm, cause=causa, total_column=key, title=value)

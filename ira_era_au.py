@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
+GLOBAL_THEME='seaborn'
 # Crear una función para cargar datos según el año seleccionado
 def load_data(year):
     try:
@@ -113,7 +114,8 @@ def grafico_area_atenciones_urgencia_semanal(df, col, title):
         title=title,
         xaxis_title='Semana',
         yaxis_title='N° de Atenciones',
-        legend_title='Leyenda'
+        legend_title='Leyenda',
+        template=GLOBAL_THEME
     )
     return fig
 
@@ -155,7 +157,8 @@ def grafico_area_atenciones_respiratorias(df, col, title):
         title=title,
         xaxis_title='Semana',
         yaxis_title='N° Atenciones',
-        legend_title='Leyenda'
+        legend_title='Leyenda',
+        template=GLOBAL_THEME
     )
 
     return fig
@@ -188,6 +191,7 @@ def grafico_atenciones_urgencia_pie(df, col, title):
     # Configuración del diseño del gráfico
     fig.update_layout(
         title=title,
+        template=GLOBAL_THEME
     )
     
     return fig
@@ -214,7 +218,8 @@ def grafico_atenciones_urgencia_barras(df, col, title):
         title=title,
         xaxis_title='N° Atenciones',
         yaxis_title='Causa',
-        legend_title='Causas'
+        legend_title='Causas',
+        template=GLOBAL_THEME
     )
     
     return fig
@@ -243,13 +248,13 @@ fig3_bar_mayor65 = grafico_atenciones_urgencia_barras(df_rm, 'De_65_y_mas', f'At
 # Índice de navegación
 st.sidebar.title("Índice de Navegación")
 st.sidebar.markdown(f"""
-- [Atenciones de urgencia por todas las causas, todas las causas respiratorias y por COVID en {hospital}, RM](#atenciones-urgencia-todas-las-causas)
+- [Atenciones de urgencia por todas las causas, todas las causas respiratorias y COVID en {hospital}, RM](#atenciones-urgencia-todas-las-causas)
 - [Atenciones de urgencia según tipo de causa respiratoria en {hospital}, RM](#atenciones-urgencia-segun-causas)
 """)
 
 # Gráficos de Área Apilada
 st.markdown('<a name="atenciones-urgencia-todas-las-causas"></a>', unsafe_allow_html=True)
-st.header(f'Atenciones de urgencia por todas las causas, todas las causas respiratorias y por COVID en {hospital}, RM {selected_year}')
+st.header(f'Atenciones de urgencia por todas las causas, todas las causas respiratorias y COVID en {hospital}, RM {selected_year}')
 
 st.subheader('Todas las Edades')
 st.plotly_chart(fig_area1_total)
@@ -268,17 +273,18 @@ st.header(f'Distribución de Atenciones de Urgencia Respiratoria en {hospital}, 
 st.subheader('Todas las Edades')
 st.plotly_chart(fig2_pie_total)
 st.plotly_chart(fig3_bar_total)
-st.markdown(f"Este gráfico de pie muestra la distribución porcentual de las atenciones de urgencia por causas respiratorias y COVID-19 en relación al total de atenciones de urgencia en todas las edades en {hospital} de la Región Metropolitana durante el año {selected_year}.")
+st.markdown(f"estos gráficos de torta y de barras muestra la bdistribución porcentual y la cantidad de las atenciones de urgencia por causas respiratorias y COVID-19 en relación al total de atenciones de urgencia en todas las edades en {hospital} de la Región Metropolitana durante el año {selected_year}.")
 
 
 st.subheader('Menores de 1 Año')
 st.plotly_chart(fig2_pie_menor1)
 st.plotly_chart(fig3_bar_menor1)
-st.markdown(f"Este gráfico de pie muestra la distribución porcentual de las atenciones de urgencia por causas respiratorias y COVID-19 en relación al total de atenciones de urgencia en menores de 1 año en {hospital} de la Región Metropolitana durante el año {selected_year}.")
+st.markdown(f"estos gráficos de torta y de barras muestra la bdistribución porcentual y la cantidad de las atenciones de urgencia por causas respiratorias y COVID-19 en relación al total de atenciones de urgencia en menores de 1 año en {hospital} de la Región Metropolitana durante el año {selected_year}.")
 
 
 st.subheader('Mayores de 65 Años')
 st.plotly_chart(fig2_pie_mayor65)
 st.plotly_chart(fig3_bar_mayor65)
-st.markdown(f"Este gráfico de pie muestra la distribución porcentual de las atenciones de urgencia por causas respiratorias y COVID-19 en relación al total de atenciones de urgencia en mayores de 65 años en {hospital} de la Región Metropolitana durante el año {selected_year}.")
+st.markdown(f"estos gráficos de torta y de barras muestra la bdistribución porcentual y la cantidad de las atenciones de urgencia por causas respiratorias y COVID-19 en relación al total de atenciones de urgencia en mayores de 65 años en {hospital} de la Región Metropolitana durante el año {selected_year}.")
+
 

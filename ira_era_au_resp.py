@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
+GLOBAL_THEME='seaborn'
 # Crear una función para cargar datos según el año seleccionado
 def load_data(year):
     try:
@@ -111,7 +112,8 @@ def grafico_area_atenciones_respiratorias(df, col, title):
         title=title,
         xaxis_title='Semana',
         yaxis_title='N° Atenciones',
-        legend_title='Leyenda'
+        legend_title='Leyenda',
+        template=GLOBAL_THEME
     )
 
     return fig
@@ -148,6 +150,7 @@ def grafico_atenciones_urgencia_respiratorias_pie(df, col, title):
     # Configuración del diseño del gráfico
     fig.update_layout(
         title=title,
+        template=GLOBAL_THEME
     )
     
     return fig
@@ -179,7 +182,8 @@ def grafico_atenciones_urgencia_barras(df, col, title):
         title=title,
         xaxis_title='N° Atenciones',
         yaxis_title='Causa',
-        legend_title='Causas'
+        legend_title='Causas',
+        template=GLOBAL_THEME
     )
     
     return fig

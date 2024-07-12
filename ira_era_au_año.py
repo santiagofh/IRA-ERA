@@ -5,6 +5,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import numpy as np
 
+GLOBAL_THEME='seaborn'
 # Crear una función para cargar datos según el año seleccionado
 def load_data(start_year, end_year):
     dataframes = []
@@ -96,7 +97,8 @@ def grafico_area_atenciones_urgencia_semanal_por_año(df, col, title):
         title=title,
         xaxis_title='Semana',
         yaxis_title='N° de Atenciones',
-        legend_title='Año'
+        legend_title='Año',
+        template=GLOBAL_THEME
     )
     
     return fig
@@ -120,7 +122,8 @@ def grafico_barras_atenciones_por_año(df, col, title):
         title=title,
         xaxis_title='N° de Atenciones',
         yaxis_title='Año',
-        legend_title='Año'
+        legend_title='Año',
+        template=GLOBAL_THEME
     )
     
     return fig
