@@ -68,7 +68,6 @@ total_au = ['Atenciones de urgencia - Total']
 total_resp = ['Atenciones de urgencia - Total Respiratorios']
 influ = ['Atenciones de urgencia - Influenza (J09-J11)']
 otras = ['Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)']
-st.write(df_rm)
 # Filtrar dataframes para APS y hospitales
 if hospital == 'Hospitales':
     df_rm = df_rm.loc[(df_rm.GLOSATIPOESTABLECIMIENTO == 'Hospital')]
