@@ -102,7 +102,8 @@ def create_endemic_corridor(df, cause, total_column, title):
         title=f'Corredor Endémico de {title}',
         xaxis_title='Semana',
         yaxis_title='Total de Atenciones',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        yaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
     
     st.plotly_chart(fig)

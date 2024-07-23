@@ -98,7 +98,8 @@ def grafico_area_atenciones_urgencia_semanal_por_año(df, col, title):
         xaxis_title='Semana',
         yaxis_title='N° de Atenciones',
         legend_title='Año',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        yaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
     
     return fig
@@ -123,7 +124,8 @@ def grafico_barras_atenciones_por_año(df, col, title):
         xaxis_title='N° de Atenciones',
         yaxis_title='Año',
         legend_title='Año',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        yaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
     
     return fig

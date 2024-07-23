@@ -115,7 +115,8 @@ def grafico_area_atenciones_urgencia_semanal(df, col, title):
         xaxis_title='Semana',
         yaxis_title='N° de Atenciones',
         legend_title='Leyenda',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        yaxis=dict(tickformat='.', tickprefix='', ticksuffix='', separatethousands=True)
     )
     return fig
 
@@ -158,7 +159,8 @@ def grafico_area_atenciones_respiratorias(df, col, title):
         xaxis_title='Semana',
         yaxis_title='N° Atenciones',
         legend_title='Leyenda',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        yaxis=dict(tickformat='.', tickprefix='', ticksuffix='', separatethousands=True)
     )
 
     return fig
@@ -193,6 +195,9 @@ def grafico_atenciones_urgencia_pie(df, col, title):
         title=title,
         template=GLOBAL_THEME
     )
+
+    fig.update_traces(hoverinfo='label+percent', textinfo='percent', textfont_size=20,
+                      marker=dict(line=dict(color='#000000', width=0.5)))
     
     return fig
 
@@ -219,7 +224,8 @@ def grafico_atenciones_urgencia_barras(df, col, title):
         xaxis_title='N° Atenciones',
         yaxis_title='Causa',
         legend_title='Causas',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        xaxis=dict(tickformat='.', tickprefix='', ticksuffix='', separatethousands=True)
     )
     
     return fig

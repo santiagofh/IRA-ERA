@@ -73,7 +73,6 @@ if hospital == 'Hospitales':
 else:
     df_rm = df_rm.loc[~(df_rm.GLOSATIPOESTABLECIMIENTO == 'Hospital')]
 #%%
-
 def grafico_area_atenciones_respiratorias(df, col, title):
     # Filtrar y agrupar los datos
     df_iraa = df[df['Causa'].isin(iraa)].groupby('semana')[col].sum().reset_index()
@@ -113,7 +112,8 @@ def grafico_area_atenciones_respiratorias(df, col, title):
         xaxis_title='Semana',
         yaxis_title='N° Atenciones',
         legend_title='Leyenda',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        yaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
 
     return fig
@@ -152,9 +152,15 @@ def grafico_atenciones_urgencia_respiratorias_pie(df, col, title):
         title=title,
         template=GLOBAL_THEME
     )
+
+    fig.update_traces(
+        hoverinfo='label+percent', 
+        textinfo='percent', 
+        textfont_size=20,
+        marker=dict(line=dict(color='#000000', width=0.5))
+    )
     
     return fig
-
 
 def grafico_atenciones_urgencia_barras(df, col, title):
     # Calcular totales por Causa
@@ -183,10 +189,12 @@ def grafico_atenciones_urgencia_barras(df, col, title):
         xaxis_title='N° Atenciones',
         yaxis_title='Causa',
         legend_title='Causas',
-        template=GLOBAL_THEME
+        template=GLOBAL_THEME,
+        xaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
     
     return fig
+
 #%%
 # Graficos
 fig_area3_total = grafico_area_atenciones_respiratorias(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
