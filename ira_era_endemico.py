@@ -108,12 +108,9 @@ def create_endemic_corridor(df, cause, total_column, title):
     
     st.plotly_chart(fig)
 
-# Ejemplo de uso de la función en un script de Streamlit
-
-# Cargar datos según el intervalo de años seleccionado
 def load_data(start_year, end_year):
     dataframes = []
-    for year in range(start_year, end_year + 1):
+    for year in [year for year in range(start_year, end_year + 1) if year not in {2020, 2021}]:
         try:
             df = pd.read_csv(f'data/df_{year}_rm_resp.csv')
             df['año'] = year  # Agregar columna de año
@@ -125,23 +122,17 @@ def load_data(start_year, end_year):
     else:
         return None
 
+st.title('Visualización del Corredor Endémico 2023')
 
-
-# Configurar la interfaz de Streamlit
-st.title('Visualización del Corredor Endémico')
-
-# Cargar datos según el intervalo de años seleccionado
-year_range = st.sidebar.slider('Seleccione el intervalo de años', 2018, 2024, (2018, 2023))
 hospital = st.sidebar.selectbox('Seleccione si desea ver la información de APS o Hospital', ['APS', 'Hospitales'], index=0)
 
-start_year, end_year = year_range
-selected_year = end_year  # Definir el último año del rango como el año seleccionado
+start_year, end_year = 2018, 2023
+selected_year = end_year 
 list_df_rm = load_data(start_year, end_year)
 if list_df_rm is None:
     st.stop()
 df_rm = pd.concat(list_df_rm)
 
-# Filtrar dataframes para APS y hospitales
 if hospital == 'Hospitales':
     df_rm = df_rm.loc[(df_rm.GLOSATIPOESTABLECIMIENTO == 'Hospital')]
 else:
@@ -194,12 +185,12 @@ Un corredor endémico es una herramienta epidemiológica utilizada para monitore
 - **Seguridad (Mediana)**: Representa el valor medio de los casos esperados. Los casos entre el percentil 25 y la mediana indican una situación dentro del rango normal.
 - **Alerta (Percentil 75)**: Representa el límite superior del corredor endémico. Los casos entre la mediana y el percentil 75 indican una situación de alerta.
 - **Alerta Roja (por encima del Percentil 75)**: Representa una situación crítica donde los casos superan significativamente el nivel esperado.
-
+- **Consideraciones Especiales**: Los años 2020 y 2021 han sido excluidos del cálculo del corredor endémico debido a las distorsiones provocadas por la pandemia de COVID-19, asegurando así que el análisis se base en datos que reflejen condiciones epidemiológicas más estables.
+        
 #### Instrucciones:
-1. Seleccione el intervalo de años deseado en el control deslizante de la barra lateral.
-2. Seleccione si desea ver la información de APS (Atención Primaria de Salud) o Hospitales.
-3. Seleccione la causa de las atenciones de urgencia que desea analizar.
-4. Observe los gráficos generados para cada grupo de edad.
+1. Seleccione si desea ver la información de APS (Atención Primaria de Salud) o Hospitales.
+2. Seleccione la causa de las atenciones de urgencia que desea analizar.
+3. Observe los gráficos generados para cada grupo de edad.
 
 Esta herramienta proporciona una visualización clara de las tendencias de atención de urgencia para diferentes causas y grupos de edad, ayudando a identificar situaciones anómalas y a tomar decisiones informadas.
 """)

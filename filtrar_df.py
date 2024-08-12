@@ -27,6 +27,7 @@ diccionario_causas = {
     # Trastornos mentales y comportamentales
     # 'Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F41.0)': 40,
     # 'Trastornos del Humor (Afectivos) (F30-F39)': 39,
+    # 'Lesiones autoinfligidas intencionalmente (X60-X84)': 35,
     # 'TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99)': 36,
     # 'Ideación Suicida (R45.8)': 37,
     # 'Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19)': 38,
@@ -53,7 +54,6 @@ diccionario_causas = {
     'Crisis obstructiva bronquial (J40-J46)': 11,
     # Traumatismos y envenenamientos
     # 'TOTAL TRAUMATISMOS Y ENVENENAMIENTO': 18,
-    # 'Lesiones autoinfligidas intencionalmente (X60-X84)': 35,
     # 'Accidentes del tránsito': 19,
     # '- TRAUMATISMOS Y ENVENENAMIENTOS': 23,
     # Otras causas
