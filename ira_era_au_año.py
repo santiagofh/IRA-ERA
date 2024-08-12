@@ -80,7 +80,7 @@ else:
 def grafico_area_atenciones_urgencia_semanal_por_año(df, col, title):
     fig = go.Figure()
     df = df.loc[df.Causa.isin(covid + total_resp)]
-    
+    df = df.loc[~(df.semana==53)]
     # Agrupar los datos por año y semana, y sumar las atenciones
     for year in df['año'].unique():
         df_year = df[df['año'] == year].groupby('semana')[col].sum().reset_index()
@@ -104,6 +104,7 @@ def grafico_area_atenciones_urgencia_semanal_por_año(df, col, title):
     
     return fig
 
+
 def grafico_barras_atenciones_por_año(df, col, title):
     fig = go.Figure()
     df = df.loc[df.Causa.isin(covid + total_resp)]
@@ -111,11 +112,17 @@ def grafico_barras_atenciones_por_año(df, col, title):
     # Agrupar los datos por año y sumar las atenciones
     df_year = df.groupby('año')[col].sum().reset_index()
 
+    # Definir colores para las barras
+    colors = ['lightblue' if año in [2020, 2021] else 'steelblue' for año in df_year['año']]
+
     # Crear la figura del gráfico de barras horizontales
     fig.add_trace(go.Bar(
-        x=df_year[col], y=df_year['año'], 
-        orientation='h', text=df_year[col],
-        textposition='outside'
+        x=df_year[col], 
+        y=df_year['año'], 
+        orientation='h', 
+        text=[f'{val:,.0f}'.replace(',', '.') for val in df_year[col]],  # Formatear valores de text
+        textposition='outside',
+        marker_color=colors  # Aplicar los colores a las barras
     ))
     
     # Configuración del diseño del gráfico
@@ -125,10 +132,15 @@ def grafico_barras_atenciones_por_año(df, col, title):
         yaxis_title='Año',
         legend_title='Año',
         template=GLOBAL_THEME,
-        yaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
+        xaxis=dict(
+            tickformat='.0f',  # Esto formatea los ticks sin decimales
+            separatethousands=True,  # Separa los miles
+        )
     )
     
     return fig
+
+
 
 #%%
 st.header(f'Atenciones de urgencia por causas respiratorias y por COVID por años en {hospital}, RM')
