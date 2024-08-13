@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
+from io import BytesIO
 
-GLOBAL_THEME='seaborn'
+GLOBAL_THEME = 'seaborn'
+
 def create_endemic_corridor(df, cause, total_column, title):
     # Filtrar el dataframe para la causa específica
     df_cause = df.loc[df['Causa'].isin(cause)]
@@ -107,6 +109,34 @@ def create_endemic_corridor(df, cause, total_column, title):
     )
     
     st.plotly_chart(fig)
+    
+    return endemic_corridor
+
+def mostrar_dataframe(df, nombre):
+    # Botón para mostrar u ocultar el DataFrame
+    if st.button(f'Mostrar/Ocultar datos {nombre}'):
+        if 'mostrar_df' not in st.session_state:
+            st.session_state.mostrar_df = True
+        else:
+            st.session_state.mostrar_df = not st.session_state.mostrar_df
+
+    # Mostrar DataFrame y botón de descarga si se activa la opción
+    if 'mostrar_df' in st.session_state and st.session_state.mostrar_df:
+        st.write(df)
+        
+        # Convertir DataFrame a un archivo Excel en memoria
+        output = BytesIO()
+        with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+            df.to_excel(writer, index=False, sheet_name=nombre)
+            writer.close()
+            processed_data = output.getvalue()
+        
+        st.download_button(
+            label=f"Descargar {nombre} como Excel",
+            data=processed_data,
+            file_name=f'{nombre}.xlsx',
+            mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        )
 
 def load_data(start_year, end_year):
     dataframes = []
@@ -138,10 +168,6 @@ if hospital == 'Hospitales':
 else:
     df_rm = df_rm.loc[~(df_rm.GLOSATIPOESTABLECIMIENTO == 'Hospital')]
 
-# Verificar datos filtrados
-print("Datos filtrados:")
-print(df_rm.head())
-
 irab = [
     'Atenciones de urgencia - Neumonía (J12-J18)',
     'Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21)',
@@ -153,7 +179,7 @@ covid = [
     'Atenciones de urgencia - Covid-19, Identificado (U07.1)'
 ]
 total_au = ['Atenciones de urgencia - Total']
-total_resp = ['Atenciones de urgencia - Total Respiratorios']+covid
+total_resp = ['Atenciones de urgencia - Total Respiratorios'] + covid
 influ = ['Atenciones de urgencia - Influenza (J09-J11)']
 otras = ['Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)']
 
@@ -167,14 +193,14 @@ causas_dict = {
     'Otras': otras
 }
 
-causa_select=st.sidebar.selectbox('Seleccione causa:',causas_dict.keys(),1)
-causa=causas_dict[causa_select]
-dict_columnas={'Total':'Total de la población', 
-      'Menores_1':'Menores de 1 año', 
-      'De_1_a_4': '1 a 4 años', 
-      'De_5_a_14': '5 a 14 años', 
-      'De_15_a_64':'15 a 64 años',
-    'De_65_y_mas':'Mayores de 45 años'}
+causa_select = st.sidebar.selectbox('Seleccione causa:', causas_dict.keys(), 1)
+causa = causas_dict[causa_select]
+dict_columnas = {'Total': 'Total de la población', 
+                 'Menores_1': 'Menores de 1 año', 
+                 'De_1_a_4': '1 a 4 años', 
+                 'De_5_a_14': '5 a 14 años', 
+                 'De_15_a_64': '15 a 64 años',
+                 'De_65_y_mas': 'Mayores de 65 años'}
 
 st.markdown("""
 ### ¿Qué es un corredor endémico?
@@ -195,5 +221,43 @@ Un corredor endémico es una herramienta epidemiológica utilizada para monitore
 Esta herramienta proporciona una visualización clara de las tendencias de atención de urgencia para diferentes causas y grupos de edad, ayudando a identificar situaciones anómalas y a tomar decisiones informadas.
 """)
 
-for key,value in dict_columnas.items():
-    create_endemic_corridor(df_rm, cause=causa, total_column=key, title=value)
+for key, value in dict_columnas.items():
+    df_endemic_corridor = create_endemic_corridor(df_rm, cause=causa, total_column=key, title=value)
+
+#%%
+import pandas as pd
+from io import BytesIO
+
+def descargar_dataframes_endemicos(dataframes, nombres_hojas, file_name):
+    # Crear un objeto BytesIO para guardar el archivo Excel en memoria
+    output = BytesIO()
+
+    # Crear un objeto ExcelWriter con pandas y xlsxwriter
+    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+        # Guardar cada DataFrame en una pestaña separada
+        for df, nombre_hoja in zip(dataframes, nombres_hojas):
+            df.to_excel(writer, index=False, sheet_name=nombre_hoja)
+        
+        # Asegurarse de que el archivo se haya escrito completamente en el objeto BytesIO
+        writer.close()
+        processed_data = output.getvalue()
+
+    # Descargar el archivo Excel
+    st.download_button(
+        label="Descargar todos los datos como Excel",
+        data=processed_data,
+        file_name=file_name,
+        mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+    )
+
+# En tu flujo de trabajo principal
+dataframes = []
+nombres_hojas = []
+
+for key, value in dict_columnas.items():
+    df_endemic_corridor = create_endemic_corridor(df_rm, cause=causa, total_column=key, title=value)
+    dataframes.append(df_endemic_corridor[['semana','percentil_75','mediana','percentil_25','current_year_total']])
+    nombres_hojas.append(f'{value} - End')
+
+# Llamar a la función para descargar los DataFrames
+descargar_dataframes_endemicos(dataframes, nombres_hojas, f'Corredor_Endemico_{selected_year}.xlsx')

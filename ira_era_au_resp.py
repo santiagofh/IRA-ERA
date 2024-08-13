@@ -3,8 +3,10 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
+from io import BytesIO
 
 GLOBAL_THEME='seaborn'
+
 # Crear una función para cargar datos según el año seleccionado
 def load_data(year):
     try:
@@ -28,6 +30,7 @@ selected_year = st.sidebar.selectbox(
 )
 hospital = st.sidebar.selectbox('Seleccione si desea ver la información de APS o Hospital',['APS','Hospitales'],index=0)
 st.title(f'Atenciones de Urgencia en {hospital} - RM 2018-2024')
+
 # Cargar datos según el año seleccionado
 df_rm = load_data(selected_year)
 if df_rm is None:
@@ -72,7 +75,35 @@ if hospital == 'Hospitales':
     df_rm = df_rm.loc[(df_rm.GLOSATIPOESTABLECIMIENTO == 'Hospital')]
 else:
     df_rm = df_rm.loc[~(df_rm.GLOSATIPOESTABLECIMIENTO == 'Hospital')]
-#%%
+
+# Función para mostrar y ocultar el DataFrame y permitir la descarga
+def mostrar_dataframe(df, nombre):
+    # Botón para mostrar u ocultar el DataFrame
+    if st.button(f'Mostrar/Ocultar datos {nombre}'):
+        if 'mostrar_df' not in st.session_state:
+            st.session_state.mostrar_df = True
+        else:
+            st.session_state.mostrar_df = not st.session_state.mostrar_df
+
+    # Mostrar DataFrame y botón de descarga si se activa la opción
+    if 'mostrar_df' in st.session_state and st.session_state.mostrar_df:
+        st.write(df)
+        
+        # Convertir DataFrame a un archivo Excel en memoria
+        output = BytesIO()
+        with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+            df.to_excel(writer, index=False, sheet_name=nombre)
+            writer.close()
+            processed_data = output.getvalue()
+        
+        st.download_button(
+            label=f"Descargar {nombre} como Excel",
+            data=processed_data,
+            file_name=f'{nombre}.xlsx',
+            mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        )
+
+# Función para gráficos de área apilada de atenciones respiratorias
 def grafico_area_atenciones_respiratorias(df, col, title):
     # Filtrar y agrupar los datos
     df_iraa = df[df['Causa'].isin(iraa)].groupby('semana')[col].sum().reset_index()
@@ -116,8 +147,21 @@ def grafico_area_atenciones_respiratorias(df, col, title):
         yaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
 
-    return fig
+    # Concatenar los DataFrames
+    df_concatenado = pd.concat([
+        df_iraa.rename(columns={col: 'IRAS Altas'}),
+        df_irab.rename(columns={col: 'IRAS Bajas'}),
+        df_influ.rename(columns={col: 'Influenza'}),
+        df_covid.rename(columns={col: 'Covid-19'}),
+        df_otras.rename(columns={col: 'Otras causas respiratorias'})
+    ], axis=1)
 
+    # Eliminar duplicados de la columna 'semana' que se repiten en la concatenación
+    df_concatenado = df_concatenado.loc[:, ~df_concatenado.columns.duplicated()]
+
+    return fig, df_concatenado
+
+# Función para gráficos de pastel de atenciones respiratorias
 def grafico_atenciones_urgencia_respiratorias_pie(df, col, title):
     # Calcular totales por Causa
     total_iraa = df[df['Causa'].isin(iraa)][col].sum()
@@ -160,8 +204,16 @@ def grafico_atenciones_urgencia_respiratorias_pie(df, col, title):
         marker=dict(line=dict(color='#000000', width=0.5))
     )
     
-    return fig
+    # Crear un DataFrame con los datos del gráfico
+    df_pie = pd.DataFrame({
+        'Causa': labels,
+        'Porcentaje': values,
+        'Total Atenciones': [total_iraa, total_irab, total_influ, total_covid, total_otras]
+    })
 
+    return fig, df_pie
+
+# Función para gráficos de barras de atenciones respiratorias
 def grafico_atenciones_urgencia_barras(df, col, title):
     # Calcular totales por Causa
     total_iraa = df[df['Causa'].isin(iraa)][col].sum()
@@ -192,22 +244,28 @@ def grafico_atenciones_urgencia_barras(df, col, title):
         template=GLOBAL_THEME,
         xaxis=dict(tickformat='.0f', tickprefix='', ticksuffix='')
     )
+
+    # Crear un DataFrame con los datos del gráfico
+    df_barras = pd.DataFrame({
+        'Causa': labels,
+        'Total Atenciones': values
+    })
     
-    return fig
+    return fig, df_barras
 
 #%%
 # Graficos
-fig_area3_total = grafico_area_atenciones_respiratorias(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
-fig_area3_menor1 = grafico_area_atenciones_respiratorias(df_rm, 'Menores_1', f'Atenciones de Urgencia Respiratoria - Menores de 1 Año {selected_year}')
-fig_area3_mayor65 = grafico_area_atenciones_respiratorias(df_rm, 'De_65_y_mas', f'Atenciones de Urgencia Respiratoria - Mayores de 65 Años {selected_year}')
+fig_area3_total, df_area3_total = grafico_area_atenciones_respiratorias(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
+fig_area3_menor1, df_area3_menor1 = grafico_area_atenciones_respiratorias(df_rm, 'Menores_1', f'Atenciones de Urgencia Respiratoria - Menores de 1 Año {selected_year}')
+fig_area3_mayor65, df_area3_mayor65 = grafico_area_atenciones_respiratorias(df_rm, 'De_65_y_mas', f'Atenciones de Urgencia Respiratoria - Mayores de 65 Años {selected_year}')
 
-fig_pie3_total = grafico_atenciones_urgencia_respiratorias_pie(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
-fig_pie3_menor1 = grafico_atenciones_urgencia_respiratorias_pie(df_rm, 'Menores_1', f'Atenciones de Urgencia Respiratoria - Menores de 1 Año {selected_year}')
-fig_pie3_mayor65 = grafico_atenciones_urgencia_respiratorias_pie(df_rm, 'De_65_y_mas', f'Atenciones de Urgencia Respiratoria - Mayores de 65 Años {selected_year}')
+fig_pie3_total, df_pie3_total = grafico_atenciones_urgencia_respiratorias_pie(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
+fig_pie3_menor1, df_pie3_menor1 = grafico_atenciones_urgencia_respiratorias_pie(df_rm, 'Menores_1', f'Atenciones de Urgencia Respiratoria - Menores de 1 Año {selected_year}')
+fig_pie3_mayor65, df_pie3_mayor65 = grafico_atenciones_urgencia_respiratorias_pie(df_rm, 'De_65_y_mas', f'Atenciones de Urgencia Respiratoria - Mayores de 65 Años {selected_year}')
 
-fig_bar3_total = grafico_atenciones_urgencia_barras(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
-fig_bar3_menor1 = grafico_atenciones_urgencia_barras(df_rm, 'Menores_1', f'Atenciones de Urgencia Respiratoria - Menores de 1 Año {selected_year}')
-fig_bar3_mayor65 = grafico_atenciones_urgencia_barras(df_rm, 'De_65_y_mas', f'Atenciones de Urgencia Respiratoria - Mayores de 65 Años {selected_year}')
+fig_bar3_total, df_bar3_total = grafico_atenciones_urgencia_barras(df_rm, 'Total', f'Atenciones de Urgencia Respiratoria - Total {selected_year}')
+fig_bar3_menor1, df_bar3_menor1 = grafico_atenciones_urgencia_barras(df_rm, 'Menores_1', f'Atenciones de Urgencia Respiratoria - Menores de 1 Año {selected_year}')
+fig_bar3_mayor65, df_bar3_mayor65 = grafico_atenciones_urgencia_barras(df_rm, 'De_65_y_mas', f'Atenciones de Urgencia Respiratoria - Mayores de 65 Años {selected_year}')
 
 # Configuración de la aplicación Streamlit
 
@@ -237,3 +295,37 @@ st.plotly_chart(fig_bar3_menor1)
 st.subheader('Mayores de 65 Años')
 st.plotly_chart(fig_pie3_mayor65)
 st.plotly_chart(fig_bar3_mayor65)
+
+
+# Función para descargar todos los DataFrames en un solo archivo Excel
+def descargar_todos_los_dfs():
+    # Crear un objeto BytesIO para guardar el archivo Excel en memoria
+    output = BytesIO()
+
+    # Crear un objeto ExcelWriter con pandas y xlsxwriter
+    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+        # Guardar cada DataFrame en una pestaña separada
+        df_area3_total.to_excel(writer, index=False, sheet_name='Todas las Edades - Área')
+        df_area3_menor1.to_excel(writer, index=False, sheet_name='Menores de 1 Año - Área')
+        df_area3_mayor65.to_excel(writer, index=False, sheet_name='Mayores de 65 Años - Área')
+        df_pie3_total.to_excel(writer, index=False, sheet_name='Todas las Edades - Pie')
+        df_pie3_menor1.to_excel(writer, index=False, sheet_name='Menores de 1 Año - Pie')
+        df_pie3_mayor65.to_excel(writer, index=False, sheet_name='Mayores de 65 Años - Pie')
+        df_bar3_total.to_excel(writer, index=False, sheet_name='Todas las Edades - Barras')
+        df_bar3_menor1.to_excel(writer, index=False, sheet_name='Menores de 1 Año - Barras')
+        df_bar3_mayor65.to_excel(writer, index=False, sheet_name='Mayores de 65 Años - Barras')
+        
+        # Asegurarse de que el archivo se haya escrito completamente en el objeto BytesIO
+        writer.close()
+        processed_data = output.getvalue()
+
+    # Descargar el archivo Excel
+    st.download_button(
+        label="Descargar todos los datos como Excel",
+        data=processed_data,
+        file_name=f'Atenciones_Urgencia_Respiratoria_{selected_year}.xlsx',
+        mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+    )
+
+# Llamar a la función para generar el botón de descarga
+descargar_todos_los_dfs()
