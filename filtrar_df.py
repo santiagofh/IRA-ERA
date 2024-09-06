@@ -106,6 +106,7 @@ diccionario_causas_categorizada_au={
 #%%
 # Filtrar datos para la Región Metropolitana de Santiago
 # 2024
+columnas=['Total', 'Menores_1', 'De_1_a_4', 'De_5_a_14', 'De_15_a_64','De_65_y_mas']
 def filter_rm_resp(df):
     try:
         df_rm = df.loc[df.CodigoRegion == 13]
@@ -127,7 +128,6 @@ df_2020_rm_resp=filter_rm_resp(df_2020)
 df_2019_rm_resp=filter_rm_resp(df_2019)
 df_2018_rm_resp=filter_rm_resp(df_2018)
 #%%
-columnas=['Total', 'Menores_1', 'De_1_a_4', 'De_5_a_14', 'De_15_a_64','De_65_y_mas']
 
 #%%
 df_2024_rm_resp.to_csv('DATA/df_2024_rm_resp.csv')
