@@ -24,7 +24,7 @@ st.logo(logo_horizontal, icon_image=logo_icono)
 # Selector de año
 selected_year = st.sidebar.selectbox(
     'Seleccione el año',
-    options=[2018, 2019, 2020, 2021, 2022, 2023, 2024],
+    options=[2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
     index=4  # Establecer 2023 como valor predeterminado
 )
 

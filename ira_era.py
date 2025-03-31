@@ -10,7 +10,7 @@ logo_icono = 'img/icon_SEREMIRM.png'
 st.logo(logo_horizontal,icon_image=logo_icono)
 
 def ira_era():
-    st.title("IRA ERA - RM 2018-2024")
+    st.title("IRA ERA - RM 2018-2025")
     st.subheader("Capítulo IV - Vigilancia Enfermedades Respiratorias")
     texto = """
     En función del refuerzo asistencial estacional para las consultas de salud en toda la Red Pública Asistencial, se activa la vigilancia de enfermedades respiratoria a través de la estrategia “Programa Campaña de Invierno”. Este método procura enfrentar en la red asistencial el aumento de las infecciones respiratorias agudas (IRA), las que constituyen un problema epidemiológico nacional en los meses de otoño e invierno.
@@ -25,7 +25,7 @@ def ira_era():
 
 
 pg =st.navigation([
-    st.Page(ira_era, title="IRA ERA - RM 2018-2024", icon=":material/home:"),
+    st.Page(ira_era, title="IRA ERA - RM 2018-2025", icon=":material/home:"),
     st.Page('ira_era_au.py', title="Atenciones de Urgencias", icon=":material/monitoring:"),
     st.Page('ira_era_au_resp.py', title="A. Urgencias Respiratorias", icon=":material/monitoring:"),
     st.Page('ira_era_au_año.py', title="A. Urgencia Respiratorios por años", icon=":material/monitoring:"),

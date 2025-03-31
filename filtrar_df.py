@@ -15,10 +15,11 @@ dict_codigo_antiguo = pd.Series(deis_dd_antiguo['Código Región'].values, index
 print(dict_codigo_antiguo)
 #%%
 # Leer el archivo CSV
-df_2024 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2024.csv', sep=';', encoding='LATIN')
-df_2023 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2023.csv', sep=';', encoding='LATIN')
-df_2022 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2022.csv', sep=';', encoding='LATIN')
-df_2021 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2021.csv', sep=';', encoding='LATIN')
+df_2025 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2025\AtencionesUrgencia2025.csv', sep=';', encoding='LATIN')
+df_2024 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2024\AtencionesUrgencia2024.csv', sep=';', encoding='LATIN')
+df_2023 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2023\AtencionesUrgencia2023.csv', sep=';', encoding='LATIN')
+df_2022 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2022\AtencionesUrgencia2022.csv', sep=';', encoding='LATIN')
+df_2021 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2021\AtencionesUrgencia2021.csv', sep=';', encoding='LATIN')
 df_2020 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2020.csv', sep=';', encoding='LATIN')
 df_2019 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2019.csv', sep=';', encoding='LATIN')
 df_2018 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\GIE\DATA - Atenciones de Urgencias\AtencionesUrgencia2018.csv', sep=';', encoding='LATIN')
@@ -120,6 +121,7 @@ def filter_rm_resp(df):
     return df_rm_resp
 
 # %%
+df_2025_rm_resp=filter_rm_resp(df_2025)
 df_2024_rm_resp=filter_rm_resp(df_2024)
 df_2023_rm_resp=filter_rm_resp(df_2023)
 df_2022_rm_resp=filter_rm_resp(df_2022)
@@ -130,6 +132,7 @@ df_2018_rm_resp=filter_rm_resp(df_2018)
 #%%
 
 #%%
+df_2025_rm_resp.to_csv('DATA/df_2025_rm_resp.csv')
 df_2024_rm_resp.to_csv('DATA/df_2024_rm_resp.csv')
 df_2023_rm_resp.to_csv('DATA/df_2023_rm_resp.csv')
 df_2022_rm_resp.to_csv('DATA/df_2022_rm_resp.csv')

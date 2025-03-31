@@ -156,7 +156,7 @@ st.title('Visualización del Corredor Endémico 2023')
 
 hospital = st.sidebar.selectbox('Seleccione si desea ver la información de APS o Hospital', ['APS', 'Hospitales'], index=1)
 
-start_year, end_year = 2018, 2023
+start_year, end_year = 2018, 2024
 selected_year = end_year 
 list_df_rm = load_data(start_year, end_year)
 if list_df_rm is None:
