@@ -1,19 +1,19 @@
 ,GLOSATIPOESTABLECIMIENTO,semana,IdCausa,Causa,Total,Menores_1,De_1_a_4,De_5_a_14,De_15_a_64,De_65_y_mas
-0,Hospital,1,1,Atenciones de urgencia - Total,15884,849,1644,2441,8045,2905
-1,Hospital,1,2,Atenciones de urgencia - Total Respiratorios,1378,184,325,296,383,190
-2,Hospital,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),147,24,50,26,34,13
+0,Hospital,1,1,Atenciones de urgencia - Total,15871,849,1644,2441,8047,2890
+1,Hospital,1,2,Atenciones de urgencia - Total Respiratorios,1378,184,325,296,384,189
+2,Hospital,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),145,24,50,26,34,11
 3,Hospital,1,4,Atenciones de urgencia - Influenza (J09-J11),33,0,6,6,11,10
-4,Hospital,1,5,Atenciones de urgencia - Neumonía (J12-J18),175,5,24,22,73,51
+4,Hospital,1,5,Atenciones de urgencia - Neumonía (J12-J18),176,5,24,22,74,51
 5,Hospital,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",224,19,30,27,80,68
 6,Hospital,1,7,Hospitalizaciones - Sistema Respiratorio,164,10,10,17,52,75
 7,Hospital,1,10,Atenciones de urgencia - IRA Alta (J00-J06),683,125,200,191,154,13
-8,Hospital,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),116,11,15,24,31,35
+8,Hospital,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),117,11,15,24,31,36
 9,Hospital,1,25,Hospitalizaciones - Total,1848,67,67,148,866,700
 10,Hospital,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",6,2,1,0,0,3
 11,Hospital,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,1,0,0,2,0
 12,Hospital,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),1,1,0,0,0,0
 13,Hospital,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-14,Hospital,2,1,Atenciones de urgencia - Total,27265,1373,2832,4069,13733,5258
+14,Hospital,2,1,Atenciones de urgencia - Total,27283,1373,2832,4069,13743,5266
 15,Hospital,2,2,Atenciones de urgencia - Total Respiratorios,2020,297,453,377,542,351
 16,Hospital,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),179,42,42,34,38,23
 17,Hospital,2,4,Atenciones de urgencia - Influenza (J09-J11),51,1,6,12,14,18
@@ -27,21 +27,21 @@
 25,Hospital,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,1,0,0,0
 26,Hospital,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),1,0,0,0,0,1
 27,Hospital,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-28,Hospital,3,1,Atenciones de urgencia - Total,27384,1316,2525,3792,14352,5399
-29,Hospital,3,2,Atenciones de urgencia - Total Respiratorios,1842,256,442,355,488,301
+28,Hospital,3,1,Atenciones de urgencia - Total,27500,1316,2525,3792,14443,5424
+29,Hospital,3,2,Atenciones de urgencia - Total Respiratorios,1841,256,442,355,487,301
 30,Hospital,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),175,29,48,28,41,29
 31,Hospital,3,4,Atenciones de urgencia - Influenza (J09-J11),35,2,4,4,14,11
 32,Hospital,3,5,Atenciones de urgencia - Neumonía (J12-J18),177,7,27,15,67,61
 33,Hospital,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",386,35,48,58,120,125
 34,Hospital,3,7,Hospitalizaciones - Sistema Respiratorio,261,21,25,16,81,118
 35,Hospital,3,10,Atenciones de urgencia - IRA Alta (J00-J06),929,179,295,224,207,24
-36,Hospital,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),140,4,20,26,39,51
-37,Hospital,3,25,Hospitalizaciones - Total,3289,123,119,225,1599,1223
+36,Hospital,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),139,4,20,26,38,51
+37,Hospital,3,25,Hospitalizaciones - Total,3297,123,119,225,1604,1226
 38,Hospital,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",10,5,4,0,1,0
 39,Hospital,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,2,0,0,0,0
 40,Hospital,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 41,Hospital,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-42,Hospital,4,1,Atenciones de urgencia - Total,27441,1344,2465,3803,14579,5250
+42,Hospital,4,1,Atenciones de urgencia - Total,27552,1344,2465,3803,14676,5264
 43,Hospital,4,2,Atenciones de urgencia - Total Respiratorios,1817,286,421,323,476,311
 44,Hospital,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),161,27,43,24,36,31
 45,Hospital,4,4,Atenciones de urgencia - Influenza (J09-J11),44,0,2,5,16,21
@@ -50,666 +50,1240 @@
 48,Hospital,4,7,Hospitalizaciones - Sistema Respiratorio,249,11,28,16,70,124
 49,Hospital,4,10,Atenciones de urgencia - IRA Alta (J00-J06),915,214,285,209,191,16
 50,Hospital,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),152,12,22,24,54,40
-51,Hospital,4,25,Hospitalizaciones - Total,3241,107,135,200,1597,1202
+51,Hospital,4,25,Hospitalizaciones - Total,3244,107,135,200,1598,1204
 52,Hospital,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",8,2,3,1,0,2
 53,Hospital,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,3,0,0,2,0
 54,Hospital,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 55,Hospital,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),1,0,0,0,0,1
-56,Hospital,5,1,Atenciones de urgencia - Total,26964,1337,2447,3706,14211,5263
-57,Hospital,5,2,Atenciones de urgencia - Total Respiratorios,1670,227,358,291,485,309
+56,Hospital,5,1,Atenciones de urgencia - Total,27070,1347,2463,3726,14248,5286
+57,Hospital,5,2,Atenciones de urgencia - Total Respiratorios,1680,228,361,295,485,311
 58,Hospital,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),132,23,28,19,36,26
 59,Hospital,5,4,Atenciones de urgencia - Influenza (J09-J11),37,1,4,7,10,15
 60,Hospital,5,5,Atenciones de urgencia - Neumonía (J12-J18),171,6,24,17,55,69
-61,Hospital,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",385,25,38,47,132,143
-62,Hospital,5,7,Hospitalizaciones - Sistema Respiratorio,264,11,16,16,75,146
-63,Hospital,5,10,Atenciones de urgencia - IRA Alta (J00-J06),834,168,245,193,211,17
-64,Hospital,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),111,4,19,8,41,39
-65,Hospital,5,25,Hospitalizaciones - Total,3225,118,102,220,1525,1260
+61,Hospital,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",388,25,39,48,132,144
+62,Hospital,5,7,Hospitalizaciones - Sistema Respiratorio,266,11,16,16,75,148
+63,Hospital,5,10,Atenciones de urgencia - IRA Alta (J00-J06),840,169,247,196,211,17
+64,Hospital,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),112,4,19,8,41,40
+65,Hospital,5,25,Hospitalizaciones - Total,3254,118,105,221,1537,1273
 66,Hospital,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",7,2,4,0,0,1
 67,Hospital,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
 68,Hospital,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 69,Hospital,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),1,1,0,0,0,0
-70,Hospital,6,1,Atenciones de urgencia - Total,26781,1273,2323,3550,14427,5208
-71,Hospital,6,2,Atenciones de urgencia - Total Respiratorios,1619,207,337,275,493,307
+70,Hospital,6,1,Atenciones de urgencia - Total,26976,1310,2333,3572,14506,5255
+71,Hospital,6,2,Atenciones de urgencia - Total Respiratorios,1633,213,338,278,495,309
 72,Hospital,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),144,21,39,18,37,29
-73,Hospital,6,4,Atenciones de urgencia - Influenza (J09-J11),46,0,2,5,16,23
-74,Hospital,6,5,Atenciones de urgencia - Neumonía (J12-J18),170,9,20,24,51,66
-75,Hospital,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",361,20,21,36,150,134
-76,Hospital,6,7,Hospitalizaciones - Sistema Respiratorio,240,11,12,12,82,123
-77,Hospital,6,10,Atenciones de urgencia - IRA Alta (J00-J06),767,149,235,167,197,19
-78,Hospital,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),131,8,20,25,42,36
-79,Hospital,6,25,Hospitalizaciones - Total,3095,104,115,209,1545,1122
+73,Hospital,6,4,Atenciones de urgencia - Influenza (J09-J11),48,1,2,6,16,23
+74,Hospital,6,5,Atenciones de urgencia - Neumonía (J12-J18),171,9,20,24,51,67
+75,Hospital,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",363,20,21,36,151,135
+76,Hospital,6,7,Hospitalizaciones - Sistema Respiratorio,248,11,12,13,84,128
+77,Hospital,6,10,Atenciones de urgencia - IRA Alta (J00-J06),775,153,236,169,198,19
+78,Hospital,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),132,9,20,25,42,36
+79,Hospital,6,25,Hospitalizaciones - Total,3257,110,120,218,1615,1194
 80,Hospital,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",11,7,2,0,0,2
-81,Hospital,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",7,5,1,0,0,1
+81,Hospital,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",8,6,1,0,0,1
 82,Hospital,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 83,Hospital,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),1,0,0,0,0,1
-84,Hospital,7,1,Atenciones de urgencia - Total,26392,1287,2354,3365,14198,5188
-85,Hospital,7,2,Atenciones de urgencia - Total Respiratorios,1650,225,331,268,470,356
+84,Hospital,7,1,Atenciones de urgencia - Total,26566,1314,2370,3385,14268,5229
+85,Hospital,7,2,Atenciones de urgencia - Total Respiratorios,1663,230,334,269,472,358
 86,Hospital,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),137,19,35,17,35,31
 87,Hospital,7,4,Atenciones de urgencia - Influenza (J09-J11),35,0,3,6,15,11
-88,Hospital,7,5,Atenciones de urgencia - Neumonía (J12-J18),173,5,14,9,49,96
-89,Hospital,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",375,26,37,36,140,136
-90,Hospital,7,7,Hospitalizaciones - Sistema Respiratorio,223,14,12,14,69,114
-91,Hospital,7,10,Atenciones de urgencia - IRA Alta (J00-J06),786,163,218,178,195,32
-92,Hospital,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),144,12,24,22,36,50
-93,Hospital,7,25,Hospitalizaciones - Total,2993,90,106,215,1491,1091
+88,Hospital,7,5,Atenciones de urgencia - Neumonía (J12-J18),174,5,14,9,49,97
+89,Hospital,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",381,28,38,37,142,136
+90,Hospital,7,7,Hospitalizaciones - Sistema Respiratorio,233,14,12,14,70,123
+91,Hospital,7,10,Atenciones de urgencia - IRA Alta (J00-J06),791,165,220,178,195,33
+92,Hospital,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),145,13,24,22,36,50
+93,Hospital,7,25,Hospitalizaciones - Total,3098,99,107,223,1530,1139
 94,Hospital,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",19,12,5,1,1,0
 95,Hospital,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",7,4,1,0,1,1
 96,Hospital,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 97,Hospital,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),1,0,0,0,0,1
-98,Hospital,8,1,Atenciones de urgencia - Total,26241,1312,2164,3352,14105,5308
-99,Hospital,8,2,Atenciones de urgencia - Total Respiratorios,1619,276,291,252,497,303
+98,Hospital,8,1,Atenciones de urgencia - Total,26638,1342,2188,3375,14329,5404
+99,Hospital,8,2,Atenciones de urgencia - Total Respiratorios,1635,279,293,255,502,306
 100,Hospital,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),137,21,25,18,44,29
-101,Hospital,8,4,Atenciones de urgencia - Influenza (J09-J11),30,0,0,4,17,9
-102,Hospital,8,5,Atenciones de urgencia - Neumonía (J12-J18),153,3,12,16,44,78
-103,Hospital,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",362,35,30,31,143,123
-104,Hospital,8,7,Hospitalizaciones - Sistema Respiratorio,224,5,12,12,80,115
-105,Hospital,8,10,Atenciones de urgencia - IRA Alta (J00-J06),825,214,206,160,214,31
+101,Hospital,8,4,Atenciones de urgencia - Influenza (J09-J11),31,0,1,4,17,9
+102,Hospital,8,5,Atenciones de urgencia - Neumonía (J12-J18),154,3,12,16,44,79
+103,Hospital,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",367,35,30,32,146,124
+104,Hospital,8,7,Hospitalizaciones - Sistema Respiratorio,239,5,12,12,87,123
+105,Hospital,8,10,Atenciones de urgencia - IRA Alta (J00-J06),834,217,207,162,216,32
 106,Hospital,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),112,3,18,23,35,33
-107,Hospital,8,25,Hospitalizaciones - Total,2966,87,102,194,1397,1186
+107,Hospital,8,25,Hospitalizaciones - Total,3155,93,105,207,1473,1277
 108,Hospital,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",21,12,4,2,2,1
 109,Hospital,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",8,4,3,0,1,0
 110,Hospital,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 111,Hospital,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-112,Hospital,9,1,Atenciones de urgencia - Total,26527,1350,2422,3578,13829,5348
-113,Hospital,9,2,Atenciones de urgencia - Total Respiratorios,1847,315,382,320,465,365
+112,Hospital,9,1,Atenciones de urgencia - Total,26554,1375,2422,3577,13827,5353
+113,Hospital,9,2,Atenciones de urgencia - Total Respiratorios,1848,316,382,320,465,365
 114,Hospital,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),181,51,32,28,40,30
 115,Hospital,9,4,Atenciones de urgencia - Influenza (J09-J11),49,0,2,6,24,17
 116,Hospital,9,5,Atenciones de urgencia - Neumonía (J12-J18),176,7,22,13,48,86
 117,Hospital,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",385,48,49,32,112,144
-118,Hospital,9,7,Hospitalizaciones - Sistema Respiratorio,243,21,15,19,62,126
-119,Hospital,9,10,Atenciones de urgencia - IRA Alta (J00-J06),880,201,245,210,195,29
+118,Hospital,9,7,Hospitalizaciones - Sistema Respiratorio,254,22,15,19,64,134
+119,Hospital,9,10,Atenciones de urgencia - IRA Alta (J00-J06),881,202,245,210,195,29
 120,Hospital,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),176,8,32,31,46,59
-121,Hospital,9,25,Hospitalizaciones - Total,2934,113,113,207,1419,1082
+121,Hospital,9,25,Hospitalizaciones - Total,3128,121,118,213,1510,1166
 122,Hospital,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",12,9,2,1,0,0
 123,Hospital,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,1,0,0,0,0
 124,Hospital,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),2,1,1,0,0,0
 125,Hospital,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-126,Hospital,10,1,Atenciones de urgencia - Total,28618,1312,2581,4472,14856,5397
-127,Hospital,10,2,Atenciones de urgencia - Total Respiratorios,1925,273,418,391,538,305
+126,Hospital,10,1,Atenciones de urgencia - Total,28628,1345,2578,4470,14842,5393
+127,Hospital,10,2,Atenciones de urgencia - Total Respiratorios,1931,280,417,391,539,304
 128,Hospital,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),192,25,49,40,44,34
 129,Hospital,10,4,Atenciones de urgencia - Influenza (J09-J11),37,0,3,7,19,8
-130,Hospital,10,5,Atenciones de urgencia - Neumonía (J12-J18),155,10,12,21,53,59
-131,Hospital,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",375,32,47,45,122,129
-132,Hospital,10,7,Hospitalizaciones - Sistema Respiratorio,280,17,24,21,84,134
-133,Hospital,10,10,Atenciones de urgencia - IRA Alta (J00-J06),1008,201,285,246,247,29
+130,Hospital,10,5,Atenciones de urgencia - Neumonía (J12-J18),158,10,12,21,54,61
+131,Hospital,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",375,32,47,45,123,128
+132,Hospital,10,7,Hospitalizaciones - Sistema Respiratorio,295,17,24,21,87,146
+133,Hospital,10,10,Atenciones de urgencia - IRA Alta (J00-J06),1011,208,284,246,246,27
 134,Hospital,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),158,5,22,32,53,46
-135,Hospital,10,25,Hospitalizaciones - Total,3161,76,132,237,1587,1129
+135,Hospital,10,25,Hospitalizaciones - Total,3372,83,137,245,1696,1211
 136,Hospital,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",17,11,4,1,0,1
 137,Hospital,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,3,2,0,0,0
 138,Hospital,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 139,Hospital,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),1,0,0,0,1,0
-140,Hospital,11,1,Atenciones de urgencia - Total,32652,1705,3292,6825,15406,5424
-141,Hospital,11,2,Atenciones de urgencia - Total Respiratorios,3443,524,927,970,676,346
-142,Hospital,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),366,42,141,97,53,33
+140,Hospital,11,1,Atenciones de urgencia - Total,33056,1779,3374,7023,15439,5441
+141,Hospital,11,2,Atenciones de urgencia - Total Respiratorios,3506,543,944,992,679,348
+142,Hospital,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),385,43,149,105,55,33
 143,Hospital,11,4,Atenciones de urgencia - Influenza (J09-J11),67,3,5,24,19,16
-144,Hospital,11,5,Atenciones de urgencia - Neumonía (J12-J18),249,11,44,34,74,86
+144,Hospital,11,5,Atenciones de urgencia - Neumonía (J12-J18),249,11,44,34,73,87
 145,Hospital,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",511,61,86,89,145,130
-146,Hospital,11,7,Hospitalizaciones - Sistema Respiratorio,401,18,88,72,88,135
-147,Hospital,11,10,Atenciones de urgencia - IRA Alta (J00-J06),1931,392,573,613,321,32
-148,Hospital,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),319,15,78,113,64,49
-149,Hospital,11,25,Hospitalizaciones - Total,3336,98,187,284,1556,1211
-150,Hospital,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",19,6,5,3,4,1
+146,Hospital,11,7,Hospitalizaciones - Sistema Respiratorio,426,18,93,75,91,149
+147,Hospital,11,10,Atenciones de urgencia - IRA Alta (J00-J06),1973,410,582,625,323,33
+148,Hospital,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),321,15,78,115,64,49
+149,Hospital,11,25,Hospitalizaciones - Total,3586,105,203,307,1654,1317
+150,Hospital,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",20,7,5,3,4,1
 151,Hospital,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",6,1,1,1,1,2
 152,Hospital,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 153,Hospital,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-154,Hospital,12,1,Atenciones de urgencia - Total,26212,1491,2862,6142,11728,3989
-155,Hospital,12,2,Atenciones de urgencia - Total Respiratorios,3676,639,1013,1102,636,286
-156,Hospital,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),457,83,178,120,49,27
-157,Hospital,12,4,Atenciones de urgencia - Influenza (J09-J11),62,1,7,28,19,7
-158,Hospital,12,5,Atenciones de urgencia - Neumonía (J12-J18),188,7,37,36,50,58
-159,Hospital,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",517,55,91,101,143,127
-160,Hospital,12,7,Hospitalizaciones - Sistema Respiratorio,402,34,90,79,89,110
-161,Hospital,12,10,Atenciones de urgencia - IRA Alta (J00-J06),2045,473,585,660,304,23
-162,Hospital,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),407,20,115,157,71,44
-163,Hospital,12,25,Hospitalizaciones - Total,2631,94,166,277,1216,878
-164,Hospital,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",5,1,0,3,1,0
-165,Hospital,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+154,Hospital,12,1,Atenciones de urgencia - Total,34857,2050,3807,7893,15635,5472
+155,Hospital,12,2,Atenciones de urgencia - Total Respiratorios,4770,853,1289,1384,846,398
+156,Hospital,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),624,120,239,156,66,43
+157,Hospital,12,4,Atenciones de urgencia - Influenza (J09-J11),88,3,7,35,30,13
+158,Hospital,12,5,Atenciones de urgencia - Neumonía (J12-J18),286,14,57,59,70,86
+159,Hospital,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",674,78,116,141,180,159
+160,Hospital,12,7,Hospitalizaciones - Sistema Respiratorio,537,46,117,113,115,146
+161,Hospital,12,10,Atenciones de urgencia - IRA Alta (J00-J06),2587,615,738,794,400,40
+162,Hospital,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),511,23,132,199,100,57
+163,Hospital,12,25,Hospitalizaciones - Total,3613,124,222,382,1648,1237
+164,Hospital,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",9,4,0,3,1,1
+165,Hospital,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",7,4,1,1,1,0
 166,Hospital,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
 167,Hospital,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-168,Hospital,13,1,Atenciones de urgencia - Total,137,0,0,0,83,54
-169,Hospital,13,2,Atenciones de urgencia - Total Respiratorios,11,0,0,0,7,4
-170,Hospital,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0
-171,Hospital,13,4,Atenciones de urgencia - Influenza (J09-J11),0,0,0,0,0,0
-172,Hospital,13,5,Atenciones de urgencia - Neumonía (J12-J18),1,0,0,0,0,1
-173,Hospital,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,0,0,0,3,3
-174,Hospital,13,7,Hospitalizaciones - Sistema Respiratorio,4,0,0,0,0,4
-175,Hospital,13,10,Atenciones de urgencia - IRA Alta (J00-J06),3,0,0,0,3,0
-176,Hospital,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),1,0,0,0,1,0
-177,Hospital,13,25,Hospitalizaciones - Total,45,0,0,0,14,31
-178,Hospital,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-179,Hospital,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-180,Hospital,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+168,Hospital,13,1,Atenciones de urgencia - Total,33274,1843,3701,7491,15137,5102
+169,Hospital,13,2,Atenciones de urgencia - Total Respiratorios,4359,701,1154,1150,903,451
+170,Hospital,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),530,101,168,125,93,43
+171,Hospital,13,4,Atenciones de urgencia - Influenza (J09-J11),83,0,8,30,29,16
+172,Hospital,13,5,Atenciones de urgencia - Neumonía (J12-J18),315,10,53,57,83,112
+173,Hospital,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",708,87,133,128,192,168
+174,Hospital,13,7,Hospitalizaciones - Sistema Respiratorio,454,31,94,80,94,155
+175,Hospital,13,10,Atenciones de urgencia - IRA Alta (J00-J06),2335,484,699,678,428,46
+176,Hospital,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),388,19,93,132,78,66
+177,Hospital,13,25,Hospitalizaciones - Total,3528,101,206,341,1604,1276
+178,Hospital,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,1,1,1,0,1
+179,Hospital,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",6,0,1,0,5,0
+180,Hospital,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),1,0,0,0,0,1
 181,Hospital,13,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-182,SAPU,1,1,Atenciones de urgencia - Total,31734,372,1665,3480,21322,4895
-183,SAPU,1,2,Atenciones de urgencia - Total Respiratorios,6600,141,529,919,4256,755
-184,SAPU,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),751,20,77,82,444,128
-185,SAPU,1,4,Atenciones de urgencia - Influenza (J09-J11),60,0,2,6,39,13
-186,SAPU,1,5,Atenciones de urgencia - Neumonía (J12-J18),217,2,5,11,97,102
-187,SAPU,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",346,11,26,43,207,59
-188,SAPU,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-189,SAPU,1,10,Atenciones de urgencia - IRA Alta (J00-J06),4999,108,411,762,3361,357
-190,SAPU,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),227,0,8,15,108,96
-191,SAPU,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
-192,SAPU,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,0,1
-193,SAPU,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-194,SAPU,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-195,SAPU,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-196,SAPU,2,1,Atenciones de urgencia - Total,52722,640,2834,5977,35217,8054
-197,SAPU,2,2,Atenciones de urgencia - Total Respiratorios,9504,242,853,1354,5974,1081
-198,SAPU,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1022,29,102,101,638,152
-199,SAPU,2,4,Atenciones de urgencia - Influenza (J09-J11),92,1,3,7,71,10
-200,SAPU,2,5,Atenciones de urgencia - Neumonía (J12-J18),331,4,6,13,145,163
-201,SAPU,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",606,26,33,71,358,118
-202,SAPU,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-203,SAPU,2,10,Atenciones de urgencia - IRA Alta (J00-J06),7091,181,698,1142,4581,489
-204,SAPU,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),362,1,11,20,181,149
-205,SAPU,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
-206,SAPU,2,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-207,SAPU,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
-208,SAPU,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-209,SAPU,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-210,SAPU,3,1,Atenciones de urgencia - Total,49533,608,2586,5301,33357,7681
-211,SAPU,3,2,Atenciones de urgencia - Total Respiratorios,7896,207,702,1176,4925,886
-212,SAPU,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),785,29,73,86,466,131
-213,SAPU,3,4,Atenciones de urgencia - Influenza (J09-J11),68,2,2,12,46,6
-214,SAPU,3,5,Atenciones de urgencia - Neumonía (J12-J18),267,1,11,14,95,146
-215,SAPU,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",448,13,32,52,264,87
-216,SAPU,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-217,SAPU,3,10,Atenciones de urgencia - IRA Alta (J00-J06),6004,159,570,988,3886,401
-218,SAPU,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),324,3,14,24,168,115
-219,SAPU,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
-220,SAPU,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,1,1
-221,SAPU,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-222,SAPU,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-223,SAPU,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-224,SAPU,4,1,Atenciones de urgencia - Total,48760,585,2425,4961,33239,7550
-225,SAPU,4,2,Atenciones de urgencia - Total Respiratorios,7568,181,655,1045,4798,889
-226,SAPU,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),711,23,64,82,430,112
-227,SAPU,4,4,Atenciones de urgencia - Influenza (J09-J11),63,0,2,4,51,6
-228,SAPU,4,5,Atenciones de urgencia - Neumonía (J12-J18),251,2,12,6,91,140
-229,SAPU,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",461,18,31,51,267,94
-230,SAPU,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-231,SAPU,4,10,Atenciones de urgencia - IRA Alta (J00-J06),5794,138,536,887,3823,410
-232,SAPU,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),288,0,10,15,136,127
-233,SAPU,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
-234,SAPU,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
-235,SAPU,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-236,SAPU,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-237,SAPU,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-238,SAPU,5,1,Atenciones de urgencia - Total,47915,537,2247,4799,32949,7383
-239,SAPU,5,2,Atenciones de urgencia - Total Respiratorios,7300,178,588,955,4713,866
-240,SAPU,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),713,22,70,65,436,120
-241,SAPU,5,4,Atenciones de urgencia - Influenza (J09-J11),50,0,2,4,38,6
-242,SAPU,5,5,Atenciones de urgencia - Neumonía (J12-J18),258,4,5,5,99,145
-243,SAPU,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",473,22,34,45,269,103
-244,SAPU,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-245,SAPU,5,10,Atenciones de urgencia - IRA Alta (J00-J06),5490,130,471,816,3704,369
-246,SAPU,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),316,0,6,20,167,123
-247,SAPU,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
-248,SAPU,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
-249,SAPU,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",4,0,1,0,2,1
-250,SAPU,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-251,SAPU,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-252,SAPU,6,1,Atenciones de urgencia - Total,46962,593,2117,4581,32281,7390
-253,SAPU,6,2,Atenciones de urgencia - Total Respiratorios,7300,206,537,994,4666,897
-254,SAPU,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),640,23,57,58,372,130
-255,SAPU,6,4,Atenciones de urgencia - Influenza (J09-J11),57,0,3,8,40,6
-256,SAPU,6,5,Atenciones de urgencia - Neumonía (J12-J18),262,2,7,12,100,141
-257,SAPU,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",391,17,19,36,233,86
-258,SAPU,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-259,SAPU,6,10,Atenciones de urgencia - IRA Alta (J00-J06),5605,162,440,858,3753,392
-260,SAPU,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),345,2,11,22,168,142
-261,SAPU,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
-262,SAPU,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-263,SAPU,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
-264,SAPU,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-265,SAPU,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-266,SAPU,7,1,Atenciones de urgencia - Total,46712,532,2075,4471,31992,7642
-267,SAPU,7,2,Atenciones de urgencia - Total Respiratorios,7450,189,567,985,4780,929
-268,SAPU,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),614,15,50,61,374,114
-269,SAPU,7,4,Atenciones de urgencia - Influenza (J09-J11),56,0,1,3,43,9
-270,SAPU,7,5,Atenciones de urgencia - Neumonía (J12-J18),222,2,2,2,81,135
-271,SAPU,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",432,11,26,43,252,100
-272,SAPU,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-273,SAPU,7,10,Atenciones de urgencia - IRA Alta (J00-J06),5809,161,484,859,3863,442
-274,SAPU,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),317,0,4,17,167,129
-275,SAPU,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
-276,SAPU,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-277,SAPU,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,1,0,0,1,0
-278,SAPU,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-279,SAPU,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-280,SAPU,8,1,Atenciones de urgencia - Total,48956,615,2008,4587,33922,7824
-281,SAPU,8,2,Atenciones de urgencia - Total Respiratorios,8691,230,606,1129,5639,1087
-282,SAPU,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),804,19,62,87,478,158
-283,SAPU,8,4,Atenciones de urgencia - Influenza (J09-J11),56,2,2,5,38,9
-284,SAPU,8,5,Atenciones de urgencia - Neumonía (J12-J18),269,2,4,7,91,165
-285,SAPU,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",437,18,19,39,272,89
-286,SAPU,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-287,SAPU,8,10,Atenciones de urgencia - IRA Alta (J00-J06),6818,189,513,970,4613,533
-288,SAPU,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),307,0,6,21,147,133
-289,SAPU,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
-290,SAPU,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-291,SAPU,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,0,2
-292,SAPU,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-293,SAPU,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-294,SAPU,9,1,Atenciones de urgencia - Total,46390,527,2089,4512,31780,7482
-295,SAPU,9,2,Atenciones de urgencia - Total Respiratorios,8214,191,583,1076,5328,1036
-296,SAPU,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),805,16,57,95,490,147
-297,SAPU,9,4,Atenciones de urgencia - Influenza (J09-J11),71,0,1,0,56,14
-298,SAPU,9,5,Atenciones de urgencia - Neumonía (J12-J18),241,0,2,10,90,139
-299,SAPU,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",537,16,27,53,326,115
-300,SAPU,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-301,SAPU,9,10,Atenciones de urgencia - IRA Alta (J00-J06),6219,159,491,892,4186,491
-302,SAPU,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),341,0,5,26,180,130
-303,SAPU,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
-304,SAPU,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-305,SAPU,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
-306,SAPU,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-307,SAPU,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-308,SAPU,10,1,Atenciones de urgencia - Total,51242,575,2401,5458,34443,8365
-309,SAPU,10,2,Atenciones de urgencia - Total Respiratorios,10213,227,797,1645,6304,1240
-310,SAPU,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),949,22,85,126,539,177
-311,SAPU,10,4,Atenciones de urgencia - Influenza (J09-J11),104,0,2,9,83,10
-312,SAPU,10,5,Atenciones de urgencia - Neumonía (J12-J18),286,2,7,9,105,163
-313,SAPU,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",366,7,22,48,199,90
-314,SAPU,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-315,SAPU,10,10,Atenciones de urgencia - IRA Alta (J00-J06),8146,196,672,1425,5195,658
-316,SAPU,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),362,0,9,28,183,142
-317,SAPU,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
-318,SAPU,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,0,1
-319,SAPU,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,0,1
-320,SAPU,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-321,SAPU,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-322,SAPU,11,1,Atenciones de urgencia - Total,60906,902,4202,9777,37868,8157
-323,SAPU,11,2,Atenciones de urgencia - Total Respiratorios,17239,448,2288,4655,8505,1343
-324,SAPU,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1505,49,257,333,637,229
-325,SAPU,11,4,Atenciones de urgencia - Influenza (J09-J11),215,4,12,30,140,29
-326,SAPU,11,5,Atenciones de urgencia - Neumonía (J12-J18),341,3,17,28,122,171
-327,SAPU,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",514,23,60,100,245,86
-328,SAPU,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-329,SAPU,11,10,Atenciones de urgencia - IRA Alta (J00-J06),14217,365,1922,4097,7147,686
-330,SAPU,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),447,4,20,67,214,142
-331,SAPU,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
-332,SAPU,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,0,1,1,2,0
-333,SAPU,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,1,0,0,3,1
-334,SAPU,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-335,SAPU,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-336,SAPU,12,1,Atenciones de urgencia - Total,54804,856,4371,10369,32646,6562
-337,SAPU,12,2,Atenciones de urgencia - Total Respiratorios,20053,551,2694,5918,9565,1325
-338,SAPU,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1865,61,319,524,767,194
-339,SAPU,12,4,Atenciones de urgencia - Influenza (J09-J11),215,4,8,55,134,14
-340,SAPU,12,5,Atenciones de urgencia - Neumonía (J12-J18),326,4,22,22,125,153
-341,SAPU,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",429,19,56,76,202,76
-342,SAPU,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-343,SAPU,12,10,Atenciones de urgencia - IRA Alta (J00-J06),16729,462,2262,5128,8109,768
-344,SAPU,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),489,1,27,113,228,120
-345,SAPU,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
-346,SAPU,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,0,0,0,3,1
-347,SAPU,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,1,2,0,0
-348,SAPU,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-349,SAPU,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-350,SAPU,13,1,Atenciones de urgencia - Total,2429,24,187,456,1462,300
-351,SAPU,13,2,Atenciones de urgencia - Total Respiratorios,910,16,102,270,450,72
-352,SAPU,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),123,2,16,38,52,15
-353,SAPU,13,4,Atenciones de urgencia - Influenza (J09-J11),11,0,0,3,8,0
-354,SAPU,13,5,Atenciones de urgencia - Neumonía (J12-J18),16,0,0,1,7,8
-355,SAPU,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,1,2,7,8,5
-356,SAPU,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-357,SAPU,13,10,Atenciones de urgencia - IRA Alta (J00-J06),717,13,83,218,367,36
-358,SAPU,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),20,0,1,3,8,8
-359,SAPU,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
-360,SAPU,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-361,SAPU,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,1,0,0
-362,SAPU,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-363,SAPU,13,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-364,SAR,1,1,Atenciones de urgencia - Total,11910,119,592,1176,7752,2271
-365,SAR,1,2,Atenciones de urgencia - Total Respiratorios,2009,44,160,249,1230,326
-366,SAR,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),254,3,23,18,157,53
-367,SAR,1,4,Atenciones de urgencia - Influenza (J09-J11),17,0,0,1,11,5
-368,SAR,1,5,Atenciones de urgencia - Neumonía (J12-J18),164,3,13,13,56,79
-369,SAR,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",80,1,1,6,48,24
-370,SAR,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-371,SAR,1,10,Atenciones de urgencia - IRA Alta (J00-J06),1396,36,121,207,913,119
-372,SAR,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),98,1,2,4,45,46
-373,SAR,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
-374,SAR,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-375,SAR,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-376,SAR,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-377,SAR,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-378,SAR,2,1,Atenciones de urgencia - Total,20660,207,1067,2035,13423,3928
-379,SAR,2,2,Atenciones de urgencia - Total Respiratorios,3005,79,277,357,1790,502
-380,SAR,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),369,18,37,25,216,73
-381,SAR,2,4,Atenciones de urgencia - Influenza (J09-J11),39,1,2,1,29,6
-382,SAR,2,5,Atenciones de urgencia - Neumonía (J12-J18),213,4,11,11,77,110
-383,SAR,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",149,2,6,2,77,62
-384,SAR,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-385,SAR,2,10,Atenciones de urgencia - IRA Alta (J00-J06),2071,53,218,310,1313,177
-386,SAR,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),164,1,3,8,78,74
-387,SAR,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
-388,SAR,2,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-389,SAR,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-390,SAR,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-391,SAR,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-392,SAR,3,1,Atenciones de urgencia - Total,19592,194,1024,1909,12928,3537
-393,SAR,3,2,Atenciones de urgencia - Total Respiratorios,2615,65,274,326,1553,397
-394,SAR,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),325,6,45,37,189,48
-395,SAR,3,4,Atenciones de urgencia - Influenza (J09-J11),51,0,4,6,33,8
-396,SAR,3,5,Atenciones de urgencia - Neumonía (J12-J18),174,2,12,7,59,94
-397,SAR,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",139,3,6,11,76,43
-398,SAR,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-399,SAR,3,10,Atenciones de urgencia - IRA Alta (J00-J06),1772,54,205,254,1121,138
-400,SAR,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),154,0,2,11,75,66
-401,SAR,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
-402,SAR,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-403,SAR,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-404,SAR,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-405,SAR,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-406,SAR,4,1,Atenciones de urgencia - Total,19327,207,911,1779,12856,3574
-407,SAR,4,2,Atenciones de urgencia - Total Respiratorios,2475,71,224,309,1453,418
-408,SAR,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),235,7,34,19,133,42
-409,SAR,4,4,Atenciones de urgencia - Influenza (J09-J11),33,0,0,3,26,4
-410,SAR,4,5,Atenciones de urgencia - Neumonía (J12-J18),183,4,8,5,60,106
-411,SAR,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",133,4,14,8,64,43
-412,SAR,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-413,SAR,4,10,Atenciones de urgencia - IRA Alta (J00-J06),1762,56,168,272,1127,139
-414,SAR,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),129,0,0,2,43,84
-415,SAR,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
-416,SAR,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-417,SAR,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-418,SAR,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-419,SAR,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-420,SAR,5,1,Atenciones de urgencia - Total,19618,204,881,1824,13137,3572
-421,SAR,5,2,Atenciones de urgencia - Total Respiratorios,2444,55,210,304,1513,362
-422,SAR,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),266,8,22,26,171,39
-423,SAR,5,4,Atenciones de urgencia - Influenza (J09-J11),26,0,0,1,23,2
-424,SAR,5,5,Atenciones de urgencia - Neumonía (J12-J18),154,5,8,14,53,74
-425,SAR,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",120,3,6,5,58,48
-426,SAR,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-427,SAR,5,10,Atenciones de urgencia - IRA Alta (J00-J06),1749,39,172,253,1146,139
-428,SAR,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),129,0,2,5,62,60
-429,SAR,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
-430,SAR,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-431,SAR,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-432,SAR,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-433,SAR,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-434,SAR,6,1,Atenciones de urgencia - Total,18772,198,825,1698,12588,3463
-435,SAR,6,2,Atenciones de urgencia - Total Respiratorios,2379,71,179,302,1473,354
-436,SAR,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),227,7,23,27,131,39
-437,SAR,6,4,Atenciones de urgencia - Influenza (J09-J11),32,0,0,2,22,8
-438,SAR,6,5,Atenciones de urgencia - Neumonía (J12-J18),164,3,7,8,53,93
-439,SAR,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",126,2,7,11,67,39
-440,SAR,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-441,SAR,6,10,Atenciones de urgencia - IRA Alta (J00-J06),1686,59,139,247,1128,113
-442,SAR,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),144,0,3,7,72,62
-443,SAR,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
-444,SAR,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-445,SAR,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-446,SAR,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-447,SAR,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-448,SAR,7,1,Atenciones de urgencia - Total,18964,219,774,1625,12723,3623
-449,SAR,7,2,Atenciones de urgencia - Total Respiratorios,2426,94,184,256,1509,383
-450,SAR,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),244,12,19,27,141,45
-451,SAR,7,4,Atenciones de urgencia - Influenza (J09-J11),43,1,1,2,33,6
-452,SAR,7,5,Atenciones de urgencia - Neumonía (J12-J18),146,2,5,6,41,92
-453,SAR,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",100,0,7,2,47,44
-454,SAR,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-455,SAR,7,10,Atenciones de urgencia - IRA Alta (J00-J06),1738,79,152,208,1164,135
-456,SAR,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),155,0,0,11,83,61
-457,SAR,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
-458,SAR,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-459,SAR,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-460,SAR,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-461,SAR,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-462,SAR,8,1,Atenciones de urgencia - Total,19500,209,751,1665,13170,3705
-463,SAR,8,2,Atenciones de urgencia - Total Respiratorios,2832,74,209,336,1772,441
-464,SAR,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),278,9,28,18,167,56
-465,SAR,8,4,Atenciones de urgencia - Influenza (J09-J11),22,0,0,3,15,4
-466,SAR,8,5,Atenciones de urgencia - Neumonía (J12-J18),178,2,7,9,60,100
-467,SAR,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",144,2,3,11,75,53
-468,SAR,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-469,SAR,8,10,Atenciones de urgencia - IRA Alta (J00-J06),2049,61,171,288,1369,160
-470,SAR,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),161,0,0,7,86,68
-471,SAR,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
-472,SAR,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-473,SAR,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-474,SAR,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-475,SAR,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-476,SAR,9,1,Atenciones de urgencia - Total,18857,200,758,1677,12597,3625
-477,SAR,9,2,Atenciones de urgencia - Total Respiratorios,2618,66,182,328,1598,444
-478,SAR,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),291,14,23,32,172,50
-479,SAR,9,4,Atenciones de urgencia - Influenza (J09-J11),35,0,0,3,28,4
-480,SAR,9,5,Atenciones de urgencia - Neumonía (J12-J18),159,2,2,3,56,96
-481,SAR,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",110,3,3,8,47,49
-482,SAR,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-483,SAR,9,10,Atenciones de urgencia - IRA Alta (J00-J06),1863,46,149,275,1220,173
-484,SAR,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),160,1,5,7,75,72
-485,SAR,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
-486,SAR,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,2,0
-487,SAR,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,0,0,4,1
-488,SAR,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-489,SAR,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-490,SAR,10,1,Atenciones de urgencia - Total,20531,208,866,1931,13575,3951
-491,SAR,10,2,Atenciones de urgencia - Total Respiratorios,3186,94,227,451,1935,479
-492,SAR,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),349,14,31,49,187,68
-493,SAR,10,4,Atenciones de urgencia - Influenza (J09-J11),41,0,0,3,29,9
-494,SAR,10,5,Atenciones de urgencia - Neumonía (J12-J18),154,0,3,0,56,95
-495,SAR,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",158,2,3,7,82,64
-496,SAR,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-497,SAR,10,10,Atenciones de urgencia - IRA Alta (J00-J06),2335,78,188,378,1513,178
-498,SAR,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),149,0,2,14,68,65
-499,SAR,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
-500,SAR,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
-501,SAR,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,0,3,0
-502,SAR,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-503,SAR,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-504,SAR,11,1,Atenciones de urgencia - Total,23770,280,1502,3436,14629,3923
-505,SAR,11,2,Atenciones de urgencia - Total Respiratorios,5276,150,724,1327,2527,548
-506,SAR,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),573,19,113,128,243,70
-507,SAR,11,4,Atenciones de urgencia - Influenza (J09-J11),78,0,0,13,49,16
-508,SAR,11,5,Atenciones de urgencia - Neumonía (J12-J18),205,5,17,17,57,109
-509,SAR,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",171,5,13,20,74,59
-510,SAR,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-511,SAR,11,10,Atenciones de urgencia - IRA Alta (J00-J06),4040,120,572,1119,2009,220
-512,SAR,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),209,1,9,30,95,74
-513,SAR,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
-514,SAR,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-515,SAR,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,1,2,0
-516,SAR,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-517,SAR,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-518,SAR,12,1,Atenciones de urgencia - Total,23167,307,1620,3945,13832,3463
-519,SAR,12,2,Atenciones de urgencia - Total Respiratorios,6610,189,920,1828,3097,576
-520,SAR,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),772,21,128,209,309,105
-521,SAR,12,4,Atenciones de urgencia - Influenza (J09-J11),93,0,0,24,58,11
-522,SAR,12,5,Atenciones de urgencia - Neumonía (J12-J18),233,3,21,19,97,93
-523,SAR,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",175,4,14,40,66,51
-524,SAR,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-525,SAR,12,10,Atenciones de urgencia - IRA Alta (J00-J06),5130,161,751,1495,2476,247
-526,SAR,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),207,0,6,41,91,69
-527,SAR,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
-528,SAR,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
-529,SAR,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,1,1,0
-530,SAR,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-531,SAR,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-532,SAR,13,1,Atenciones de urgencia - Total,1164,11,89,180,697,187
-533,SAR,13,2,Atenciones de urgencia - Total Respiratorios,314,7,47,83,144,33
-534,SAR,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),35,1,3,16,10,5
-535,SAR,13,4,Atenciones de urgencia - Influenza (J09-J11),7,0,0,2,3,2
-536,SAR,13,5,Atenciones de urgencia - Neumonía (J12-J18),7,0,2,1,2,2
-537,SAR,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,0,3,0,8,3
-538,SAR,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-539,SAR,13,10,Atenciones de urgencia - IRA Alta (J00-J06),238,6,39,61,117,15
-540,SAR,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),13,0,0,3,4,6
-541,SAR,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
-542,SAR,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-543,SAR,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-544,SAR,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-545,SAR,13,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-546,SUR,1,1,Atenciones de urgencia - Total,1164,15,74,152,772,151
-547,SUR,1,2,Atenciones de urgencia - Total Respiratorios,272,7,23,39,175,28
-548,SUR,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),31,1,2,1,21,6
-549,SUR,1,4,Atenciones de urgencia - Influenza (J09-J11),1,0,1,0,0,0
-550,SUR,1,5,Atenciones de urgencia - Neumonía (J12-J18),14,0,2,2,4,6
-551,SUR,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,0,1,0,11,3
-552,SUR,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-553,SUR,1,10,Atenciones de urgencia - IRA Alta (J00-J06),202,6,17,34,136,9
-554,SUR,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),9,0,0,2,3,4
-555,SUR,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
-556,SUR,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-557,SUR,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-558,SUR,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-559,SUR,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-560,SUR,2,1,Atenciones de urgencia - Total,1688,30,99,204,1131,224
-561,SUR,2,2,Atenciones de urgencia - Total Respiratorios,320,8,25,49,203,35
-562,SUR,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),41,2,6,2,26,5
-563,SUR,2,4,Atenciones de urgencia - Influenza (J09-J11),6,0,0,0,6,0
-564,SUR,2,5,Atenciones de urgencia - Neumonía (J12-J18),14,0,0,0,5,9
-565,SUR,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,0,0,7,2
-566,SUR,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-567,SUR,2,10,Atenciones de urgencia - IRA Alta (J00-J06),234,6,18,44,153,13
-568,SUR,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),16,0,1,3,6,6
-569,SUR,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
-570,SUR,2,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-571,SUR,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-572,SUR,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-573,SUR,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-574,SUR,3,1,Atenciones de urgencia - Total,1839,25,119,257,1189,249
-575,SUR,3,2,Atenciones de urgencia - Total Respiratorios,302,8,34,50,181,29
-576,SUR,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),25,1,3,1,19,1
-577,SUR,3,4,Atenciones de urgencia - Influenza (J09-J11),3,0,0,1,2,0
-578,SUR,3,5,Atenciones de urgencia - Neumonía (J12-J18),12,0,1,2,2,7
-579,SUR,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,0,2,3,11,4
-580,SUR,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-581,SUR,3,10,Atenciones de urgencia - IRA Alta (J00-J06),233,7,28,41,142,15
-582,SUR,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),9,0,0,2,5,2
-583,SUR,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
-584,SUR,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-585,SUR,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-586,SUR,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-587,SUR,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-588,SUR,4,1,Atenciones de urgencia - Total,1841,20,97,189,1261,274
-589,SUR,4,2,Atenciones de urgencia - Total Respiratorios,304,2,27,42,200,33
-590,SUR,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),26,0,0,4,18,4
-591,SUR,4,4,Atenciones de urgencia - Influenza (J09-J11),8,0,0,0,8,0
-592,SUR,4,5,Atenciones de urgencia - Neumonía (J12-J18),16,1,1,0,6,8
-593,SUR,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,0,2,2,11,7
-594,SUR,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-595,SUR,4,10,Atenciones de urgencia - IRA Alta (J00-J06),219,1,24,35,150,9
-596,SUR,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),13,0,0,1,7,5
-597,SUR,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
-598,SUR,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-599,SUR,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-600,SUR,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-601,SUR,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-602,SUR,5,1,Atenciones de urgencia - Total,1487,22,89,146,1027,203
-603,SUR,5,2,Atenciones de urgencia - Total Respiratorios,233,6,26,29,151,21
-604,SUR,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),13,0,1,2,8,2
-605,SUR,5,4,Atenciones de urgencia - Influenza (J09-J11),6,0,0,2,3,1
-606,SUR,5,5,Atenciones de urgencia - Neumonía (J12-J18),14,0,0,0,8,6
-607,SUR,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,0,1,1,7,2
-608,SUR,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-609,SUR,5,10,Atenciones de urgencia - IRA Alta (J00-J06),183,6,24,24,122,7
-610,SUR,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),6,0,0,0,3,3
-611,SUR,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
-612,SUR,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-613,SUR,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-614,SUR,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-615,SUR,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-616,SUR,6,1,Atenciones de urgencia - Total,1500,25,73,177,1018,207
-617,SUR,6,2,Atenciones de urgencia - Total Respiratorios,210,11,18,28,131,22
-618,SUR,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),18,2,2,4,9,1
-619,SUR,6,4,Atenciones de urgencia - Influenza (J09-J11),7,1,0,0,5,1
-620,SUR,6,5,Atenciones de urgencia - Neumonía (J12-J18),9,0,0,0,5,4
-621,SUR,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,1,0,3,10,4
-622,SUR,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-623,SUR,6,10,Atenciones de urgencia - IRA Alta (J00-J06),153,7,15,21,99,11
-624,SUR,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),5,0,1,0,3,1
-625,SUR,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
-626,SUR,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-627,SUR,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-628,SUR,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-629,SUR,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-630,SUR,7,1,Atenciones de urgencia - Total,1561,22,87,191,1049,212
-631,SUR,7,2,Atenciones de urgencia - Total Respiratorios,259,5,21,46,163,24
-632,SUR,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),12,0,0,1,7,4
-633,SUR,7,4,Atenciones de urgencia - Influenza (J09-J11),0,0,0,0,0,0
-634,SUR,7,5,Atenciones de urgencia - Neumonía (J12-J18),6,0,0,1,1,4
-635,SUR,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,2,2,5,19,2
-636,SUR,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-637,SUR,7,10,Atenciones de urgencia - IRA Alta (J00-J06),205,3,19,38,133,12
-638,SUR,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),6,0,0,1,3,2
-639,SUR,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
-640,SUR,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-641,SUR,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-642,SUR,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-643,SUR,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-644,SUR,8,1,Atenciones de urgencia - Total,1648,31,83,179,1127,228
-645,SUR,8,2,Atenciones de urgencia - Total Respiratorios,261,16,20,30,167,28
-646,SUR,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),18,0,3,3,7,5
-647,SUR,8,4,Atenciones de urgencia - Influenza (J09-J11),7,1,0,0,3,3
-648,SUR,8,5,Atenciones de urgencia - Neumonía (J12-J18),8,0,0,0,1,7
-649,SUR,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",25,1,2,2,18,2
-650,SUR,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-651,SUR,8,10,Atenciones de urgencia - IRA Alta (J00-J06),197,14,15,24,133,11
-652,SUR,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),6,0,0,1,5,0
-653,SUR,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
-654,SUR,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-655,SUR,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-656,SUR,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-657,SUR,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-658,SUR,9,1,Atenciones de urgencia - Total,1472,23,62,172,1013,202
-659,SUR,9,2,Atenciones de urgencia - Total Respiratorios,264,5,18,41,176,24
-660,SUR,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),20,0,1,2,11,6
-661,SUR,9,4,Atenciones de urgencia - Influenza (J09-J11),5,0,0,0,4,1
-662,SUR,9,5,Atenciones de urgencia - Neumonía (J12-J18),8,0,0,0,1,7
-663,SUR,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,0,0,2,11,3
-664,SUR,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-665,SUR,9,10,Atenciones de urgencia - IRA Alta (J00-J06),206,5,17,36,141,7
-666,SUR,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),9,0,0,1,8,0
-667,SUR,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
-668,SUR,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
-669,SUR,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-670,SUR,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-671,SUR,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-672,SUR,10,1,Atenciones de urgencia - Total,1664,25,78,183,1138,240
-673,SUR,10,2,Atenciones de urgencia - Total Respiratorios,299,10,21,50,180,38
-674,SUR,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),28,0,4,5,13,6
-675,SUR,10,4,Atenciones de urgencia - Influenza (J09-J11),5,0,0,0,3,2
-676,SUR,10,5,Atenciones de urgencia - Neumonía (J12-J18),5,0,0,0,2,3
-677,SUR,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,0,0,7,2
-678,SUR,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-679,SUR,10,10,Atenciones de urgencia - IRA Alta (J00-J06),242,10,17,44,150,21
-680,SUR,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),10,0,0,1,5,4
-681,SUR,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
-682,SUR,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,1,1
-683,SUR,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
-684,SUR,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-685,SUR,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-686,SUR,11,1,Atenciones de urgencia - Total,1635,14,141,269,1002,209
-687,SUR,11,2,Atenciones de urgencia - Total Respiratorios,485,7,78,135,232,33
-688,SUR,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),42,1,9,7,21,4
-689,SUR,11,4,Atenciones de urgencia - Influenza (J09-J11),10,0,1,3,3,3
-690,SUR,11,5,Atenciones de urgencia - Neumonía (J12-J18),15,0,0,2,4,9
-691,SUR,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",32,0,7,11,9,5
-692,SUR,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-693,SUR,11,10,Atenciones de urgencia - IRA Alta (J00-J06),370,6,60,110,183,11
-694,SUR,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),16,0,1,2,12,1
-695,SUR,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
-696,SUR,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
-697,SUR,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
-698,SUR,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-699,SUR,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
-700,SUR,12,1,Atenciones de urgencia - Total,1069,23,91,207,629,119
-701,SUR,12,2,Atenciones de urgencia - Total Respiratorios,437,16,60,130,206,25
-702,SUR,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),31,0,4,8,17,2
-703,SUR,12,4,Atenciones de urgencia - Influenza (J09-J11),7,0,0,3,4,0
-704,SUR,12,5,Atenciones de urgencia - Neumonía (J12-J18),8,0,0,1,2,5
-705,SUR,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,0,2,4,7,1
-706,SUR,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
-707,SUR,12,10,Atenciones de urgencia - IRA Alta (J00-J06),369,16,54,113,172,14
-708,SUR,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),8,0,0,1,4,3
-709,SUR,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
-710,SUR,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",3,0,0,0,3,0
-711,SUR,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
-712,SUR,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
-713,SUR,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+182,Hospital,14,1,Atenciones de urgencia - Total,31888,1562,3430,7117,14613,5166
+183,Hospital,14,2,Atenciones de urgencia - Total Respiratorios,4105,620,1065,1048,895,477
+184,Hospital,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),503,80,180,115,86,42
+185,Hospital,14,4,Atenciones de urgencia - Influenza (J09-J11),98,1,8,36,31,22
+186,Hospital,14,5,Atenciones de urgencia - Neumonía (J12-J18),354,16,54,57,102,125
+187,Hospital,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",709,83,129,107,203,187
+188,Hospital,14,7,Hospitalizaciones - Sistema Respiratorio,470,34,83,45,118,190
+189,Hospital,14,10,Atenciones de urgencia - IRA Alta (J00-J06),2105,412,606,644,394,49
+190,Hospital,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),336,28,88,89,79,52
+191,Hospital,14,25,Hospitalizaciones - Total,3502,105,200,261,1630,1306
+192,Hospital,14,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,1,0,1
+193,Hospital,14,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+194,Hospital,14,32,Hospitalizaciones - Covid-19 Identificado (U7.1),1,1,0,0,0,0
+195,Hospital,14,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+196,Hospital,15,1,Atenciones de urgencia - Total,33200,1561,3644,7952,14895,5148
+197,Hospital,15,2,Atenciones de urgencia - Total Respiratorios,4266,564,1078,1194,956,474
+198,Hospital,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),548,74,167,147,113,47
+199,Hospital,15,4,Atenciones de urgencia - Influenza (J09-J11),108,3,12,44,36,13
+200,Hospital,15,5,Atenciones de urgencia - Neumonía (J12-J18),358,12,47,65,110,124
+201,Hospital,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",691,69,131,123,188,180
+202,Hospital,15,7,Hospitalizaciones - Sistema Respiratorio,467,37,75,48,120,187
+203,Hospital,15,10,Atenciones de urgencia - IRA Alta (J00-J06),2178,382,616,705,430,45
+204,Hospital,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),383,24,105,110,79,65
+205,Hospital,15,25,Hospitalizaciones - Total,3583,117,179,333,1665,1289
+206,Hospital,15,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",3,0,0,0,0,3
+207,Hospital,15,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,1,1,0
+208,Hospital,15,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+209,Hospital,15,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+210,Hospital,16,1,Atenciones de urgencia - Total,32436,1667,3991,7133,14356,5289
+211,Hospital,16,2,Atenciones de urgencia - Total Respiratorios,4656,571,1173,1375,972,565
+212,Hospital,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),601,86,196,156,106,57
+213,Hospital,16,4,Atenciones de urgencia - Influenza (J09-J11),162,9,20,66,42,25
+214,Hospital,16,5,Atenciones de urgencia - Neumonía (J12-J18),424,11,61,73,131,148
+215,Hospital,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",707,54,118,117,225,193
+216,Hospital,16,7,Hospitalizaciones - Sistema Respiratorio,471,30,65,55,118,203
+217,Hospital,16,10,Atenciones de urgencia - IRA Alta (J00-J06),2405,396,702,861,396,50
+218,Hospital,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),357,15,76,102,72,92
+219,Hospital,16,25,Hospitalizaciones - Total,3493,105,179,279,1587,1343
+220,Hospital,16,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,1,0,0,1,2
+221,Hospital,16,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",23,4,3,8,3,5
+222,Hospital,16,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+223,Hospital,16,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+224,Hospital,17,1,Atenciones de urgencia - Total,34442,1715,3968,7970,15365,5424
+225,Hospital,17,2,Atenciones de urgencia - Total Respiratorios,5091,631,1199,1450,1186,625
+226,Hospital,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),700,113,202,162,144,79
+227,Hospital,17,4,Atenciones de urgencia - Influenza (J09-J11),205,6,35,87,49,28
+228,Hospital,17,5,Atenciones de urgencia - Neumonía (J12-J18),452,19,54,78,132,169
+229,Hospital,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",748,69,110,121,233,215
+230,Hospital,17,7,Hospitalizaciones - Sistema Respiratorio,469,32,66,40,133,198
+231,Hospital,17,10,Atenciones de urgencia - IRA Alta (J00-J06),2590,402,713,884,541,50
+232,Hospital,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),396,22,85,118,87,84
+233,Hospital,17,25,Hospitalizaciones - Total,3544,110,188,319,1646,1281
+234,Hospital,17,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,1,0,0,0
+235,Hospital,17,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,0,1
+236,Hospital,17,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+237,Hospital,17,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+238,Hospital,18,1,Atenciones de urgencia - Total,32117,1539,3678,7050,14584,5266
+239,Hospital,18,2,Atenciones de urgencia - Total Respiratorios,5048,536,1191,1592,1130,599
+240,Hospital,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),686,100,215,181,129,61
+241,Hospital,18,4,Atenciones de urgencia - Influenza (J09-J11),237,14,34,100,64,25
+242,Hospital,18,5,Atenciones de urgencia - Neumonía (J12-J18),450,13,44,96,149,148
+243,Hospital,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",706,55,102,109,224,216
+244,Hospital,18,7,Hospitalizaciones - Sistema Respiratorio,517,32,54,50,140,241
+245,Hospital,18,10,Atenciones de urgencia - IRA Alta (J00-J06),2622,333,719,1011,492,67
+246,Hospital,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),347,21,77,95,72,82
+247,Hospital,18,25,Hospitalizaciones - Total,3331,101,178,304,1474,1274
+248,Hospital,18,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+249,Hospital,18,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
+250,Hospital,18,32,Hospitalizaciones - Covid-19 Identificado (U7.1),1,0,0,0,0,1
+251,Hospital,18,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+252,Hospital,19,1,Atenciones de urgencia - Total,31441,1517,3503,6555,14581,5285
+253,Hospital,19,2,Atenciones de urgencia - Total Respiratorios,5101,549,1185,1324,1344,699
+254,Hospital,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),697,108,195,162,165,67
+255,Hospital,19,4,Atenciones de urgencia - Influenza (J09-J11),214,10,31,78,65,30
+256,Hospital,19,5,Atenciones de urgencia - Neumonía (J12-J18),466,10,63,65,141,187
+257,Hospital,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",835,82,127,136,237,253
+258,Hospital,19,7,Hospitalizaciones - Sistema Respiratorio,530,35,65,41,149,240
+259,Hospital,19,10,Atenciones de urgencia - IRA Alta (J00-J06),2514,329,691,798,623,73
+260,Hospital,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),375,10,78,85,113,89
+261,Hospital,19,25,Hospitalizaciones - Total,3443,114,159,262,1638,1270
+262,Hospital,19,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+263,Hospital,19,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+264,Hospital,19,32,Hospitalizaciones - Covid-19 Identificado (U7.1),1,0,0,0,1,0
+265,Hospital,19,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+266,Hospital,20,1,Atenciones de urgencia - Total,32403,1441,3592,7504,14616,5250
+267,Hospital,20,2,Atenciones de urgencia - Total Respiratorios,5374,548,1218,1606,1302,700
+268,Hospital,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),680,91,174,186,156,73
+269,Hospital,20,4,Atenciones de urgencia - Influenza (J09-J11),358,8,49,156,93,52
+270,Hospital,20,5,Atenciones de urgencia - Neumonía (J12-J18),512,12,70,84,172,174
+271,Hospital,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",803,56,106,135,251,255
+272,Hospital,20,7,Hospitalizaciones - Sistema Respiratorio,604,39,67,68,166,264
+273,Hospital,20,10,Atenciones de urgencia - IRA Alta (J00-J06),2636,369,742,933,531,61
+274,Hospital,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),385,12,77,112,99,85
+275,Hospital,20,25,Hospitalizaciones - Total,3647,106,154,306,1673,1408
+276,Hospital,20,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+277,Hospital,20,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+278,Hospital,20,32,Hospitalizaciones - Covid-19 Identificado (U7.1),2,0,0,0,2,0
+279,Hospital,20,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+280,Hospital,21,1,Atenciones de urgencia - Total,32065,1542,3939,6968,14253,5363
+281,Hospital,21,2,Atenciones de urgencia - Total Respiratorios,5719,649,1463,1515,1311,781
+282,Hospital,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),834,105,250,212,182,85
+283,Hospital,21,4,Atenciones de urgencia - Influenza (J09-J11),282,14,43,108,80,37
+284,Hospital,21,5,Atenciones de urgencia - Neumonía (J12-J18),548,19,89,72,163,205
+285,Hospital,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1013,92,177,163,277,304
+286,Hospital,21,7,Hospitalizaciones - Sistema Respiratorio,634,55,102,45,159,273
+287,Hospital,21,10,Atenciones de urgencia - IRA Alta (J00-J06),2635,397,815,873,495,55
+288,Hospital,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),407,22,89,87,114,95
+289,Hospital,21,25,Hospitalizaciones - Total,3504,116,186,268,1556,1378
+290,Hospital,21,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+291,Hospital,21,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,0,3,0
+292,Hospital,21,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+293,Hospital,21,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+294,Hospital,22,1,Atenciones de urgencia - Total,31391,1485,3675,7076,14037,5118
+295,Hospital,22,2,Atenciones de urgencia - Total Respiratorios,5422,615,1463,1382,1236,726
+296,Hospital,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),747,108,246,178,143,72
+297,Hospital,22,4,Atenciones de urgencia - Influenza (J09-J11),264,11,40,102,68,43
+298,Hospital,22,5,Atenciones de urgencia - Neumonía (J12-J18),535,23,92,60,160,200
+299,Hospital,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",913,90,185,146,239,253
+300,Hospital,22,7,Hospitalizaciones - Sistema Respiratorio,572,47,110,40,121,254
+301,Hospital,22,10,Atenciones de urgencia - IRA Alta (J00-J06),2516,355,808,798,504,51
+302,Hospital,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),447,28,92,98,122,107
+303,Hospital,22,25,Hospitalizaciones - Total,3349,112,199,269,1491,1278
+304,Hospital,22,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+305,Hospital,22,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,0,2
+306,Hospital,22,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+307,Hospital,22,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+308,Hospital,23,1,Atenciones de urgencia - Total,7977,403,967,1791,3649,1167
+309,Hospital,23,2,Atenciones de urgencia - Total Respiratorios,1504,182,388,435,345,154
+310,Hospital,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),208,36,62,49,42,19
+311,Hospital,23,4,Atenciones de urgencia - Influenza (J09-J11),70,4,5,37,17,7
+312,Hospital,23,5,Atenciones de urgencia - Neumonía (J12-J18),122,5,15,30,33,39
+313,Hospital,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",213,22,42,36,64,49
+314,Hospital,23,7,Hospitalizaciones - Sistema Respiratorio,155,11,25,23,33,63
+315,Hospital,23,10,Atenciones de urgencia - IRA Alta (J00-J06),740,104,223,250,147,16
+316,Hospital,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),151,11,41,33,42,24
+317,Hospital,23,25,Hospitalizaciones - Total,770,24,57,78,336,275
+318,Hospital,23,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+319,Hospital,23,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+320,Hospital,23,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+321,Hospital,23,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+322,SAPU,1,1,Atenciones de urgencia - Total,32173,387,1687,3537,21609,4953
+323,SAPU,1,2,Atenciones de urgencia - Total Respiratorios,6695,152,535,933,4307,768
+324,SAPU,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),766,20,79,84,453,130
+325,SAPU,1,4,Atenciones de urgencia - Influenza (J09-J11),64,0,2,6,41,15
+326,SAPU,1,5,Atenciones de urgencia - Neumonía (J12-J18),219,2,5,12,98,102
+327,SAPU,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",349,11,26,43,210,59
+328,SAPU,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+329,SAPU,1,10,Atenciones de urgencia - IRA Alta (J00-J06),5064,119,414,772,3396,363
+330,SAPU,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),233,0,9,16,109,99
+331,SAPU,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
+332,SAPU,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,0,1
+333,SAPU,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+334,SAPU,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+335,SAPU,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+336,SAPU,2,1,Atenciones de urgencia - Total,53045,640,2854,6002,35440,8109
+337,SAPU,2,2,Atenciones de urgencia - Total Respiratorios,9549,242,856,1357,6004,1090
+338,SAPU,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1027,29,102,101,641,154
+339,SAPU,2,4,Atenciones de urgencia - Influenza (J09-J11),93,1,3,7,72,10
+340,SAPU,2,5,Atenciones de urgencia - Neumonía (J12-J18),331,4,6,13,145,163
+341,SAPU,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",607,26,33,71,359,118
+342,SAPU,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+343,SAPU,2,10,Atenciones de urgencia - IRA Alta (J00-J06),7128,181,701,1145,4605,496
+344,SAPU,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),363,1,11,20,182,149
+345,SAPU,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
+346,SAPU,2,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+347,SAPU,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
+348,SAPU,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+349,SAPU,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+350,SAPU,3,1,Atenciones de urgencia - Total,49879,609,2601,5328,33597,7744
+351,SAPU,3,2,Atenciones de urgencia - Total Respiratorios,7942,207,706,1178,4956,895
+352,SAPU,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),793,29,73,86,471,134
+353,SAPU,3,4,Atenciones de urgencia - Influenza (J09-J11),68,2,2,12,46,6
+354,SAPU,3,5,Atenciones de urgencia - Neumonía (J12-J18),267,1,11,14,95,146
+355,SAPU,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",449,13,32,52,265,87
+356,SAPU,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+357,SAPU,3,10,Atenciones de urgencia - IRA Alta (J00-J06),6038,159,574,990,3910,405
+358,SAPU,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),327,3,14,24,169,117
+359,SAPU,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
+360,SAPU,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,1,1
+361,SAPU,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+362,SAPU,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+363,SAPU,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+364,SAPU,4,1,Atenciones de urgencia - Total,49149,587,2438,4992,33494,7638
+365,SAPU,4,2,Atenciones de urgencia - Total Respiratorios,7648,181,657,1054,4853,903
+366,SAPU,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),718,23,64,84,433,114
+367,SAPU,4,4,Atenciones de urgencia - Influenza (J09-J11),63,0,2,4,51,6
+368,SAPU,4,5,Atenciones de urgencia - Neumonía (J12-J18),251,2,12,6,91,140
+369,SAPU,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",465,18,31,51,268,97
+370,SAPU,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+371,SAPU,4,10,Atenciones de urgencia - IRA Alta (J00-J06),5858,138,538,894,3872,416
+372,SAPU,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),293,0,10,15,138,130
+373,SAPU,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
+374,SAPU,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+375,SAPU,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+376,SAPU,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+377,SAPU,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+378,SAPU,5,1,Atenciones de urgencia - Total,48253,540,2254,4832,33170,7457
+379,SAPU,5,2,Atenciones de urgencia - Total Respiratorios,7354,180,591,966,4744,873
+380,SAPU,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),720,22,70,66,440,122
+381,SAPU,5,4,Atenciones de urgencia - Influenza (J09-J11),50,0,2,4,38,6
+382,SAPU,5,5,Atenciones de urgencia - Neumonía (J12-J18),258,4,5,5,99,145
+383,SAPU,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",477,22,34,45,271,105
+384,SAPU,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+385,SAPU,5,10,Atenciones de urgencia - IRA Alta (J00-J06),5530,132,474,826,3727,371
+386,SAPU,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),319,0,6,20,169,124
+387,SAPU,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
+388,SAPU,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+389,SAPU,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",4,0,1,0,2,1
+390,SAPU,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+391,SAPU,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+392,SAPU,6,1,Atenciones de urgencia - Total,47033,593,2120,4584,32332,7404
+393,SAPU,6,2,Atenciones de urgencia - Total Respiratorios,7311,206,538,995,4673,899
+394,SAPU,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),640,23,57,58,372,130
+395,SAPU,6,4,Atenciones de urgencia - Influenza (J09-J11),57,0,3,8,40,6
+396,SAPU,6,5,Atenciones de urgencia - Neumonía (J12-J18),262,2,7,12,100,141
+397,SAPU,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",392,17,19,36,234,86
+398,SAPU,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+399,SAPU,6,10,Atenciones de urgencia - IRA Alta (J00-J06),5615,162,441,859,3759,394
+400,SAPU,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),345,2,11,22,168,142
+401,SAPU,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
+402,SAPU,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+403,SAPU,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
+404,SAPU,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+405,SAPU,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+406,SAPU,7,1,Atenciones de urgencia - Total,46771,533,2075,4475,32029,7659
+407,SAPU,7,2,Atenciones de urgencia - Total Respiratorios,7457,189,567,987,4784,930
+408,SAPU,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),614,15,50,61,374,114
+409,SAPU,7,4,Atenciones de urgencia - Influenza (J09-J11),58,0,1,3,44,10
+410,SAPU,7,5,Atenciones de urgencia - Neumonía (J12-J18),222,2,2,2,81,135
+411,SAPU,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",432,11,26,43,252,100
+412,SAPU,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+413,SAPU,7,10,Atenciones de urgencia - IRA Alta (J00-J06),5814,161,484,861,3866,442
+414,SAPU,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),317,0,4,17,167,129
+415,SAPU,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
+416,SAPU,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+417,SAPU,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,1,0,0,1,0
+418,SAPU,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+419,SAPU,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+420,SAPU,8,1,Atenciones de urgencia - Total,49010,615,2009,4596,33956,7834
+421,SAPU,8,2,Atenciones de urgencia - Total Respiratorios,8702,230,606,1131,5644,1091
+422,SAPU,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),806,19,62,87,479,159
+423,SAPU,8,4,Atenciones de urgencia - Influenza (J09-J11),56,2,2,5,38,9
+424,SAPU,8,5,Atenciones de urgencia - Neumonía (J12-J18),269,2,4,7,91,165
+425,SAPU,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",437,18,19,39,272,89
+426,SAPU,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+427,SAPU,8,10,Atenciones de urgencia - IRA Alta (J00-J06),6827,189,513,972,4617,536
+428,SAPU,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),307,0,6,21,147,133
+429,SAPU,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
+430,SAPU,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+431,SAPU,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,0,2
+432,SAPU,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+433,SAPU,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+434,SAPU,9,1,Atenciones de urgencia - Total,46484,527,2091,4519,31837,7510
+435,SAPU,9,2,Atenciones de urgencia - Total Respiratorios,8232,191,583,1077,5338,1043
+436,SAPU,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),813,16,57,96,493,151
+437,SAPU,9,4,Atenciones de urgencia - Influenza (J09-J11),71,0,1,0,56,14
+438,SAPU,9,5,Atenciones de urgencia - Neumonía (J12-J18),241,0,2,10,90,139
+439,SAPU,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",537,16,27,53,326,115
+440,SAPU,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+441,SAPU,9,10,Atenciones de urgencia - IRA Alta (J00-J06),6229,159,491,892,4193,494
+442,SAPU,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),341,0,5,26,180,130
+443,SAPU,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
+444,SAPU,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+445,SAPU,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
+446,SAPU,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+447,SAPU,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+448,SAPU,10,1,Atenciones de urgencia - Total,52252,585,2445,5560,35147,8515
+449,SAPU,10,2,Atenciones de urgencia - Total Respiratorios,10435,234,815,1684,6438,1264
+450,SAPU,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),976,22,89,132,552,181
+451,SAPU,10,4,Atenciones de urgencia - Influenza (J09-J11),105,0,2,9,84,10
+452,SAPU,10,5,Atenciones de urgencia - Neumonía (J12-J18),288,2,7,9,107,163
+453,SAPU,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",377,8,24,50,202,93
+454,SAPU,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+455,SAPU,10,10,Atenciones de urgencia - IRA Alta (J00-J06),8318,202,683,1454,5307,672
+456,SAPU,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),371,0,10,30,186,145
+457,SAPU,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
+458,SAPU,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,0,1
+459,SAPU,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,0,1
+460,SAPU,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+461,SAPU,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+462,SAPU,11,1,Atenciones de urgencia - Total,62064,908,4289,9944,38675,8248
+463,SAPU,11,2,Atenciones de urgencia - Total Respiratorios,17562,452,2338,4741,8674,1357
+464,SAPU,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1538,51,265,343,649,230
+465,SAPU,11,4,Atenciones de urgencia - Influenza (J09-J11),217,4,12,30,141,30
+466,SAPU,11,5,Atenciones de urgencia - Neumonía (J12-J18),342,3,17,28,123,171
+467,SAPU,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",531,23,65,104,251,88
+468,SAPU,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+469,SAPU,11,10,Atenciones de urgencia - IRA Alta (J00-J06),14472,367,1954,4164,7291,696
+470,SAPU,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),462,4,25,72,219,142
+471,SAPU,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
+472,SAPU,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,0,1,1,2,0
+473,SAPU,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,1,0,0,3,1
+474,SAPU,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+475,SAPU,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+476,SAPU,12,1,Atenciones de urgencia - Total,70097,1149,5583,12986,41937,8442
+477,SAPU,12,2,Atenciones de urgencia - Total Respiratorios,25492,723,3366,7359,12323,1721
+478,SAPU,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2387,80,395,644,1007,261
+479,SAPU,12,4,Atenciones de urgencia - Influenza (J09-J11),337,7,15,87,204,24
+480,SAPU,12,5,Atenciones de urgencia - Neumonía (J12-J18),404,4,28,27,151,194
+481,SAPU,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",626,25,89,130,282,100
+482,SAPU,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+483,SAPU,12,10,Atenciones de urgencia - IRA Alta (J00-J06),21122,603,2798,6336,10394,991
+484,SAPU,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),616,4,41,135,285,151
+485,SAPU,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
+486,SAPU,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,0,0,0,3,1
+487,SAPU,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,1,2,0,0
+488,SAPU,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+489,SAPU,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+490,SAPU,13,1,Atenciones de urgencia - Total,66935,971,4754,11344,41563,8303
+491,SAPU,13,2,Atenciones de urgencia - Total Respiratorios,24199,581,2532,5967,13250,1869
+492,SAPU,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2557,75,348,564,1279,291
+493,SAPU,13,4,Atenciones de urgencia - Influenza (J09-J11),318,3,10,49,232,24
+494,SAPU,13,5,Atenciones de urgencia - Neumonía (J12-J18),438,5,18,37,165,213
+495,SAPU,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",657,26,64,122,316,129
+496,SAPU,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+497,SAPU,13,10,Atenciones de urgencia - IRA Alta (J00-J06),19664,465,2061,5111,11000,1027
+498,SAPU,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),565,7,31,84,258,185
+499,SAPU,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
+500,SAPU,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,0,0,0,3,1
+501,SAPU,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",6,0,0,2,4,0
+502,SAPU,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+503,SAPU,13,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+504,SAPU,14,1,Atenciones de urgencia - Total,61433,786,4299,9914,38633,7801
+505,SAPU,14,2,Atenciones de urgencia - Total Respiratorios,21849,468,2330,4865,12435,1751
+506,SAPU,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2600,77,357,509,1313,344
+507,SAPU,14,4,Atenciones de urgencia - Influenza (J09-J11),294,1,10,55,202,26
+508,SAPU,14,5,Atenciones de urgencia - Neumonía (J12-J18),453,3,19,29,192,210
+509,SAPU,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",568,23,62,89,276,118
+510,SAPU,14,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+511,SAPU,14,10,Atenciones de urgencia - IRA Alta (J00-J06),17400,357,1855,4106,10201,881
+512,SAPU,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),534,7,27,77,251,172
+513,SAPU,14,25,Hospitalizaciones - Total,0,0,0,0,0,0
+514,SAPU,14,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,1,0,0,1,0
+515,SAPU,14,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
+516,SAPU,14,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+517,SAPU,14,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+518,SAPU,15,1,Atenciones de urgencia - Total,62602,764,4508,10602,38827,7901
+519,SAPU,15,2,Atenciones de urgencia - Total Respiratorios,21965,441,2349,5142,12166,1867
+520,SAPU,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),2647,62,369,519,1377,320
+521,SAPU,15,4,Atenciones de urgencia - Influenza (J09-J11),393,1,12,82,261,37
+522,SAPU,15,5,Atenciones de urgencia - Neumonía (J12-J18),463,3,19,27,187,227
+523,SAPU,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",605,10,58,95,300,142
+524,SAPU,15,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+525,SAPU,15,10,Atenciones de urgencia - IRA Alta (J00-J06),17303,361,1861,4340,9780,961
+526,SAPU,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),554,4,30,79,261,180
+527,SAPU,15,25,Hospitalizaciones - Total,0,0,0,0,0,0
+528,SAPU,15,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",4,0,0,0,3,1
+529,SAPU,15,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,1,0,4,0
+530,SAPU,15,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+531,SAPU,15,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+532,SAPU,16,1,Atenciones de urgencia - Total,65350,906,4872,11099,40056,8417
+533,SAPU,16,2,Atenciones de urgencia - Total Respiratorios,24603,493,2494,5847,13480,2289
+534,SAPU,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3046,88,381,616,1542,419
+535,SAPU,16,4,Atenciones de urgencia - Influenza (J09-J11),481,0,14,105,306,56
+536,SAPU,16,5,Atenciones de urgencia - Neumonía (J12-J18),600,4,22,53,213,308
+537,SAPU,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",603,19,48,98,294,144
+538,SAPU,16,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+539,SAPU,16,10,Atenciones de urgencia - IRA Alta (J00-J06),19227,375,1985,4905,10817,1145
+540,SAPU,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),646,7,44,70,308,217
+541,SAPU,16,25,Hospitalizaciones - Total,0,0,0,0,0,0
+542,SAPU,16,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,0,1
+543,SAPU,16,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",7,0,0,0,7,0
+544,SAPU,16,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+545,SAPU,16,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+546,SAPU,17,1,Atenciones de urgencia - Total,67563,743,4708,11930,42093,8089
+547,SAPU,17,2,Atenciones de urgencia - Total Respiratorios,25769,413,2479,6230,14510,2137
+548,SAPU,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3294,79,368,624,1796,427
+549,SAPU,17,4,Atenciones de urgencia - Influenza (J09-J11),583,4,22,148,374,35
+550,SAPU,17,5,Atenciones de urgencia - Neumonía (J12-J18),639,3,18,33,275,310
+551,SAPU,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",737,11,80,127,380,139
+552,SAPU,17,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+553,SAPU,17,10,Atenciones de urgencia - IRA Alta (J00-J06),19920,309,1965,5216,11400,1030
+554,SAPU,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),596,7,26,82,285,196
+555,SAPU,17,25,Hospitalizaciones - Total,0,0,0,0,0,0
+556,SAPU,17,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,0,1
+557,SAPU,17,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",4,0,0,1,3,0
+558,SAPU,17,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+559,SAPU,17,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+560,SAPU,18,1,Atenciones de urgencia - Total,66328,791,4697,11751,40504,8585
+561,SAPU,18,2,Atenciones de urgencia - Total Respiratorios,27163,423,2623,6676,14951,2490
+562,SAPU,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3573,75,364,676,1974,484
+563,SAPU,18,4,Atenciones de urgencia - Influenza (J09-J11),780,3,23,202,489,63
+564,SAPU,18,5,Atenciones de urgencia - Neumonía (J12-J18),669,3,22,37,289,318
+565,SAPU,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",786,15,56,140,390,185
+566,SAPU,18,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+567,SAPU,18,10,Atenciones de urgencia - IRA Alta (J00-J06),20711,323,2132,5561,11486,1209
+568,SAPU,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),644,4,26,60,323,231
+569,SAPU,18,25,Hospitalizaciones - Total,0,0,0,0,0,0
+570,SAPU,18,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+571,SAPU,18,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,0,3,0
+572,SAPU,18,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+573,SAPU,18,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+574,SAPU,19,1,Atenciones de urgencia - Total,63273,697,4145,10722,39769,7940
+575,SAPU,19,2,Atenciones de urgencia - Total Respiratorios,26246,397,2296,5863,15201,2489
+576,SAPU,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3431,55,309,582,1997,488
+577,SAPU,19,4,Atenciones de urgencia - Influenza (J09-J11),776,4,28,126,562,56
+578,SAPU,19,5,Atenciones de urgencia - Neumonía (J12-J18),742,2,16,39,312,373
+579,SAPU,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",762,12,58,141,386,165
+580,SAPU,19,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+581,SAPU,19,10,Atenciones de urgencia - IRA Alta (J00-J06),19905,319,1867,4914,11641,1164
+582,SAPU,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),630,5,18,61,303,243
+583,SAPU,19,25,Hospitalizaciones - Total,0,0,0,0,0,0
+584,SAPU,19,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+585,SAPU,19,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+586,SAPU,19,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+587,SAPU,19,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+588,SAPU,20,1,Atenciones de urgencia - Total,63813,709,4216,11240,39833,7815
+589,SAPU,20,2,Atenciones de urgencia - Total Respiratorios,27172,405,2304,6360,15536,2567
+590,SAPU,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3653,76,344,647,2042,544
+591,SAPU,20,4,Atenciones de urgencia - Influenza (J09-J11),909,2,22,178,621,86
+592,SAPU,20,5,Atenciones de urgencia - Neumonía (J12-J18),771,2,24,26,342,377
+593,SAPU,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",739,14,68,121,391,145
+594,SAPU,20,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+595,SAPU,20,10,Atenciones de urgencia - IRA Alta (J00-J06),20418,309,1826,5315,11823,1145
+596,SAPU,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),682,2,20,73,317,270
+597,SAPU,20,25,Hospitalizaciones - Total,0,0,0,0,0,0
+598,SAPU,20,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+599,SAPU,20,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",8,0,1,0,7,0
+600,SAPU,20,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+601,SAPU,20,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+602,SAPU,21,1,Atenciones de urgencia - Total,69103,738,4628,11299,43025,9413
+603,SAPU,21,2,Atenciones de urgencia - Total Respiratorios,29654,447,2690,6511,16821,3185
+604,SAPU,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),4257,78,396,691,2390,702
+605,SAPU,21,4,Atenciones de urgencia - Influenza (J09-J11),1047,4,37,194,733,79
+606,SAPU,21,5,Atenciones de urgencia - Neumonía (J12-J18),952,3,31,46,365,507
+607,SAPU,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",892,18,63,140,459,212
+608,SAPU,21,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+609,SAPU,21,10,Atenciones de urgencia - IRA Alta (J00-J06),21741,340,2132,5356,12524,1389
+610,SAPU,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),765,4,31,84,350,296
+611,SAPU,21,25,Hospitalizaciones - Total,0,0,0,0,0,0
+612,SAPU,21,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,1,1
+613,SAPU,21,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,2,0,3,0
+614,SAPU,21,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+615,SAPU,21,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+616,SAPU,22,1,Atenciones de urgencia - Total,61656,723,4008,10198,38650,8077
+617,SAPU,22,2,Atenciones de urgencia - Total Respiratorios,26491,480,2342,5685,15339,2645
+618,SAPU,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),3892,101,389,590,2231,581
+619,SAPU,22,4,Atenciones de urgencia - Influenza (J09-J11),788,63,21,124,497,83
+620,SAPU,22,5,Atenciones de urgencia - Neumonía (J12-J18),870,0,16,46,365,443
+621,SAPU,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",758,14,74,127,415,128
+622,SAPU,22,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+623,SAPU,22,10,Atenciones de urgencia - IRA Alta (J00-J06),19452,295,1802,4716,11477,1162
+624,SAPU,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),731,7,40,82,354,248
+625,SAPU,22,25,Hospitalizaciones - Total,0,0,0,0,0,0
+626,SAPU,22,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+627,SAPU,22,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",10,0,0,0,7,3
+628,SAPU,22,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+629,SAPU,22,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+630,SAPU,23,1,Atenciones de urgencia - Total,19447,189,1479,3426,11878,2475
+631,SAPU,23,2,Atenciones de urgencia - Total Respiratorios,8751,113,919,2033,4829,857
+632,SAPU,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1411,23,157,250,784,197
+633,SAPU,23,4,Atenciones de urgencia - Influenza (J09-J11),237,1,5,49,164,18
+634,SAPU,23,5,Atenciones de urgencia - Neumonía (J12-J18),268,0,16,19,111,122
+635,SAPU,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",267,5,22,52,129,59
+636,SAPU,23,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+637,SAPU,23,10,Atenciones de urgencia - IRA Alta (J00-J06),6329,84,716,1636,3526,367
+638,SAPU,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),239,0,3,27,115,94
+639,SAPU,23,25,Hospitalizaciones - Total,0,0,0,0,0,0
+640,SAPU,23,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+641,SAPU,23,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,0,2,0
+642,SAPU,23,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+643,SAPU,23,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+644,SAR,1,1,Atenciones de urgencia - Total,11910,119,592,1176,7752,2271
+645,SAR,1,2,Atenciones de urgencia - Total Respiratorios,2009,44,160,249,1230,326
+646,SAR,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),254,3,23,18,157,53
+647,SAR,1,4,Atenciones de urgencia - Influenza (J09-J11),17,0,0,1,11,5
+648,SAR,1,5,Atenciones de urgencia - Neumonía (J12-J18),164,3,13,13,56,79
+649,SAR,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",80,1,1,6,48,24
+650,SAR,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+651,SAR,1,10,Atenciones de urgencia - IRA Alta (J00-J06),1396,36,121,207,913,119
+652,SAR,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),98,1,2,4,45,46
+653,SAR,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
+654,SAR,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+655,SAR,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+656,SAR,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+657,SAR,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+658,SAR,2,1,Atenciones de urgencia - Total,20660,207,1067,2035,13423,3928
+659,SAR,2,2,Atenciones de urgencia - Total Respiratorios,3005,79,277,357,1790,502
+660,SAR,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),369,18,37,25,216,73
+661,SAR,2,4,Atenciones de urgencia - Influenza (J09-J11),39,1,2,1,29,6
+662,SAR,2,5,Atenciones de urgencia - Neumonía (J12-J18),213,4,11,11,77,110
+663,SAR,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",149,2,6,2,77,62
+664,SAR,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+665,SAR,2,10,Atenciones de urgencia - IRA Alta (J00-J06),2071,53,218,310,1313,177
+666,SAR,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),164,1,3,8,78,74
+667,SAR,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
+668,SAR,2,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+669,SAR,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+670,SAR,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+671,SAR,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+672,SAR,3,1,Atenciones de urgencia - Total,19592,194,1024,1909,12928,3537
+673,SAR,3,2,Atenciones de urgencia - Total Respiratorios,2615,65,274,326,1553,397
+674,SAR,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),325,6,45,37,189,48
+675,SAR,3,4,Atenciones de urgencia - Influenza (J09-J11),51,0,4,6,33,8
+676,SAR,3,5,Atenciones de urgencia - Neumonía (J12-J18),174,2,12,7,59,94
+677,SAR,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",139,3,6,11,76,43
+678,SAR,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+679,SAR,3,10,Atenciones de urgencia - IRA Alta (J00-J06),1772,54,205,254,1121,138
+680,SAR,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),154,0,2,11,75,66
+681,SAR,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
+682,SAR,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+683,SAR,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+684,SAR,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+685,SAR,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+686,SAR,4,1,Atenciones de urgencia - Total,19327,207,911,1779,12856,3574
+687,SAR,4,2,Atenciones de urgencia - Total Respiratorios,2475,71,224,309,1453,418
+688,SAR,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),235,7,34,19,133,42
+689,SAR,4,4,Atenciones de urgencia - Influenza (J09-J11),33,0,0,3,26,4
+690,SAR,4,5,Atenciones de urgencia - Neumonía (J12-J18),183,4,8,5,60,106
+691,SAR,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",133,4,14,8,64,43
+692,SAR,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+693,SAR,4,10,Atenciones de urgencia - IRA Alta (J00-J06),1762,56,168,272,1127,139
+694,SAR,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),129,0,0,2,43,84
+695,SAR,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
+696,SAR,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+697,SAR,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+698,SAR,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+699,SAR,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+700,SAR,5,1,Atenciones de urgencia - Total,19618,204,881,1824,13137,3572
+701,SAR,5,2,Atenciones de urgencia - Total Respiratorios,2444,55,210,304,1513,362
+702,SAR,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),266,8,22,26,171,39
+703,SAR,5,4,Atenciones de urgencia - Influenza (J09-J11),26,0,0,1,23,2
+704,SAR,5,5,Atenciones de urgencia - Neumonía (J12-J18),154,5,8,14,53,74
+705,SAR,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",120,3,6,5,58,48
+706,SAR,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+707,SAR,5,10,Atenciones de urgencia - IRA Alta (J00-J06),1749,39,172,253,1146,139
+708,SAR,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),129,0,2,5,62,60
+709,SAR,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
+710,SAR,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+711,SAR,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+712,SAR,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+713,SAR,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+714,SAR,6,1,Atenciones de urgencia - Total,18887,202,832,1712,12657,3484
+715,SAR,6,2,Atenciones de urgencia - Total Respiratorios,2397,71,182,307,1480,357
+716,SAR,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),227,7,23,27,131,39
+717,SAR,6,4,Atenciones de urgencia - Influenza (J09-J11),32,0,0,2,22,8
+718,SAR,6,5,Atenciones de urgencia - Neumonía (J12-J18),166,3,7,8,54,94
+719,SAR,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",126,2,7,11,67,39
+720,SAR,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+721,SAR,6,10,Atenciones de urgencia - IRA Alta (J00-J06),1700,59,142,251,1134,114
+722,SAR,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),146,0,3,8,72,63
+723,SAR,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
+724,SAR,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+725,SAR,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+726,SAR,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+727,SAR,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+728,SAR,7,1,Atenciones de urgencia - Total,18962,219,774,1625,12723,3621
+729,SAR,7,2,Atenciones de urgencia - Total Respiratorios,2426,94,184,256,1509,383
+730,SAR,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),244,12,19,27,141,45
+731,SAR,7,4,Atenciones de urgencia - Influenza (J09-J11),43,1,1,2,33,6
+732,SAR,7,5,Atenciones de urgencia - Neumonía (J12-J18),146,2,5,6,41,92
+733,SAR,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",100,0,7,2,47,44
+734,SAR,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+735,SAR,7,10,Atenciones de urgencia - IRA Alta (J00-J06),1738,79,152,208,1164,135
+736,SAR,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),155,0,0,11,83,61
+737,SAR,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
+738,SAR,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+739,SAR,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+740,SAR,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+741,SAR,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+742,SAR,8,1,Atenciones de urgencia - Total,19500,209,751,1665,13170,3705
+743,SAR,8,2,Atenciones de urgencia - Total Respiratorios,2832,74,209,336,1772,441
+744,SAR,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),278,9,28,18,167,56
+745,SAR,8,4,Atenciones de urgencia - Influenza (J09-J11),22,0,0,3,15,4
+746,SAR,8,5,Atenciones de urgencia - Neumonía (J12-J18),178,2,7,9,60,100
+747,SAR,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",144,2,3,11,75,53
+748,SAR,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+749,SAR,8,10,Atenciones de urgencia - IRA Alta (J00-J06),2049,61,171,288,1369,160
+750,SAR,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),161,0,0,7,86,68
+751,SAR,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
+752,SAR,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+753,SAR,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+754,SAR,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+755,SAR,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+756,SAR,9,1,Atenciones de urgencia - Total,19182,202,776,1711,12812,3681
+757,SAR,9,2,Atenciones de urgencia - Total Respiratorios,2669,68,187,337,1625,452
+758,SAR,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),298,15,25,34,174,50
+759,SAR,9,4,Atenciones de urgencia - Influenza (J09-J11),36,0,0,3,28,5
+760,SAR,9,5,Atenciones de urgencia - Neumonía (J12-J18),163,2,2,3,58,98
+761,SAR,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",110,3,3,8,47,49
+762,SAR,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+763,SAR,9,10,Atenciones de urgencia - IRA Alta (J00-J06),1897,47,152,282,1241,175
+764,SAR,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),165,1,5,7,77,75
+765,SAR,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
+766,SAR,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,2,0
+767,SAR,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,0,0,4,1
+768,SAR,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+769,SAR,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+770,SAR,10,1,Atenciones de urgencia - Total,20532,208,866,1932,13575,3951
+771,SAR,10,2,Atenciones de urgencia - Total Respiratorios,3186,94,227,451,1935,479
+772,SAR,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),349,14,31,49,187,68
+773,SAR,10,4,Atenciones de urgencia - Influenza (J09-J11),41,0,0,3,29,9
+774,SAR,10,5,Atenciones de urgencia - Neumonía (J12-J18),154,0,3,0,56,95
+775,SAR,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",158,2,3,7,82,64
+776,SAR,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+777,SAR,10,10,Atenciones de urgencia - IRA Alta (J00-J06),2335,78,188,378,1513,178
+778,SAR,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),149,0,2,14,68,65
+779,SAR,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
+780,SAR,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+781,SAR,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,0,3,0
+782,SAR,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+783,SAR,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+784,SAR,11,1,Atenciones de urgencia - Total,23835,281,1509,3442,14669,3934
+785,SAR,11,2,Atenciones de urgencia - Total Respiratorios,5287,150,727,1330,2531,549
+786,SAR,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),574,19,113,128,244,70
+787,SAR,11,4,Atenciones de urgencia - Influenza (J09-J11),78,0,0,13,49,16
+788,SAR,11,5,Atenciones de urgencia - Neumonía (J12-J18),205,5,17,17,57,109
+789,SAR,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",171,5,13,20,74,59
+790,SAR,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+791,SAR,11,10,Atenciones de urgencia - IRA Alta (J00-J06),4050,120,575,1122,2012,221
+792,SAR,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),209,1,9,30,95,74
+793,SAR,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
+794,SAR,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+795,SAR,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,1,2,0
+796,SAR,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+797,SAR,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+798,SAR,12,1,Atenciones de urgencia - Total,25730,358,1806,4371,15336,3859
+799,SAR,12,2,Atenciones de urgencia - Total Respiratorios,7305,216,1008,2015,3425,641
+800,SAR,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),832,23,140,223,335,111
+801,SAR,12,4,Atenciones de urgencia - Influenza (J09-J11),94,0,0,24,59,11
+802,SAR,12,5,Atenciones de urgencia - Neumonía (J12-J18),277,3,28,25,112,109
+803,SAR,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",192,4,17,42,71,58
+804,SAR,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+805,SAR,12,10,Atenciones de urgencia - IRA Alta (J00-J06),5668,186,815,1654,2738,275
+806,SAR,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),242,0,8,47,110,77
+807,SAR,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
+808,SAR,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+809,SAR,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,0,1,1,0
+810,SAR,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+811,SAR,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+812,SAR,13,1,Atenciones de urgencia - Total,24056,343,1630,3819,14500,3764
+813,SAR,13,2,Atenciones de urgencia - Total Respiratorios,6855,209,779,1560,3628,679
+814,SAR,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),811,36,107,174,391,103
+815,SAR,13,4,Atenciones de urgencia - Influenza (J09-J11),118,0,3,19,82,14
+816,SAR,13,5,Atenciones de urgencia - Neumonía (J12-J18),259,7,24,31,89,108
+817,SAR,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",190,7,23,26,83,51
+818,SAR,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+819,SAR,13,10,Atenciones de urgencia - IRA Alta (J00-J06),5251,159,614,1280,2889,309
+820,SAR,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),226,0,8,30,94,94
+821,SAR,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
+822,SAR,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+823,SAR,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,1,0,2,0
+824,SAR,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+825,SAR,13,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+826,SAR,14,1,Atenciones de urgencia - Total,23113,262,1521,3542,14121,3667
+827,SAR,14,2,Atenciones de urgencia - Total Respiratorios,6564,143,750,1380,3551,740
+828,SAR,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),909,29,160,175,421,124
+829,SAR,14,4,Atenciones de urgencia - Influenza (J09-J11),118,0,3,29,74,12
+830,SAR,14,5,Atenciones de urgencia - Neumonía (J12-J18),276,6,21,16,90,143
+831,SAR,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",174,6,13,21,80,54
+832,SAR,14,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+833,SAR,14,10,Atenciones de urgencia - IRA Alta (J00-J06),4860,102,548,1118,2788,304
+834,SAR,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),227,0,5,21,98,103
+835,SAR,14,25,Hospitalizaciones - Total,0,0,0,0,0,0
+836,SAR,14,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+837,SAR,14,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+838,SAR,14,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+839,SAR,14,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+840,SAR,15,1,Atenciones de urgencia - Total,23891,261,1644,3872,14482,3632
+841,SAR,15,2,Atenciones de urgencia - Total Respiratorios,6760,135,746,1441,3709,729
+842,SAR,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),943,22,128,148,522,123
+843,SAR,15,4,Atenciones de urgencia - Influenza (J09-J11),147,2,7,28,87,23
+844,SAR,15,5,Atenciones de urgencia - Neumonía (J12-J18),310,4,14,21,123,148
+845,SAR,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",203,2,16,24,98,63
+846,SAR,15,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+847,SAR,15,10,Atenciones de urgencia - IRA Alta (J00-J06),4936,105,577,1202,2767,285
+848,SAR,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),221,0,4,18,112,87
+849,SAR,15,25,Hospitalizaciones - Total,0,0,0,0,0,0
+850,SAR,15,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+851,SAR,15,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+852,SAR,15,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+853,SAR,15,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+854,SAR,16,1,Atenciones de urgencia - Total,24608,295,1734,4057,14699,3823
+855,SAR,16,2,Atenciones de urgencia - Total Respiratorios,7667,166,835,1815,4034,817
+856,SAR,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1133,29,147,236,572,149
+857,SAR,16,4,Atenciones de urgencia - Influenza (J09-J11),172,0,4,41,109,18
+858,SAR,16,5,Atenciones de urgencia - Neumonía (J12-J18),379,6,27,31,149,166
+859,SAR,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",225,3,12,38,111,61
+860,SAR,16,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+861,SAR,16,10,Atenciones de urgencia - IRA Alta (J00-J06),5507,128,642,1438,2975,324
+862,SAR,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),251,0,3,31,118,99
+863,SAR,16,25,Hospitalizaciones - Total,0,0,0,0,0,0
+864,SAR,16,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,1,0,0,0
+865,SAR,16,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+866,SAR,16,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+867,SAR,16,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+868,SAR,17,1,Atenciones de urgencia - Total,25897,278,1791,4501,15597,3730
+869,SAR,17,2,Atenciones de urgencia - Total Respiratorios,8575,144,902,2086,4488,955
+870,SAR,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1320,35,184,252,662,187
+871,SAR,17,4,Atenciones de urgencia - Influenza (J09-J11),234,1,6,48,161,18
+872,SAR,17,5,Atenciones de urgencia - Neumonía (J12-J18),443,4,28,42,176,193
+873,SAR,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",277,3,20,42,123,89
+874,SAR,17,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+875,SAR,17,10,Atenciones de urgencia - IRA Alta (J00-J06),6064,100,661,1684,3256,363
+876,SAR,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),237,1,3,18,110,105
+877,SAR,17,25,Hospitalizaciones - Total,0,0,0,0,0,0
+878,SAR,17,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+879,SAR,17,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,0,0,4,1
+880,SAR,17,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+881,SAR,17,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+882,SAR,18,1,Atenciones de urgencia - Total,24158,276,1669,4074,14320,3819
+883,SAR,18,2,Atenciones de urgencia - Total Respiratorios,8434,159,833,2008,4421,1013
+884,SAR,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1171,28,149,207,598,189
+885,SAR,18,4,Atenciones de urgencia - Influenza (J09-J11),323,1,14,67,203,38
+886,SAR,18,5,Atenciones de urgencia - Neumonía (J12-J18),484,7,28,51,180,218
+887,SAR,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",247,2,18,33,118,76
+888,SAR,18,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+889,SAR,18,10,Atenciones de urgencia - IRA Alta (J00-J06),5927,121,615,1633,3186,372
+890,SAR,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),282,0,9,17,136,120
+891,SAR,18,25,Hospitalizaciones - Total,0,0,0,0,0,0
+892,SAR,18,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+893,SAR,18,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+894,SAR,18,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+895,SAR,18,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+896,SAR,19,1,Atenciones de urgencia - Total,24128,233,1560,3764,14784,3787
+897,SAR,19,2,Atenciones de urgencia - Total Respiratorios,8652,135,804,1824,4861,1028
+898,SAR,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1197,28,127,195,666,181
+899,SAR,19,4,Atenciones de urgencia - Influenza (J09-J11),396,0,6,65,281,44
+900,SAR,19,5,Atenciones de urgencia - Neumonía (J12-J18),475,4,27,33,178,233
+901,SAR,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",287,6,28,27,142,84
+902,SAR,19,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+903,SAR,19,10,Atenciones de urgencia - IRA Alta (J00-J06),6032,96,611,1482,3454,389
+904,SAR,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),265,1,5,22,140,97
+905,SAR,19,25,Hospitalizaciones - Total,0,0,0,0,0,0
+906,SAR,19,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+907,SAR,19,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,1,1,1
+908,SAR,19,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+909,SAR,19,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+910,SAR,20,1,Atenciones de urgencia - Total,24179,250,1542,3986,14699,3702
+911,SAR,20,2,Atenciones de urgencia - Total Respiratorios,8808,145,815,1913,4897,1038
+912,SAR,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1283,37,122,205,729,190
+913,SAR,20,4,Atenciones de urgencia - Influenza (J09-J11),352,0,11,79,239,23
+914,SAR,20,5,Atenciones de urgencia - Neumonía (J12-J18),460,3,17,29,187,224
+915,SAR,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",271,4,10,37,117,103
+916,SAR,20,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+917,SAR,20,10,Atenciones de urgencia - IRA Alta (J00-J06),6190,99,648,1542,3518,383
+918,SAR,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),252,2,7,21,107,115
+919,SAR,20,25,Hospitalizaciones - Total,0,0,0,0,0,0
+920,SAR,20,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+921,SAR,20,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,0,0,5,0
+922,SAR,20,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+923,SAR,20,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+924,SAR,21,1,Atenciones de urgencia - Total,24402,264,1670,3749,14703,4016
+925,SAR,21,2,Atenciones de urgencia - Total Respiratorios,8937,164,950,1884,4772,1167
+926,SAR,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1348,35,155,200,725,233
+927,SAR,21,4,Atenciones de urgencia - Influenza (J09-J11),349,2,11,98,215,23
+928,SAR,21,5,Atenciones de urgencia - Neumonía (J12-J18),556,9,29,26,226,266
+929,SAR,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",293,2,26,30,126,109
+930,SAR,21,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+931,SAR,21,10,Atenciones de urgencia - IRA Alta (J00-J06),6120,116,722,1497,3343,442
+932,SAR,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),271,0,7,33,137,94
+933,SAR,21,25,Hospitalizaciones - Total,0,0,0,0,0,0
+934,SAR,21,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+935,SAR,21,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,0,3,0
+936,SAR,21,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+937,SAR,21,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+938,SAR,22,1,Atenciones de urgencia - Total,23325,220,1525,3649,14192,3739
+939,SAR,22,2,Atenciones de urgencia - Total Respiratorios,8369,139,834,1702,4672,1022
+940,SAR,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),1361,30,155,197,773,206
+941,SAR,22,4,Atenciones de urgencia - Influenza (J09-J11),309,1,11,54,219,24
+942,SAR,22,5,Atenciones de urgencia - Neumonía (J12-J18),485,7,25,32,207,214
+943,SAR,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",238,6,15,28,105,84
+944,SAR,22,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+945,SAR,22,10,Atenciones de urgencia - IRA Alta (J00-J06),5707,90,625,1373,3249,370
+946,SAR,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),269,5,3,18,119,124
+947,SAR,22,25,Hospitalizaciones - Total,0,0,0,0,0,0
+948,SAR,22,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+949,SAR,22,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+950,SAR,22,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+951,SAR,22,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+952,SAR,23,1,Atenciones de urgencia - Total,7488,60,544,1186,4510,1188
+953,SAR,23,2,Atenciones de urgencia - Total Respiratorios,2789,36,328,600,1487,338
+954,SAR,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),462,8,52,75,244,83
+955,SAR,23,4,Atenciones de urgencia - Influenza (J09-J11),65,0,1,17,43,4
+956,SAR,23,5,Atenciones de urgencia - Neumonía (J12-J18),182,1,14,19,74,74
+957,SAR,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",54,1,2,2,29,20
+958,SAR,23,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+959,SAR,23,10,Atenciones de urgencia - IRA Alta (J00-J06),1919,26,258,479,1049,107
+960,SAR,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),107,0,1,8,48,50
+961,SAR,23,25,Hospitalizaciones - Total,0,0,0,0,0,0
+962,SAR,23,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+963,SAR,23,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",2,0,1,0,1,0
+964,SAR,23,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+965,SAR,23,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+966,SUR,1,1,Atenciones de urgencia - Total,1164,15,74,152,772,151
+967,SUR,1,2,Atenciones de urgencia - Total Respiratorios,272,7,23,39,175,28
+968,SUR,1,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),31,1,2,1,21,6
+969,SUR,1,4,Atenciones de urgencia - Influenza (J09-J11),1,0,1,0,0,0
+970,SUR,1,5,Atenciones de urgencia - Neumonía (J12-J18),14,0,2,2,4,6
+971,SUR,1,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,0,1,0,11,3
+972,SUR,1,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+973,SUR,1,10,Atenciones de urgencia - IRA Alta (J00-J06),202,6,17,34,136,9
+974,SUR,1,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),9,0,0,2,3,4
+975,SUR,1,25,Hospitalizaciones - Total,0,0,0,0,0,0
+976,SUR,1,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+977,SUR,1,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+978,SUR,1,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+979,SUR,1,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+980,SUR,2,1,Atenciones de urgencia - Total,1688,30,99,204,1131,224
+981,SUR,2,2,Atenciones de urgencia - Total Respiratorios,320,8,25,49,203,35
+982,SUR,2,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),41,2,6,2,26,5
+983,SUR,2,4,Atenciones de urgencia - Influenza (J09-J11),6,0,0,0,6,0
+984,SUR,2,5,Atenciones de urgencia - Neumonía (J12-J18),14,0,0,0,5,9
+985,SUR,2,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,0,0,7,2
+986,SUR,2,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+987,SUR,2,10,Atenciones de urgencia - IRA Alta (J00-J06),234,6,18,44,153,13
+988,SUR,2,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),16,0,1,3,6,6
+989,SUR,2,25,Hospitalizaciones - Total,0,0,0,0,0,0
+990,SUR,2,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+991,SUR,2,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+992,SUR,2,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+993,SUR,2,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+994,SUR,3,1,Atenciones de urgencia - Total,1851,25,119,258,1197,252
+995,SUR,3,2,Atenciones de urgencia - Total Respiratorios,303,8,34,50,182,29
+996,SUR,3,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),25,1,3,1,19,1
+997,SUR,3,4,Atenciones de urgencia - Influenza (J09-J11),3,0,0,1,2,0
+998,SUR,3,5,Atenciones de urgencia - Neumonía (J12-J18),12,0,1,2,2,7
+999,SUR,3,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,0,2,3,11,4
+1000,SUR,3,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1001,SUR,3,10,Atenciones de urgencia - IRA Alta (J00-J06),234,7,28,41,143,15
+1002,SUR,3,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),9,0,0,2,5,2
+1003,SUR,3,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1004,SUR,3,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1005,SUR,3,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+1006,SUR,3,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1007,SUR,3,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1008,SUR,4,1,Atenciones de urgencia - Total,1841,20,97,189,1261,274
+1009,SUR,4,2,Atenciones de urgencia - Total Respiratorios,304,2,27,42,200,33
+1010,SUR,4,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),26,0,0,4,18,4
+1011,SUR,4,4,Atenciones de urgencia - Influenza (J09-J11),8,0,0,0,8,0
+1012,SUR,4,5,Atenciones de urgencia - Neumonía (J12-J18),16,1,1,0,6,8
+1013,SUR,4,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,0,2,2,11,7
+1014,SUR,4,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1015,SUR,4,10,Atenciones de urgencia - IRA Alta (J00-J06),219,1,24,35,150,9
+1016,SUR,4,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),13,0,0,1,7,5
+1017,SUR,4,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1018,SUR,4,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1019,SUR,4,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1020,SUR,4,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1021,SUR,4,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1022,SUR,5,1,Atenciones de urgencia - Total,1487,22,89,146,1027,203
+1023,SUR,5,2,Atenciones de urgencia - Total Respiratorios,233,6,26,29,151,21
+1024,SUR,5,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),13,0,1,2,8,2
+1025,SUR,5,4,Atenciones de urgencia - Influenza (J09-J11),6,0,0,2,3,1
+1026,SUR,5,5,Atenciones de urgencia - Neumonía (J12-J18),14,0,0,0,8,6
+1027,SUR,5,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,0,1,1,7,2
+1028,SUR,5,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1029,SUR,5,10,Atenciones de urgencia - IRA Alta (J00-J06),183,6,24,24,122,7
+1030,SUR,5,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),6,0,0,0,3,3
+1031,SUR,5,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1032,SUR,5,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1033,SUR,5,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1034,SUR,5,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1035,SUR,5,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1036,SUR,6,1,Atenciones de urgencia - Total,1500,25,73,177,1018,207
+1037,SUR,6,2,Atenciones de urgencia - Total Respiratorios,210,11,18,28,131,22
+1038,SUR,6,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),18,2,2,4,9,1
+1039,SUR,6,4,Atenciones de urgencia - Influenza (J09-J11),7,1,0,0,5,1
+1040,SUR,6,5,Atenciones de urgencia - Neumonía (J12-J18),9,0,0,0,5,4
+1041,SUR,6,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,1,0,3,10,4
+1042,SUR,6,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1043,SUR,6,10,Atenciones de urgencia - IRA Alta (J00-J06),153,7,15,21,99,11
+1044,SUR,6,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),5,0,1,0,3,1
+1045,SUR,6,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1046,SUR,6,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1047,SUR,6,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1048,SUR,6,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1049,SUR,6,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1050,SUR,7,1,Atenciones de urgencia - Total,1561,22,87,191,1049,212
+1051,SUR,7,2,Atenciones de urgencia - Total Respiratorios,259,5,21,46,163,24
+1052,SUR,7,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),12,0,0,1,7,4
+1053,SUR,7,4,Atenciones de urgencia - Influenza (J09-J11),0,0,0,0,0,0
+1054,SUR,7,5,Atenciones de urgencia - Neumonía (J12-J18),6,0,0,1,1,4
+1055,SUR,7,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,2,2,5,19,2
+1056,SUR,7,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1057,SUR,7,10,Atenciones de urgencia - IRA Alta (J00-J06),205,3,19,38,133,12
+1058,SUR,7,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),6,0,0,1,3,2
+1059,SUR,7,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1060,SUR,7,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1061,SUR,7,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1062,SUR,7,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1063,SUR,7,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1064,SUR,8,1,Atenciones de urgencia - Total,1648,31,83,179,1127,228
+1065,SUR,8,2,Atenciones de urgencia - Total Respiratorios,261,16,20,30,167,28
+1066,SUR,8,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),18,0,3,3,7,5
+1067,SUR,8,4,Atenciones de urgencia - Influenza (J09-J11),7,1,0,0,3,3
+1068,SUR,8,5,Atenciones de urgencia - Neumonía (J12-J18),8,0,0,0,1,7
+1069,SUR,8,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",25,1,2,2,18,2
+1070,SUR,8,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1071,SUR,8,10,Atenciones de urgencia - IRA Alta (J00-J06),197,14,15,24,133,11
+1072,SUR,8,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),6,0,0,1,5,0
+1073,SUR,8,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1074,SUR,8,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1075,SUR,8,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1076,SUR,8,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1077,SUR,8,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1078,SUR,9,1,Atenciones de urgencia - Total,1573,24,67,181,1089,212
+1079,SUR,9,2,Atenciones de urgencia - Total Respiratorios,286,5,19,44,193,25
+1080,SUR,9,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),24,0,1,2,15,6
+1081,SUR,9,4,Atenciones de urgencia - Influenza (J09-J11),5,0,0,0,4,1
+1082,SUR,9,5,Atenciones de urgencia - Neumonía (J12-J18),8,0,0,0,1,7
+1083,SUR,9,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",17,0,0,2,11,4
+1084,SUR,9,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1085,SUR,9,10,Atenciones de urgencia - IRA Alta (J00-J06),223,5,18,39,154,7
+1086,SUR,9,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),9,0,0,1,8,0
+1087,SUR,9,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1088,SUR,9,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1089,SUR,9,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1090,SUR,9,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1091,SUR,9,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1092,SUR,10,1,Atenciones de urgencia - Total,1656,25,78,183,1131,239
+1093,SUR,10,2,Atenciones de urgencia - Total Respiratorios,299,10,21,50,180,38
+1094,SUR,10,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),28,0,4,5,13,6
+1095,SUR,10,4,Atenciones de urgencia - Influenza (J09-J11),5,0,0,0,3,2
+1096,SUR,10,5,Atenciones de urgencia - Neumonía (J12-J18),5,0,0,0,2,3
+1097,SUR,10,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,0,0,7,2
+1098,SUR,10,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1099,SUR,10,10,Atenciones de urgencia - IRA Alta (J00-J06),242,10,17,44,150,21
+1100,SUR,10,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),10,0,0,1,5,4
+1101,SUR,10,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1102,SUR,10,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",2,0,0,0,1,1
+1103,SUR,10,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1104,SUR,10,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1105,SUR,10,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1106,SUR,11,1,Atenciones de urgencia - Total,2128,25,186,381,1281,255
+1107,SUR,11,2,Atenciones de urgencia - Total Respiratorios,645,12,106,195,293,39
+1108,SUR,11,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),52,1,10,12,25,4
+1109,SUR,11,4,Atenciones de urgencia - Influenza (J09-J11),12,1,2,3,3,3
+1110,SUR,11,5,Atenciones de urgencia - Neumonía (J12-J18),16,0,0,2,4,10
+1111,SUR,11,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",37,0,7,11,13,6
+1112,SUR,11,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1113,SUR,11,10,Atenciones de urgencia - IRA Alta (J00-J06),505,10,84,162,235,14
+1114,SUR,11,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),23,0,3,5,13,2
+1115,SUR,11,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1116,SUR,11,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",1,0,0,0,1,0
+1117,SUR,11,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,0,1,0
+1118,SUR,11,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1119,SUR,11,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1120,SUR,12,1,Atenciones de urgencia - Total,2537,55,226,527,1472,257
+1121,SUR,12,2,Atenciones de urgencia - Total Respiratorios,1040,35,143,321,484,57
+1122,SUR,12,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),95,5,18,25,40,7
+1123,SUR,12,4,Atenciones de urgencia - Influenza (J09-J11),9,0,0,4,5,0
+1124,SUR,12,5,Atenciones de urgencia - Neumonía (J12-J18),23,0,0,2,5,16
+1125,SUR,12,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,1,5,6,12,2
+1126,SUR,12,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1127,SUR,12,10,Atenciones de urgencia - IRA Alta (J00-J06),869,29,120,281,414,25
+1128,SUR,12,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),18,0,0,3,8,7
+1129,SUR,12,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1130,SUR,12,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",3,0,0,0,3,0
+1131,SUR,12,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",3,0,0,1,2,0
+1132,SUR,12,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1133,SUR,12,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1134,SUR,13,1,Atenciones de urgencia - Total,2368,56,204,465,1378,265
+1135,SUR,13,2,Atenciones de urgencia - Total Respiratorios,944,34,107,260,481,62
+1136,SUR,13,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),95,2,12,25,45,11
+1137,SUR,13,4,Atenciones de urgencia - Influenza (J09-J11),11,0,0,0,9,2
+1138,SUR,13,5,Atenciones de urgencia - Neumonía (J12-J18),18,0,1,0,9,8
+1139,SUR,13,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",40,2,3,15,17,3
+1140,SUR,13,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1141,SUR,13,10,Atenciones de urgencia - IRA Alta (J00-J06),754,30,90,212,391,31
+1142,SUR,13,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),26,0,1,8,10,7
+1143,SUR,13,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1144,SUR,13,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1145,SUR,13,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1146,SUR,13,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1147,SUR,13,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1148,SUR,14,1,Atenciones de urgencia - Total,2146,36,188,427,1266,229
+1149,SUR,14,2,Atenciones de urgencia - Total Respiratorios,827,21,97,236,422,51
+1150,SUR,14,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),91,4,8,26,43,10
+1151,SUR,14,4,Atenciones de urgencia - Influenza (J09-J11),14,0,1,0,8,5
+1152,SUR,14,5,Atenciones de urgencia - Neumonía (J12-J18),30,1,2,2,13,12
+1153,SUR,14,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",36,1,4,9,17,5
+1154,SUR,14,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1155,SUR,14,10,Atenciones de urgencia - IRA Alta (J00-J06),634,14,81,196,332,11
+1156,SUR,14,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),22,1,1,3,9,8
+1157,SUR,14,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1158,SUR,14,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1159,SUR,14,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",1,0,0,1,0,0
+1160,SUR,14,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1161,SUR,14,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1162,SUR,15,1,Atenciones de urgencia - Total,2095,33,171,421,1255,215
+1163,SUR,15,2,Atenciones de urgencia - Total Respiratorios,714,18,91,198,365,42
+1164,SUR,15,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),81,2,13,18,44,4
+1165,SUR,15,4,Atenciones de urgencia - Influenza (J09-J11),29,2,1,7,16,3
+1166,SUR,15,5,Atenciones de urgencia - Neumonía (J12-J18),15,0,1,2,6,6
+1167,SUR,15,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",49,1,4,13,28,3
+1168,SUR,15,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1169,SUR,15,10,Atenciones de urgencia - IRA Alta (J00-J06),524,13,69,152,269,21
+1170,SUR,15,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),16,0,3,6,2,5
+1171,SUR,15,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1172,SUR,15,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1173,SUR,15,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1174,SUR,15,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1175,SUR,15,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1176,SUR,16,1,Atenciones de urgencia - Total,2087,29,169,398,1287,204
+1177,SUR,16,2,Atenciones de urgencia - Total Respiratorios,732,15,80,197,390,50
+1178,SUR,16,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),81,1,12,21,39,8
+1179,SUR,16,4,Atenciones de urgencia - Influenza (J09-J11),29,0,1,10,15,3
+1180,SUR,16,5,Atenciones de urgencia - Neumonía (J12-J18),16,0,0,3,5,8
+1181,SUR,16,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",49,0,4,17,24,4
+1182,SUR,16,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1183,SUR,16,10,Atenciones de urgencia - IRA Alta (J00-J06),545,12,63,144,302,24
+1184,SUR,16,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),12,2,0,2,5,3
+1185,SUR,16,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1186,SUR,16,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1187,SUR,16,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1188,SUR,16,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1189,SUR,16,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1190,SUR,17,1,Atenciones de urgencia - Total,2174,25,166,437,1317,229
+1191,SUR,17,2,Atenciones de urgencia - Total Respiratorios,830,14,93,247,414,62
+1192,SUR,17,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),70,1,5,18,40,6
+1193,SUR,17,4,Atenciones de urgencia - Influenza (J09-J11),39,0,2,9,26,2
+1194,SUR,17,5,Atenciones de urgencia - Neumonía (J12-J18),29,0,0,0,6,23
+1195,SUR,17,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",32,2,5,7,16,2
+1196,SUR,17,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1197,SUR,17,10,Atenciones de urgencia - IRA Alta (J00-J06),642,11,80,208,319,24
+1198,SUR,17,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),18,0,1,5,7,5
+1199,SUR,17,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1200,SUR,17,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1201,SUR,17,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1202,SUR,17,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1203,SUR,17,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1204,SUR,18,1,Atenciones de urgencia - Total,2256,30,161,419,1404,242
+1205,SUR,18,2,Atenciones de urgencia - Total Respiratorios,883,16,89,225,479,74
+1206,SUR,18,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),85,1,17,10,43,14
+1207,SUR,18,4,Atenciones de urgencia - Influenza (J09-J11),41,0,0,9,30,2
+1208,SUR,18,5,Atenciones de urgencia - Neumonía (J12-J18),28,0,1,2,12,13
+1209,SUR,18,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",39,0,7,10,18,4
+1210,SUR,18,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1211,SUR,18,10,Atenciones de urgencia - IRA Alta (J00-J06),672,14,63,192,368,35
+1212,SUR,18,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),18,1,1,2,8,6
+1213,SUR,18,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1214,SUR,18,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1215,SUR,18,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1216,SUR,18,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1217,SUR,18,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1218,SUR,19,1,Atenciones de urgencia - Total,2134,29,174,429,1296,206
+1219,SUR,19,2,Atenciones de urgencia - Total Respiratorios,908,15,93,254,484,62
+1220,SUR,19,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),113,2,15,33,53,10
+1221,SUR,19,4,Atenciones de urgencia - Influenza (J09-J11),23,0,1,3,14,5
+1222,SUR,19,5,Atenciones de urgencia - Neumonía (J12-J18),38,0,1,0,21,16
+1223,SUR,19,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",42,0,2,11,22,7
+1224,SUR,19,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1225,SUR,19,10,Atenciones de urgencia - IRA Alta (J00-J06),675,13,73,206,363,20
+1226,SUR,19,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),17,0,1,1,11,4
+1227,SUR,19,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1228,SUR,19,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1229,SUR,19,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1230,SUR,19,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1231,SUR,19,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1232,SUR,20,1,Atenciones de urgencia - Total,2272,35,153,494,1366,224
+1233,SUR,20,2,Atenciones de urgencia - Total Respiratorios,1048,22,82,315,534,95
+1234,SUR,20,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),117,5,12,32,52,16
+1235,SUR,20,4,Atenciones de urgencia - Influenza (J09-J11),37,0,1,5,26,5
+1236,SUR,20,5,Atenciones de urgencia - Neumonía (J12-J18),56,0,4,5,18,29
+1237,SUR,20,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,1,0,9,16,3
+1238,SUR,20,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1239,SUR,20,10,Atenciones de urgencia - IRA Alta (J00-J06),790,16,65,259,412,38
+1240,SUR,20,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),19,0,0,5,10,4
+1241,SUR,20,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1242,SUR,20,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1243,SUR,20,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1244,SUR,20,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1245,SUR,20,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1246,SUR,21,1,Atenciones de urgencia - Total,2326,39,193,526,1317,251
+1247,SUR,21,2,Atenciones de urgencia - Total Respiratorios,1099,22,115,343,531,88
+1248,SUR,21,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),110,5,15,26,51,13
+1249,SUR,21,4,Atenciones de urgencia - Influenza (J09-J11),59,0,3,13,39,4
+1250,SUR,21,5,Atenciones de urgencia - Neumonía (J12-J18),67,0,0,4,46,17
+1251,SUR,21,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",38,0,6,9,19,4
+1252,SUR,21,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1253,SUR,21,10,Atenciones de urgencia - IRA Alta (J00-J06),807,17,88,288,372,42
+1254,SUR,21,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),18,0,3,3,4,8
+1255,SUR,21,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1256,SUR,21,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1257,SUR,21,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1258,SUR,21,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1259,SUR,21,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1260,SUR,22,1,Atenciones de urgencia - Total,1780,25,149,350,1070,186
+1261,SUR,22,2,Atenciones de urgencia - Total Respiratorios,810,18,92,210,431,59
+1262,SUR,22,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),100,1,11,21,55,12
+1263,SUR,22,4,Atenciones de urgencia - Influenza (J09-J11),32,0,2,5,21,4
+1264,SUR,22,5,Atenciones de urgencia - Neumonía (J12-J18),42,0,0,5,21,16
+1265,SUR,22,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,0,5,5,17,2
+1266,SUR,22,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1267,SUR,22,10,Atenciones de urgencia - IRA Alta (J00-J06),591,16,74,173,304,24
+1268,SUR,22,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),16,1,0,1,13,1
+1269,SUR,22,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1270,SUR,22,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1271,SUR,22,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",5,0,0,2,3,0
+1272,SUR,22,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1273,SUR,22,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
+1274,SUR,23,1,Atenciones de urgencia - Total,492,8,36,100,285,63
+1275,SUR,23,2,Atenciones de urgencia - Total Respiratorios,234,5,25,58,124,22
+1276,SUR,23,3,Atenciones de urgencia - Bronquitis/bronquiolitis aguda (J20-J21),22,1,5,5,8,3
+1277,SUR,23,4,Atenciones de urgencia - Influenza (J09-J11),7,0,1,0,6,0
+1278,SUR,23,5,Atenciones de urgencia - Neumonía (J12-J18),15,0,0,1,9,5
+1279,SUR,23,6,"Atenciones de urgencia - Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,0,4,5,3,0
+1280,SUR,23,7,Hospitalizaciones - Sistema Respiratorio,0,0,0,0,0,0
+1281,SUR,23,10,Atenciones de urgencia - IRA Alta (J00-J06),162,4,15,42,92,9
+1282,SUR,23,11,Atenciones de urgencia - Crisis obstructiva bronquial (J40-J46),16,0,0,5,6,5
+1283,SUR,23,25,Hospitalizaciones - Total,0,0,0,0,0,0
+1284,SUR,23,30,"Atenciones de urgencia - Covid-19, Identificado (U07.1)",0,0,0,0,0,0
+1285,SUR,23,31,"Atenciones de urgencia - Covid-19, No Identificado (U07.2)",0,0,0,0,0,0
+1286,SUR,23,32,Hospitalizaciones - Covid-19 Identificado (U7.1),0,0,0,0,0,0
+1287,SUR,23,33,Hospitalizaciones - Covid-19 No Identificado (U7.2),0,0,0,0,0,0
