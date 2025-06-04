@@ -31,7 +31,7 @@ pg =st.navigation([
     # st.Page('ira_era_au_año.py', title="A. Urgencia Respiratorios por años", icon=":material/monitoring:"),
     # st.Page('ira_era_endemico.py', title="A. Urgencia Corredor Endémico", icon=":material/monitoring:"),
     st.Page('ira_era_hosp.py', title="Hospitalizaciones", icon=":material/monitoring:"),
-    st.Page('ira_era_hosp_año.py', title="Hospitalizaciones - Año", icon=":material/monitoring:"),
+    # st.Page('ira_era_hosp_año.py', title="Hospitalizaciones - Año", icon=":material/monitoring:"),
     # st.Page('ira_era_hosp_endemico.py', title="Hospitalizaciones - Corredor Endémico", icon=":material/monitoring:"),
 
 ])
