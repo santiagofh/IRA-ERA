@@ -9,7 +9,7 @@ GLOBAL_THEME='seaborn'
 # Crear una función para cargar datos según el año seleccionado
 def load_data(year):
     try:
-        df = pd.read_csv(f'data/df_{year}_rm_resp.csv')
+        df = pd.read_csv(f'data/AU_EPIYEAR_{year}.csv')
         return df
     except FileNotFoundError:
         st.error(f'Archivo para el año {year} no encontrado.')
@@ -24,8 +24,8 @@ st.logo(logo_horizontal, icon_image=logo_icono)
 # Selector de año
 selected_year = st.sidebar.selectbox(
     'Seleccione el año',
-    options=[2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
-    index=7  # Establecer 2023 como valor predeterminado
+    options=[2023, 2024, 2025],
+    index=2  # Establecer 2023 como valor predeterminado
 )
 
 hospital = st.sidebar.selectbox('Seleccione si desea ver la información de APS o Hospital',['APS','Hospitales'],index=1)
@@ -113,7 +113,7 @@ else:
 #         df_covid.rename(columns={col: 'Hospitalizaciones por Covid'})
 #     ], axis=1)
 
-#     # Eliminar duplicados de la columna 'semana' que se repiten en la concatenación
+#     # Eliminar duplicados de la columna 'semana_epi_str' que se repiten en la concatenación
 #     df_concatenado = df_concatenado.loc[:, ~df_concatenado.columns.duplicated()]
 
 #     return fig, df_concatenado
@@ -121,9 +121,9 @@ else:
 def grafico_area_hospitalizaciones_semanal(df, col, title):
     # Filtrar y agrupar los datos
 
-    df_covid = df[df['Causa'].isin(covid_hosp)].groupby('semana')[col].sum().reset_index()
-    df_total = df[df['Causa'].isin(total_hosp)].groupby('semana')[col].sum().reset_index()
-    df_total_resp = df[df['Causa'].isin(total_resp_hosp)].groupby('semana')[col].sum().reset_index()
+    df_covid = df[df['Causa'].isin(covid_hosp)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_total = df[df['Causa'].isin(total_hosp)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_total_resp = df[df['Causa'].isin(total_resp_hosp)].groupby('semana_epi_str')[col].sum().reset_index()
 
     # Crear la figura del gráfico
     fig = go.Figure()
@@ -131,21 +131,21 @@ def grafico_area_hospitalizaciones_semanal(df, col, title):
     # Añadir trazas para cada grupo de causas
 
     fig.add_trace(go.Scatter(
-        x=df_covid['semana'], y=df_covid[col], 
+        x=df_covid['semana_epi_str'], y=df_covid[col], 
         mode='lines', name='Hospitalizaciones Covid-19'
     ))
     fig.add_trace(go.Scatter(
-        x=df_total_resp['semana'], y=df_total_resp[col], 
+        x=df_total_resp['semana_epi_str'], y=df_total_resp[col], 
         mode='lines', name='Hospitalizaciones respiratorias totales'
     ))
     fig.add_trace(go.Scatter(
-        x=df_total['semana'], y=df_total[col], 
+        x=df_total['semana_epi_str'], y=df_total[col], 
         mode='lines', name='Hospitalizaciones totales'
     ))
     # Configuración del diseño del gráfico
     fig.update_layout(
         title=title,
-        xaxis_title='Semana',
+        xaxis_title='semana',
         yaxis_title='N° Hospitalizaciones',
         legend_title='Leyenda',
         template=GLOBAL_THEME,
@@ -159,7 +159,7 @@ def grafico_area_hospitalizaciones_semanal(df, col, title):
         df_total.rename(columns={col: 'Total'})
     ], axis=1)
 
-    # Eliminar duplicados de la columna 'semana' que se repiten en la concatenación
+    # Eliminar duplicados de la columna 'semana_epi_str' que se repiten en la concatenación
     df_concatenado = df_concatenado.loc[:, ~df_concatenado.columns.duplicated()]
 
     return fig, df_concatenado

@@ -24,8 +24,8 @@ st.logo(logo_horizontal, icon_image=logo_icono)
 # Selector de año
 selected_year = st.sidebar.selectbox(
     'Seleccione el año',
-    options=[2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
-    index=7  # Establecer 2025 como valor predeterminado
+    options=[2023, 2024, 2025],
+    index=2  # Establecer 2025 como valor predeterminado
 )
 
 hospital = st.sidebar.selectbox('Seleccione si desea ver la información de APS o Hospital',['APS','Hospitales'],index=0)
