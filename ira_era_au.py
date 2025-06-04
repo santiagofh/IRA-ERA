@@ -9,7 +9,7 @@ GLOBAL_THEME='seaborn'
 # Crear una función para cargar datos según el año seleccionado
 def load_data(year):
     try:
-        df = pd.read_csv(f'data/df_{year}_rm_resp.csv')
+        df = pd.read_excel(f'data/AU_EPIYEAR_{year}.xlsx')
         return df
     except FileNotFoundError:
         st.error(f'Archivo para el año {year} no encontrado.')
@@ -79,14 +79,14 @@ else:
 def grafico_area_atenciones_urgencia_semanal(df, col, title):
     fig = go.Figure()
 
-    df_au = df[df['Causa'].isin(total_au)].groupby('semana')[col].sum().reset_index()
-    df_resp = df[df['Causa'].isin(total_resp)].groupby('semana')[col].sum().reset_index()
-    df_covid = df[df['Causa'].isin(covid)].groupby('semana')[col].sum().reset_index()
-    df_influ = df[df['Causa'].isin(influ)].groupby('semana')[col].sum().reset_index()
+    df_au = df[df['Causa'].isin(total_au)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_resp = df[df['Causa'].isin(total_resp)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_covid = df[df['Causa'].isin(covid)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_influ = df[df['Causa'].isin(influ)].groupby('semana_epi_str')[col].sum().reset_index()
 
     # Grupo 1: Atenciones de urgencias
     fig.add_trace(go.Scatter(
-        x=df_au['semana'], y=df_au[col], 
+        x=df_au['semana_epi_str'], y=df_au[col], 
         mode='lines', name='Atenciones de urgencias'
     ))
 
@@ -95,25 +95,25 @@ def grafico_area_atenciones_urgencia_semanal(df, col, title):
     df_resp_covid[col] += df_covid[col]
 
     fig.add_trace(go.Scatter(
-        x=df_resp_covid['semana'], y=df_resp_covid[col], 
+        x=df_resp_covid['semana_epi_str'], y=df_resp_covid[col], 
         mode='lines', name='Atenciones respiratorias (incluye Covid)'
     ))
 
     # Atenciones por Influenza (no acumuladas)
     fig.add_trace(go.Scatter(
-        x=df_influ['semana'], y=df_influ[col], 
+        x=df_influ['semana_epi_str'], y=df_influ[col], 
         mode='lines', name='Atenciones por Influenza'
     ))
 
     # Atenciones por Covid (individualmente)
     fig.add_trace(go.Scatter(
-        x=df_covid['semana'], y=df_covid[col], 
+        x=df_covid['semana_epi_str'], y=df_covid[col], 
         mode='lines', name='Atenciones por Covid'
     ))
 
     fig.update_layout(
         title=title,
-        xaxis_title='Semana',
+        xaxis_title='semana_epi_str',
         yaxis_title='N° de Atenciones',
         legend_title='Leyenda',
         template=GLOBAL_THEME,
@@ -127,48 +127,48 @@ def grafico_area_atenciones_urgencia_semanal(df, col, title):
         df_covid.rename(columns={col: 'Atenciones por Covid'})
     ], axis=1)
 
-    # Eliminar duplicados de la columna 'semana' que se repiten en la concatenación
+    # Eliminar duplicados de la columna 'semana_epi_str' que se repiten en la concatenación
     df_concatenado = df_concatenado.loc[:, ~df_concatenado.columns.duplicated()]
 
     return fig, df_concatenado
 
 def grafico_area_atenciones_respiratorias(df, col, title):
     # Filtrar y agrupar los datos
-    df_iraa = df[df['Causa'].isin(iraa)].groupby('semana')[col].sum().reset_index()
-    df_irab = df[df['Causa'].isin(irab)].groupby('semana')[col].sum().reset_index()
-    df_influ = df[df['Causa'].isin(influ)].groupby('semana')[col].sum().reset_index()
-    df_covid = df[df['Causa'].isin(covid)].groupby('semana')[col].sum().reset_index()
-    df_otras = df[df['Causa'].isin(otras)].groupby('semana')[col].sum().reset_index()
+    df_iraa = df[df['Causa'].isin(iraa)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_irab = df[df['Causa'].isin(irab)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_influ = df[df['Causa'].isin(influ)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_covid = df[df['Causa'].isin(covid)].groupby('semana_epi_str')[col].sum().reset_index()
+    df_otras = df[df['Causa'].isin(otras)].groupby('semana_epi_str')[col].sum().reset_index()
 
     # Crear la figura del gráfico
     fig = go.Figure()
 
     # Añadir trazas para cada grupo de causas
     fig.add_trace(go.Scatter(
-        x=df_iraa['semana'], y=df_iraa[col], 
+        x=df_iraa['semana_epi_str'], y=df_iraa[col], 
         mode='lines', name='IRAS Altas'
     ))
     fig.add_trace(go.Scatter(
-        x=df_irab['semana'], y=df_irab[col], 
+        x=df_irab['semana_epi_str'], y=df_irab[col], 
         mode='lines', name='IRAS Bajas'
     ))
     fig.add_trace(go.Scatter(
-        x=df_influ['semana'], y=df_influ[col], 
+        x=df_influ['semana_epi_str'], y=df_influ[col], 
         mode='lines', name='Influenza'
     ))
     fig.add_trace(go.Scatter(
-        x=df_covid['semana'], y=df_covid[col], 
+        x=df_covid['semana_epi_str'], y=df_covid[col], 
         mode='lines', name='Covid-19'
     ))
     fig.add_trace(go.Scatter(
-        x=df_otras['semana'], y=df_otras[col], 
+        x=df_otras['semana_epi_str'], y=df_otras[col], 
         mode='lines', name='Otras causas respiratorias'
     ))
 
     # Configuración del diseño del gráfico
     fig.update_layout(
         title=title,
-        xaxis_title='Semana',
+        xaxis_title='semana_epi_str',
         yaxis_title='N° Atenciones',
         legend_title='Leyenda',
         template=GLOBAL_THEME,
@@ -184,7 +184,7 @@ def grafico_area_atenciones_respiratorias(df, col, title):
         df_otras.rename(columns={col: 'Otras causas respiratorias'})
     ], axis=1)
 
-    # Eliminar duplicados de la columna 'semana' que se repiten en la concatenación
+    # Eliminar duplicados de la columna 'semana_epi_str' que se repiten en la concatenación
     df_concatenado = df_concatenado.loc[:, ~df_concatenado.columns.duplicated()]
 
     return fig, df_concatenado

@@ -13,7 +13,7 @@ def load_data(start_year, end_year):
     dataframes = []
     for year in range(start_year, end_year + 1):
         try:
-            df = pd.read_csv(f'data/df_{year}_rm_resp.csv')
+            df = pd.read_csv(f'data/AU_EPIYEAR_{year}.xlsx')
             df['año'] = year  # Agregar columna de año
             dataframes.append(df)
         except FileNotFoundError:
@@ -29,7 +29,7 @@ logo_icono = 'img/icon_SEREMIRM.png'
 st.logo(logo_horizontal, icon_image=logo_icono)
 
 # Selector de intervalo de años
-year_range = st.sidebar.slider('Seleccione el intervalo de años', 2018, 2024, 2025 (2018, 2023))
+year_range = st.sidebar.slider('Seleccione el intervalo de años', 2018, 2024, (2018, 2024))
 hospital = st.sidebar.selectbox('Seleccione si desea ver la información de APS o Hospital',['APS','Hospitales'],index=0)
 # Cargar datos según el intervalo de años seleccionado
 start_year, end_year = year_range
