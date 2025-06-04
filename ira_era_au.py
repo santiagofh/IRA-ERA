@@ -9,7 +9,7 @@ GLOBAL_THEME='seaborn'
 # Crear una función para cargar datos según el año seleccionado
 def load_data(year):
     try:
-        df = pd.read_excel(f'data/AU_EPIYEAR_{year}.xlsx')
+        df = pd.read_csv(f'data/df_{year}_rm_resp.csv')
         return df
     except FileNotFoundError:
         st.error(f'Archivo para el año {year} no encontrado.')

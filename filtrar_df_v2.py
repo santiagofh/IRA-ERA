@@ -18,7 +18,7 @@ dict_codigo_antiguo = pd.Series(deis_dd_antiguo['Código Región'].values,
 print(dict_codigo_antiguo)
 
 #%% Lectura de archivos CSV de Atenciones de Urgencia
-df_2025 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2025\AtencionesUrgencia2025.csv', 
+df_2025 = pd.read_csv(r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2025\AtencionesUrgencia2025.csv", 
                       sep=';', encoding='LATIN')
 df_2024 = pd.read_csv(r'C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ATENCIONES_URGENCIA\au_2024\AtencionesUrgencia2024.csv', 
                       sep=';', encoding='LATIN')
@@ -121,7 +121,7 @@ def filter_rm_resp_epi(df_epi):
     df_rm_resp['Causa_category'] = df_rm_resp.IdCausa.map(diccionario_causas_categorizada_au)
     
     # Agrupar por establecimiento, epiweek, causa, etc.
-    df_rm_resp = df_rm_resp.groupby(by=['NombreComuna','semana_epi_str','IdCausa','Causa'])[columnas].sum().reset_index()
+    df_rm_resp = df_rm_resp.groupby(by=['GLOSATIPOESTABLECIMIENTO','semana_epi_str','IdCausa','Causa'])[columnas].sum().reset_index()
     return df_rm_resp
 
 #%% Procesar cada año epidemiológico y exportar Excel por cada epiweek
